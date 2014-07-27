@@ -1,6 +1,7 @@
 # Summary
 
 * [Attendees](attendees/README.md)
+* [Coaches](coaches/README.md)
 * [Costs](costs/README.md)
 * [Sponsors](sponsors/README)
 * [Logistics](logistics/README.md)
