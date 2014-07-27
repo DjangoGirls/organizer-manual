@@ -1,0 +1,67 @@
+# Attendees
+
+The main idea of Django Girls is to bring new people into technology. We are focusing in females, but it is totally fine to organize workshops without any gender requirement.
+
+The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with computer can do the tutorial.
+
+However there are problems. If you organize something for free there is a chance that some people do not appear at all. They didn't invest any time or money, so it is easy for them to simply not come. That's why you should try to find people who really, really care.
+
+The only way you could measure somebody's commitment is their application form. Make sure that it contains questions that will give you necessery hints about the person.
+
+## How people sign up?
+
+### Local events
+
+If you don't plan any Financial Aid for participants at least a month (ideally two or three months) before the event you should open an application process. Give people two weeks to apply and explain why they should be the ones to attend the event, what is their motivation. You can create a simple Google Doc Form or use free service like Wufoo. Send people acceptance/rejection e-mail a week before the event. Make sure they confirm that they will attend.
+
+### International events
+
+If you organize an event and expect having people from many different countries you should start much earlier. There is a chance that you will have a people who needs visa. In this case you need to let people know if they are in at least one month before the event.
+
+#### Visa invitation letter
+
+It is also possible that you will need to provide the invitation letter for the participants who requires visa. It could like this:
+
+> Through this paper we certify  that _[name of participant]_, born _[birth date of participant]_, living at _[country]_, _[address]_, with passport number _[passport number of participant]_, valid from _[date]_ to _[date]_ is invited during the period of [date] to [date] to participate in a DjangoGirls workshops organised by _[name of some legal entity or you]_ with the address: _[address]_; phone: _[phone]_, e-mail: _[email]_.
+
+> _[here you can put some info about who organises the event - if it a part of conference you should put some info about it here]_
+
+> Free food and social activities will be provided by organisers during the period of stay.
+
+> We kindly request to grant a free visa for this particular participant of the Django Girls workshops.
+
+> [your name]
+
+You will need to send this letter (signed!) to the participant. You should also scan the signed papers and send the copy via e-mail.
+
+## Application form
+
+### Google Doc Form
+
+As we have mentioned you can use Google Doc Form for this purpose. You can do that by going to your Google Drive, clicking "CREATE" button and choosing "Form" and "Create and share" option. Then you should fill in all the necessary data: name, layout, etc..
+
+### Questions
+
+What kind of questions you should ask in the form? We have a list of those we used or those we think could be useful for future events.
+
+1. What's your name?
+2. Your e-mail address
+3. Your phone number. Include your country prefix
+4. Where are you from? City, country
+5. How ald are you?
+6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
+7. What is your current occupation? Tell us what you currently do: working, learning or something else?
+8. What is your background? Do you have expereince with making websites?
+9. Why do you want to attend Django Girls?
+10. What are you planning to do to share what you've learned with others?
+11. How did you heard about Django Girls? (Facebook | Twitter | From a friend | Other)
+
+#### Financial aid questions
+
+1. Do you need financial assistance to come and stay in [city]
+2. What is your current financial situation? Tell us why do you need financial assistance.
+3. How much money do you need? Give us an exact amount of euros you need. Try to break
+
+Some questions are not required. For example question 5 (age) is used only for making some statistics later.
+
+It is also a good idea to ask about the previous expereience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thank's to that you will be able to team up people based on how advance they are.
