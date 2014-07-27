@@ -7,4 +7,5 @@
 * [Website](website/README)
 * [Tutorial](tutorial/README)
 * [Resources](resources/README.md)
+* [Environment](environment/README)
 

@@ -65,3 +65,49 @@ What kind of questions you should ask in the form? We have a list of those we us
 Some questions are not required. For example question 5 (age) is used only for making some statistics later.
 
 It is also a good idea to ask about the previous expereience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thank's to that you will be able to team up people based on how advance they are.
+
+## How to choose attendees?
+
+If you receive a lot of applications you will face very hard problem: who should you choose. It was very hard for us to decide, but we come up with a way to score applications.
+
+We had four people scoring applications. We used Andrew Godwin's Django app created especially for this purpose. You can find it here: https://github.com/andrewgodwin/grorg. It is a good idea to ask Andrew directly about the app, especially if you have some funding from Django Software Foundation.
+
+### Scoring
+
+To ensure that the first score is not influenced by others, each person scored applications without knowing other three people scores. After making a first scored, one could see other marks.
+
+Order of application was also not determined - we scored in random order, so the probability that one person is scored higher/lower only because she was always on top/bottom of the list, was low.
+
+We scored each application from 1 to 5.
+
+Here is a list of things we took into account when scoring (suggested by Daniele Procida):
+
+* what is the realistic benefit to the applicant?
+
+* what is the realistic benefit to others?
+
+* does the applicant have clear, specific, concrete, realistic ideas about what to do with the knowledge?
+
+* does the applicant have clear, specific, concrete, realistic ideas about how she will share it?
+
+* do I feel the applicant really, really wants this opportunity, or is it just an interesting offer to her?
+
+* what is a overall value-for-money, if the applicant is asking for funds?
+
+* what is my overall feeling about the application?
+
+As you can see, there were a lot of points we took into account when scoring. It was very, very hard to get in. If the application was not very detailed - the chance to be accepted was very low. But writing a lot was not a recipe for success. We looked for concrete ideas and commitments in applications.
+
+## Acceptance/reject e-mails
+
+Make sure you write to all people who have applied - not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put addresses as Bcc, so they are hidden to other people who receive the e-mail.
+
+It's a good idea to create a waiting-list. We informed them that they didn't get in, but they were very close and asked them if they will be interested to join if some spot will be free.
+
+## People resigning
+
+We had a number of people who said they will not manage to come even though they confirmed their attendence before. The waiting list worked very well in this scenario.
+
+Be prepared to have some last minute (one day before the workshops) quitter. It's normal. As long as you have people who can use the spot - it is fine.
+
+
