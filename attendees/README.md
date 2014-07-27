@@ -98,6 +98,10 @@ Here is a list of things we took into account when scoring (suggested by Daniele
 
 As you can see, there were a lot of points we took into account when scoring. It was very, very hard to get in. If the application was not very detailed - the chance to be accepted was very low. But writing a lot was not a recipe for success. We looked for concrete ideas and commitments in applications.
 
+Look for a diverse group: the more different people are, the more crazy / fun / creative ideas will happen during the event.
+
+The final tip: follow you heart :) Choose those who convince you the most, those who need it, those who may want to change their lives and follow this path as a career. Choice is yours, but it's never easy.
+
 ## Acceptance/reject e-mails
 
 Make sure you write to all people who have applied - not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put addresses as Bcc, so they are hidden to other people who receive the e-mail.
