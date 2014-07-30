@@ -22,7 +22,7 @@ We recommend to talk to sponsors and ask about their goals. We always try to col
 
 ## What can't you offer to sponsors?
 
-The most important is: __not sell your attendees data (names, emails, etc).___ You can send mailing to attendees on behalf of the sponsor, but you can't share private information of people with them.
+The most important is: __not sell your attendees data (names, emails, etc).__ You can send mailing to attendees on behalf of the sponsor, but you can't share private information of people with them.
 
 Sponsors are of course free to hang out during the event and talk to attendees directly.
 
