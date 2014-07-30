@@ -1,8 +1,8 @@
 # Attendees
 
-The main idea of Django Girls is to bring new people into technology. We are focusing in females, but it is totally fine to organize workshops without any gender requirement.
+The main idea of Django Girls is to bring new people into technology. We are focusing on females, but it is totally fine to organize workshops without any gender requirement.
 
-The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with computer can do the tutorial.
+The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with computer can do it.
 
 However there are problems. If you organize something for free there is a chance that some people do not appear at all. They didn't invest any time or money, so it is easy for them to simply not come. That's why you should try to find people who really, really care.
 
@@ -12,7 +12,7 @@ The only way you could measure somebody's commitment is their application form. 
 
 ### Local events
 
-If you don't plan any Financial Aid for participants at least a month (ideally two or three months) before the event you should open an application process. Give people two weeks to apply and explain why they should be the ones to attend the event, what is their motivation. You can create a simple Google Doc Form or use free service like Wufoo. Send people acceptance/rejection e-mail a week before the event. Make sure they confirm that they will attend.
+If you don't plan any Financial Aid for participants at least a month (ideally two) before the event you should open an application process. Give people two weeks to apply and explain why they should be the ones to attend the event, what is their motivation. You can create a simple Google Doc Form or use free service like Wufoo. Send people acceptance/rejection e-mail a week before the event. Make sure they confirm that they will attend.
 
 ### International events
 
@@ -39,6 +39,8 @@ You will need to send this letter (signed!) to the participant. You should also 
 ### Google Doc Form
 
 As we have mentioned you can use Google Doc Form for this purpose. You can do that by going to your Google Drive, clicking "CREATE" button and choosing "Form" and "Create and share" option. Then you should fill in all the necessary data: name, layout, etc..
+
+You can also copy our existing template form by [clicking this link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
 
 ### Questions
 
@@ -104,7 +106,7 @@ The final tip: follow you heart :) Choose those who convince you the most, those
 
 ## Acceptance/reject e-mails
 
-Make sure you write to all people who have applied - not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put addresses as Bcc, so they are hidden to other people who receive the e-mail.
+Make sure you write to all people who have applied - not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put addresses as BCC, so they are hidden to other people who receive the e-mail.
 
 It's a good idea to create a waiting-list. We informed them that they didn't get in, but they were very close and asked them if they will be interested to join if some spot will be free.
 

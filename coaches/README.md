@@ -27,8 +27,19 @@ If the potential coach is not responding to e-mails for a couple of days, is not
 
 It would be also lovely if you could find some coaches among previous Django Girls attendees!
 
+## How to find coaches?
+
+There is lots of ways to do that but here is some ideas for you:
+
+- Google. Almost every country and city has some sort of local community of developers. Identify a local Python / Django meetup or user group and just attend it. Ask organizer for a couple of minutes with a microphone and don't be afraid to explain what Django Girls is and ask for their help. We're sure you'll find someone who will be willing to help.
+
+- Identify local Python / Django software houses or companies and send them an email asking for help.
+
+- Ask friends and friends of friends for help. You never know how connections can go a long way. Often one key person can introduce you further.
+
+
 ## Meta coach
 
-We think it is a good idea to have one more experienced coach on site. Not all of your coaches need to be super advanced. In case of some serious problems, the meta coach could help with solving them.
+We think it is a good idea to have one more experienced coach on site that is not assigned to any group. Not all of your coaches need to be super advanced. In case of some serious problems, the meta coach could help with solving them.
 
 
