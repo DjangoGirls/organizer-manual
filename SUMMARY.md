@@ -2,6 +2,7 @@
 
 * [Step by step](step_by_step/README.md)
 * [Attendees](attendees/README.md)
+* [Promotion](promotion/README.md)
 * [Coaches](coaches/README.md)
 * [Costs](costs/README.md)
 * [Sponsors](sponsors/README.md)
