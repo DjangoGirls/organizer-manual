@@ -9,15 +9,15 @@ Let's how it looks on the timeline:
 ### 3 months before
 
 - Apply for Django Girls organization
-- Announce a website, Twitter or Facebook
+- Announce a [website](website/README.html), Twitter or Facebook
 - Start promotion of Django Girls
-- Start looking for sponsors
-- Start looking for a venue
-- Start looking for coaches
+- [Start looking for sponsors](sponsors/README.html)
+- [Start looking for a venue](logistics/README.html)
+- [Start looking for coaches](coaches/README.html)
 
 ### 2 months before
 
-- Announce application process for attendees
+- [Announce application process for attendees](attendees/README.html)
 - Reach out to local press, universities and actively promote the event
 - Have a team of coaches ready
 - Secure a venue
@@ -28,13 +28,13 @@ Let's how it looks on the timeline:
 
 - Announce your coaches on the website
 - Choose attendees and inform them
-- Organize a dinner / meeting for your coaches and make sure they read Coach's manual and are familiar with the Tutorial.
+- Organize a dinner / meeting for your coaches and make sure they read Coach's manual and are familiar with the [Tutorial](tutorial/README.html).
 - Make sure attendees confirmed they attendance
-- Make sure all the logistics are figured out
+- [Make sure all the logistics are figured out](logistics/README.html)
 
 ### After the event
 
 - Follow up with global Django Girls and let us know how it went!
-- Be proud of yourself <3
+- __Be proud of yourself <3__
 
 All of this is further explained in chapters on the left but this is a bigger picture.
