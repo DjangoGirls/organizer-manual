@@ -9,8 +9,8 @@ Let's how it looks on the timeline:
 ### 3 months before
 
 - Apply for Django Girls organization
-- Announce a [website](website/README.html), Twitter or Facebook
-- Start promotion of Django Girls
+- Announce a [website](website/README.html), [Twitter or Facebook](promotion/README.html)
+- [Start promotion of Django Girls](promotion/README.html)
 - [Start looking for sponsors](sponsors/README.html)
 - [Start looking for a venue](logistics/README.html)
 - [Start looking for coaches](coaches/README.html)
@@ -18,11 +18,11 @@ Let's how it looks on the timeline:
 ### 2 months before
 
 - [Announce application process for attendees](attendees/README.html)
-- Reach out to local press, universities and actively promote the event
-- Have a team of coaches ready
+- [Reach out to local press, universities and actively promote the event](promotion/README.html)
+- [Have a team of coaches ready](coaches/README.html)
 - Secure a venue
 - Start looking for catering
-- Still look for sponsors
+- [Still look for sponsors](sponsors/README.html)
 
 ### 1 months before
 
