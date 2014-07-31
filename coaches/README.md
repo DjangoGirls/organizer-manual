@@ -19,13 +19,9 @@ It is important to start looking for coaches as soon as possible. Create a separ
 7. Will you have time to meet us and other coaches a day before the workshops?
 8. Do you have any previous experience with teaching others? Tell us about it.
 
-## How to choose the coach?
+## How many coaches do I need?
 
-Coaches are important, so it is good they are people you trust and you know they are firendly, patient and willing to help. You need somebody who will invest their time before, during and after workshops.
-
-If the potential coach is not responding to e-mails for a couple of days, is not willing to meet other coaches or help with installation part, then you probably want somebody else.
-
-It would be also lovely if you could find some coaches among previous Django Girls attendees!
+Participants always work in groups of 3 attendees and 1 coach, so if you're organizing an event for 30 participants, you'll need 10 coaches.
 
 ## How to find coaches?
 
@@ -37,6 +33,13 @@ There is lots of ways to do that but here is some ideas for you:
 
 - Ask friends and friends of friends for help. You never know how connections can go a long way. Often one key person can introduce you further.
 
+## How to choose the coach?
+
+Coaches are important, so it is good they are people you trust and you know they are firendly, patient and willing to help. You need somebody who will invest their time before, during and after workshops.
+
+If the potential coach is not responding to e-mails for a couple of days, is not willing to meet other coaches or help with installation part, then you probably want somebody else.
+
+It would be also lovely if you could find some coaches among previous Django Girls attendees!
 
 ## Meta coach
 
