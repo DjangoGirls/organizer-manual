@@ -32,6 +32,10 @@ Let's how it looks on the timeline:
 - Make sure attendees confirmed they attendance
 - [Make sure all the logistics are figured out](logistics/README.html)
 
+### 1 week before
+
+- Confirm with attendees one last time that they're still planning to attend the event! Make some last minute replacements if someone cancels.
+
 ### After the event
 
 - Follow up with global Django Girls and let us know how it went!

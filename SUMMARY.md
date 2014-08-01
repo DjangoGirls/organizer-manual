@@ -7,6 +7,7 @@
 * [Costs](costs/README.md)
 * [Sponsors](sponsors/README.md)
 * [Logistics](logistics/README.md)
+* [Example schedule](example_schedule/README.md)
 * [Website](website/README.md)
 * [Tutorial](tutorial/README.md)
 * [Resources](resources/README.md)
