@@ -16,6 +16,16 @@ We do this to get people familiar with errors and bugs which happen to every pro
 
 This technique also allows people to better understand how it actually works. If you just copy and paste the code, you can't learn how it works. If you need really think about it - this is when it starts to click.
 
+## Goal
+
+The goal of the tutorial is to build a working web application and deploy it to the internet.
+
+But the goal is not to turn people into programmers into one day - it's not possible. We want to show the sparks, get people excited and show them how fun it is to build something.
+
+__Getting people excited and making them fall in love with building thins is our mission. __
+
+Constantly show them a bigger picture, talk about open source communities, bring in the larger context of the internet.
+
 ## Can I use my own resource?
 
 Yes, but make sure you've tested it before on someone.

@@ -8,7 +8,7 @@ Let's how it looks on the timeline:
 
 ### 3 months before
 
-- Apply for Django Girls organization
+- __Apply for Django Girls organization__
 - Announce a [website](website/README.html), [Twitter or Facebook](promotion/README.html)
 - [Start promotion of Django Girls](promotion/README.html)
 - [Start looking for sponsors](sponsors/README.html)
