@@ -32,4 +32,4 @@ Yes, but make sure you've tested it before on someone.
 
 ## I found a bug in the tutorial!
 
-Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. Every help is really appriciated.
+Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. Every help is really appreciated.
