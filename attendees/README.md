@@ -50,7 +50,7 @@ What kind of questions you should ask in the form? We have a list of those we us
 2. Your e-mail address
 3. Your phone number. Include your country prefix
 4. Where are you from? City, country
-5. How ald are you?
+5. How old are you?
 6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
 7. What is your current occupation? Tell us what you currently do: working, learning or something else?
 8. What is your background? Do you have expereince with making websites?
@@ -62,7 +62,7 @@ What kind of questions you should ask in the form? We have a list of those we us
 
 1. Do you need financial assistance to come and stay in [city]
 2. What is your current financial situation? Tell us why do you need financial assistance.
-3. How much money do you need? Give us an exact amount of euros you need. Try to break
+3. How much money do you need? Give us an exact amount of euros you need.
 
 Some questions are not required. For example question 5 (age) is used only for making some statistics later.
 
