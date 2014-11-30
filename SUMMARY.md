@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Step by step](step_by_step/README.md)
 * [Attendees](attendees/README.md)
 * [Promotion](promotion/README.md)
@@ -12,4 +13,5 @@
 * [Tutorial](tutorial/README.md)
 * [Resources](resources/README.md)
 * [Environment](environment/README.md)
+* [After the event](after_the_event/README.md)
 
