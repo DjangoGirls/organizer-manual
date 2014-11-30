@@ -46,6 +46,10 @@ Have some fresh fruit or healthy snacks (energy bars!) laying around the venue. 
 
 This is only if you have enough money for it.
 
+### Temporary tattoos!
+
+This is so far the most fun and most affordable way to do something nice on your event. You only need to buy a [Temporary Tattoo Paper](http://www.amazon.com/Silhouette-MEDIA-TATTOO-Temporary-Tattoo-Paper/dp/B0043WJ3OA/), print [our ready-to-go designs](https://github.com/DjangoGirls/resources/tree/master/Design/Tattoos) on your home printer, cut them out and you're good to go! You can get a lot of tattoos for just a couple of bucks.
+
 ### T-shirts for coaches
 
 Order t-shirts for your coaches as a thank-you gift, but it also makes them more visible in the venue. You can find t-shirt designs in our [resources page](resources/README.html).

@@ -11,5 +11,6 @@ Inside you can find:
 - Presentation for sponsors
 - Presentation for openning Django Girls
 - Presentation for closing Django Girls day
+- Tattoos
 
 Feel free to fork, contribute with your own resources and pull request! <3
