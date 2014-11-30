@@ -27,8 +27,8 @@ Let's how it looks on the timeline:
 ### 1 months before
 
 - Announce your coaches on the website
-- Choose attendees and inform them
-- Organize a dinner / meeting for your coaches and make sure they read Coach's manual and are familiar with the [Tutorial](tutorial/README.html).
+- [Choose attendees and inform them](http://organize.djangogirls.org/attendees/README.html#how-to-choose-attendees)
+- Organize a dinner / meeting for your coaches and make sure they read [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](tutorial/README.html).
 - Make sure attendees confirmed they attendance
 - [Make sure all the logistics are figured out](logistics/README.html)
 
@@ -38,7 +38,7 @@ Let's how it looks on the timeline:
 
 ### After the event
 
-- Follow up with global Django Girls and let us know how it went!
+- Follow up with global Django Girls and let us know how it went! [Here are some ideas](/after_the_event/README.html).
 - __Be proud of yourself <3__
 
 All of this is further explained in chapters on the left but this is a bigger picture.
