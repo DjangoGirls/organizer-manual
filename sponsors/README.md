@@ -30,7 +30,7 @@ Sponsors are of course free to hang out during the event and talk to attendees d
 
 If you have time for that, we really recommend creating a simple Sponsorship Offer - a PDF file, a couple of pages. Tell who you are, what Django Girls is (and why it's so awesome!), tell who is going to attend the event and what's the value for them.
 
-You can use Sponsorship Offer we prepared for our first event and modify it to your needs. [LINK HERE!]
+You can use the [Sponsorship Offer](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) we prepared for our first event and modify it to your needs.
 
 Price your sponsorships in a range of 300 - 1000 euros, but remember that even the smallest contributions are important.
 
@@ -39,9 +39,10 @@ Price your sponsorships in a range of 300 - 1000 euros, but remember that even t
 - Look for similar events in your city and try contacting companies who support those events
 - E-mail or call local companies that are familiar to you
 - Post "call for help" on your social media channels, maybe someone will join you!
-- Reach to global companies and organizations like [Github](http://community.github.com/) or ask for help [Django Software Foundation](https://djangoproject.com/)
-- Python Software Foundation provides a 50$ per attendee grant for Python Educational Program (you are eglible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
 - Create a list of local companies who use Python on daily basis and email them asking for help
+- Reach to global companies and organizations like [Github](http://community.github.com/) or ask for help [Django Software Foundation](https://djangoproject.com/). Mind that Django Software Foundation is a charity with a very limited budget, so ask them only if you really need their help.
+- Python Software Foundation provides a 50$ per attendee grant for Python Educational Program (you are eglible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
+
 
 ### How to contact sponsors?
 
