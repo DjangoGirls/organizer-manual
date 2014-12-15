@@ -9,8 +9,10 @@ Inside you can find:
 - T-shirt (1 design)
 - Bag (1 design)
 - Presentation for sponsors
+- Presentation for media/community promotion
 - Presentation for openning Django Girls
 - Presentation for closing Django Girls day
 - Tattoos
+- Email and tweet templates
 
 Feel free to fork, contribute with your own resources and pull request! <3
