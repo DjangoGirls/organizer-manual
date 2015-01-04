@@ -1,10 +1,10 @@
 # Step by step
 
-Before we go into details, let's have a look on a bigger picture of organizing Django Girls event.
+Before we go into details, let's have a look on the bigger picture of organizing a Django Girls event.
 
-You should organizing start at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothely. Of course, the actual amount of work could be fitted into 40-50 hours of work total, so if you spread it into 3 months period, you can totally do it in your free time.
+You should start organizing at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothly. Of course, the actual amount of work could be fitted into 40-50 hours of work total, so if you spread it into 3 months period, you can totally do it in your free time.
 
-Let's how it looks on the timeline:
+Let's see how it looks on the timeline:
 
 ### 3 months before
 
@@ -28,8 +28,8 @@ Let's how it looks on the timeline:
 
 - Announce your coaches on the website
 - [Choose attendees and inform them](http://organize.djangogirls.org/attendees/README.html#how-to-choose-attendees)
-- Organize a dinner / meeting for your coaches and make sure they read [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](tutorial/README.html).
-- Make sure attendees confirmed they attendance
+- Organize a dinner / meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](tutorial/README.html).
+- Make sure attendees confirmed their attendance
 - [Make sure all the logistics are figured out](logistics/README.html)
 
 ### 1 week before
@@ -41,4 +41,4 @@ Let's how it looks on the timeline:
 - Follow up with global Django Girls and let us know how it went! [Here are some ideas](/after_the_event/README.html).
 - __Be proud of yourself <3__
 
-All of this is further explained in chapters on the left but this is a bigger picture.
+All of this is further explained in the chapters on the left but this is a bigger picture.
