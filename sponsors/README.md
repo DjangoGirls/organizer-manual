@@ -1,6 +1,6 @@
 # Sponsors
 
-Getting sponsors on board may sounds scary, but in reality it is not so difficult. Django Girls aims to  a demographic of usually young women who are interested in technology and are possible employees or customers of company that may sponsor your event.
+Getting sponsors on board may sounds scary, but in reality it is not so difficult. Django Girls aims to a demographic of usually young women who are interested in technology and are possible employees or customers of a company that may sponsor your event.
 
 We are looking for sponsors who are active participants in the local technology scene, whether it’s a startup or a big corporation, a non-profit or a government organization.
 
@@ -10,7 +10,7 @@ Django Girls should always be kept non-profit: if there’s money left, it shoul
 
 ## What can you offer to sponsors?
 
-The usual offer is to give sponsor opportunity to show their product, offer or company to people who are attending the event. That may include:
+The usual offer is to give sponsors an opportunity to show their product, offer or company to people who are attending the event. That may include:
 
 - logo, description and link on the website
 - banner / roll-up in the venue during the event
@@ -18,11 +18,11 @@ The usual offer is to give sponsor opportunity to show their product, offer or c
 - a couple of minutes for a sponsor to talk during the event
 - e-mail send to attendees after the event (but sent by you on behalf of the sponsor!)
 
-We recommend to talk to sponsors and ask about their goals. We always try to colaborate with our partners and we make sure they get actual value and are happy with the results.
+We recommend to talk to sponsors and ask about their goals. We always try to collaborate with our partners and we make sure they get actual value and are happy with the results.
 
 ## What can't you offer to sponsors?
 
-The most important is: __not sell your attendees data (names, emails, etc).__ You can send mailing to attendees on behalf of the sponsor, but you can't share private information of people with them.
+The most important is: __not sell your attendees data (names, emails, etc).__ You can send e-mails to attendees on behalf of the sponsor, but you can't share private information of people with them.
 
 Sponsors are of course free to hang out during the event and talk to attendees directly.
 
@@ -32,7 +32,7 @@ If you have time for that, we really recommend creating a simple Sponsorship Off
 
 You can use the [Sponsorship Offer](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) we prepared for our first event and modify it to your needs.
 
-Price your sponsorships in a range of 300 - 1000 euros, but remember that even the smallest contributions are important.
+Price your sponsorships in a range of 300 - 1000 Euro, but remember that even the smallest contributions are important.
 
 ### Who can be a sponsor?
 
@@ -40,8 +40,8 @@ Price your sponsorships in a range of 300 - 1000 euros, but remember that even t
 - E-mail or call local companies that are familiar to you
 - Post "call for help" on your social media channels, maybe someone will join you!
 - Create a list of local companies who use Python on daily basis and email them asking for help
-- Reach to global companies and organizations like [Github](http://community.github.com/) or ask for help [Django Software Foundation](https://djangoproject.com/). Mind that Django Software Foundation is a charity with a very limited budget, so ask them only if you really need their help.
-- Python Software Foundation provides a 50$ per attendee grant for Python Educational Program (you are eglible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
+- Reach out to global companies and organizations like [Github](http://community.github.com/) or ask the [Django Software Foundation](https://djangoproject.com/) for help. Keep in mind that the Django Software Foundation is a charity with a very limited budget, so only ask them if you really need their help.
+- The Python Software Foundation provides a 50$ per attendee grant for Python Educational Programs (you are eglible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
 
 
 ### How to contact sponsors?
@@ -64,7 +64,7 @@ X X
 Unfortunately, you also have to take care of transfering the money from sponsor to provider. You can do it in three ways:
 
 - If you have your own company, you can just invoice them and pay for the costs. That's probably the simplest way.
-- If you don't have your own company, ask local Python community or your friends if they can help with that.
+- If you don't have your own company, ask the local Python community or your friends if they can help with that.
 - If this doesn't work either, you can also ask sponsors to pay for food / printing directly.
 
 

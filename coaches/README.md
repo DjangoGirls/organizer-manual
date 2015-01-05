@@ -1,10 +1,10 @@
 # Coaches
 
-To make the workshops sucessful, you need to have good coaches. You don't necessarily need someone with a huge Python/Django knowledge. You are looking for people who can teach others and can inspire them to learn.
+To make the workshop successful, you need to have good coaches. You don't necessarily need someone with a huge Python/Django knowledge. You are looking for people who can teach others and can inspire them to learn.
 
-If you run the event as a part of Python/Django conference you will proobably have no problem with finding people willing to help. In case of stand-alone event - you should contact the local Python/Django community. There are also people who like to travel and help out with this kind of event.
+If you run the event as a part of a Python/Django conference you will proobably have no problem with finding people willing to help. In case of a stand-alone event - you should contact the local Python/Django community. There are also people who like to travel and help out with this kind of event.
 
-Make sure you have some backup plan if one or more of your coaches will not appear.
+Make sure you have some backup plan if one or more of your coaches won't show up.
 
 ## Call for coaches
 
@@ -13,10 +13,10 @@ It is important to start looking for coaches as soon as possible. Create a separ
 1. What's your name?
 2. What's your e-mail?
 3. Your Github username if you have one.
-4. What operating systems are you comfortable with? As much as possible we would like to give you a group that work on the same operating system as yours. (Windows | Mac OS X | Linux | Other)
+4. What operating systems are you comfortable with? If possible we would like to give you a group that works with the same operating system as your. (Windows | Mac OS X | Linux | Other)
 5. What languages do you speak?
 6. Will you have time before the workshops to help your group (3 people) install Python and Django via Google Hangout/Skype/e-mail?
-7. Will you have time to meet us and other coaches a day before the workshops?
+7. Will you have time to meet us and other coaches a day before the workshop?
 8. Do you have any previous experience with teaching others? Tell us about it.
 
 ## How many coaches do I need?
@@ -25,21 +25,21 @@ Participants always work in groups of 3 attendees and 1 coach, so if you're orga
 
 ## How to find coaches?
 
-There is lots of ways to do that but here is some ideas for you:
+There are lots of ways to do that but here are some ideas for you:
 
-- Google. Almost every country and city has some sort of local community of developers. Identify a local Python / Django meetup or user group and just attend it. Ask organizer for a couple of minutes with a microphone and don't be afraid to explain what Django Girls is and ask for their help. We're sure you'll find someone who will be willing to help.
+- Google. Almost every country and city has some sort of local community of developers. Identify a local Python / Django meetup or user group and just attend it. Ask the organizer for a couple of minutes on the microphone and don't be afraid to explain what Django Girls is and ask for their help. We're sure you'll find someone who will be willing to help.
 
-- Identify local Python / Django software houses or companies and send them an email asking for help.
+- Identify the local Python / Django software houses or companies and send them an email asking for help.
 
 - Ask friends and friends of friends for help. You never know how connections can go a long way. Often one key person can introduce you further.
 
 ## How to choose the coach?
 
-Coaches are important, so it is good they are people you trust and you know they are firendly, patient and willing to help. You need somebody who will invest their time before, during and after workshops.
+Coaches are important, so it is good to know they are people you trust and are firendly, patient and willing to help. You need somebody who will invest their time before, during and after the workshop.
 
-If the potential coach is not responding to e-mails for a couple of days, is not willing to meet other coaches or help with installation part, then you probably want somebody else.
+If the potential coach is not responding to e-mails for a couple of days, is not willing to meet other coaches or help with the installation party, then you probably want somebody else.
 
-It would be also lovely if you could find some coaches among previous Django Girls attendees!
+It would also be lovely if you could find some coaches among previous Django Girls attendees!
 
 ## Meta coach
 
