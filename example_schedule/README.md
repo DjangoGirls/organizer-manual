@@ -28,4 +28,4 @@ __6pm__ Official ending. Again: thank sponsors, coaches and attendees. Make sure
 
 __6.30pm__ Wrap up.
 
-We intentionally don't do too many breaks between workshop session, but make sure teams know that they can take a break whenever they want. People don't like stopping their work in the middle, so it's best if a team can decide when they want to take a break. Make sure there is a place in the venue (or outside) where they can talk, laugh and be loud :)
+We intentionally don't do too many breaks between workshop session, but make sure teams know that they can take a break whenever they want. People don't like stopping their work in the middle, so it's best if a team can decide when they want to take a break. Make sure there is a place in the venue (or outside) where they can talk, laugh and be loud :) It is also a good idea to do a little activity like a game with everyone either before the workshop starts or during lunch to give people the opportunity to get to know each other. People will be working in their groups for most of the day, try to encourage them to get to know other attendees and coaches as well.
