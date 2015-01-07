@@ -57,6 +57,7 @@ What kind of questions should you ask in the form? We have a list of those we us
 9. Why do you want to attend Django Girls?
 10. What are you planning to do to share what you've learned with others?
 11. How did you heard about Django Girls? (Facebook | Twitter | From a friend | Other)
+12. What language are you more comfortable with? (English| (language of your country) | Both)
 
 #### Financial aid questions
 
@@ -66,7 +67,7 @@ What kind of questions should you ask in the form? We have a list of those we us
 
 Some questions are not required. For example question 5 (age) is only used for statistical purposes.
 
-It is also a good idea to ask about the previous experience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thanks to that you will be able to team up people based on how advanced they are.
+It is also a good idea to ask about the previous experience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thanks to that you will be able to team up people based on how advanced they are. Also ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
 ## How to choose attendees?
 
