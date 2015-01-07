@@ -6,14 +6,21 @@ Congratulations, you MADE IT! And we want to hear all about it :)
 
 #### Thank everyone
 
-Sending a little thank you note to your attendees, coaches and sponsors is important. Remember to also treat yourself with something you like to relax and decompress -- you did an amazing job!
+Sending a little thank you note to your attendees, coaches and sponsors is important. Remember to also treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
 
 #### Inform participants where they can look for help
 
 The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
 - Invite them to our Gitter chat
 - Give them a list of local events and meetups
-- Maybe even organize a follow up meeting to meet for a coffee?:)
+- Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
+- Maybe even organize a follow up meeting to meet for a coffee?:) If possible already announce the date of the follow-up event at the workshop so people can get excited about the next meeting.
+
+
+### Tell people about our "Your Django Story" interview series
+
+Please invite people to read the interviews on the [Django Girls Blog](http://blog.djangogirls.org) and also encourage people to share their own stories, whether they started working as a programmer professionally or started building little side projects at home using Django after attending the workshop. All they have to do is to ping us at story@djangogirls.org. We want to keep the interview series going for a long time and we would love to read more stories of Django Girls alumni.
+
 
 #### Invite your participants to our global Django Girls mailing list
 
