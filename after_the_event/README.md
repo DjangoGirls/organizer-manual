@@ -14,10 +14,10 @@ The goal of Django Girls is to shape future software developers, so we shouldn't
 - Invite them to our Gitter chat
 - Give them a list of local events and meetups
 - Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
-- Maybe even organize a follow up meeting to meet for a coffee?:) If possible already announce the date of the follow-up event at the workshop so people can get excited about the next meeting.
+- Maybe even organize a follow up meeting to meet for a coffee?:) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
 
 
-### Tell people about our "Your Django Story" interview series
+#### Tell people about our "Your Django Story" interview series
 
 Please invite people to read the interviews on the [Django Girls Blog](http://blog.djangogirls.org) and also encourage people to share their own stories, whether they started working as a programmer professionally or started building little side projects at home using Django after attending the workshop. All they have to do is to ping us at story@djangogirls.org. We want to keep the interview series going for a long time and we would love to read more stories of Django Girls alumni.
 
