@@ -32,11 +32,11 @@ Usually buying some pastries or donuts on the way to the venue is enough. Order 
 
 ### Lunch
 
-Order something fresh and tasty. Plan for ~25% of vegetarian option (some people just prefer veggies even if they are not vegetarians).
+Order something fresh and tasty. Plan for ~25% of vegetarian option (some people just prefer veggies even if they are not vegetarians). If you don't have a lot of money buying bread and different toppings like sausage and cheese, peanut butter etc. at a store so people can make themselves sandwiches are a good option.
 
 ### Drinks
 
-Buy some water, juices and lemons with paper/plastic cups before the event so you don't have to overpay the catering company for this stuff. Usually 1 liter per person per day is enough.
+Buy some water, juices and lemons with paper/plastic cups before the event so you don't have to overpay the catering company for this stuff. Usually 1 liter per person per day is enough. If you don't have a car transporting that much water might be a problem. You can ask some of you coaches or other helpers to meet you at a store the morning of the workshop and help you carry the water to the venue. In case you run out of water or food it's good to have a helper available who can go to the store for you during the workshop.
 
 ### Snacks
 
