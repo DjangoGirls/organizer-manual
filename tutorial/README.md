@@ -22,7 +22,7 @@ The goal of the tutorial is to build a working web application and deploy it to 
 
 But the goal is not to turn people into programmers into one day - it's not possible. We want to show the sparks, get people excited and show them how fun it is to build something.
 
-__Getting people excited and making them fall in love with building thins is our mission. __
+__Getting people excited and making them fall in love with building things is our mission. __
 
 Constantly show them a bigger picture, talk about open source communities, bring in the larger context of the internet.
 
@@ -32,4 +32,4 @@ Yes, but make sure you've tested it before on someone.
 
 ## I found a bug in the tutorial!
 
-Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All help is really appreciated.
+Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help help are really appreciated.
