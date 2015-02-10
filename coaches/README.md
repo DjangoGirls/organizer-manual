@@ -14,10 +14,13 @@ It is important to start looking for coaches as soon as possible. Create a separ
 2. What's your e-mail?
 3. Your Github username if you have one.
 4. What operating systems are you comfortable with? If possible we would like to give you a group that works with the same operating system as your. (Windows | Mac OS X | Linux | Other)
-5. What languages do you speak?
-6. Will you have time before the workshops to help your group (3 people) install Python and Django via Google Hangout/Skype/e-mail?
-7. Will you have time to meet us and other coaches a day before the workshop?
-8. Do you have any previous experience with teaching others? Tell us about it.
+5. If we won't find a group suitable for your operating system are you willing to work with Windows?
+6. What languages do you speak?
+7. Will you have time before the workshops to help your group (3 people) install Python and Django via Google Hangout/Skype/e-mail?
+8. Will you have time to meet us and other coaches a day before the workshop?
+9. Do you have any previous experience with teaching others? Tell us about it.
+
+You can also copy our existing form template by [clicking this link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
 
 ## How many coaches do I need?
 
@@ -44,5 +47,15 @@ It would also be lovely if you could find some coaches among previous Django Gir
 ## Meta coach
 
 We think it is a good idea to have one more experienced coach on site that is not assigned to any group. Not all of your coaches need to be super advanced. In case of some serious problems, the meta coach could help with solving them.
+
+## Coaches briefing
+
+It is good to create a meeting/hangout for coaches before the event. They shoudl at least know each other so that they will know who to ask for help during the workshops.
+
+Some information worth mentioning:
+- the coaches should know the detailed schedule for the event (also tell them if and when there will be an official introduction)
+- it's important to hilight that they should provide help for the attendees not only with the technical details - it will make the attendees feel safe if the coach will know some other details
+- if this is possible ask the coaches to verify if their group is at the level they have stated in the registration form
+- ask the coaches if they need help with the tutorial - maybe some of them have some specific questions or want to discuss it with others?
 
 

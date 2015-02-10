@@ -69,11 +69,19 @@ Some questions are not required. For example question 5 (age) is only used for s
 
 It is also a good idea to ask about the previous experience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thanks to that you will be able to team up people based on how advanced they are. Also ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
+#### Form submit notifications
+
+By default Google Forms won't send any e-mail about the form being submitted. You won't be notified and the person filling out the form won't know what information she has submitted. This is of course not required but people like to have some form of confirmation that the data was saved.
+
+There are many ways of solving this issue. The easiest way of setting up notifications can be achieved by installing a simple plugin from Google. It is [available in the Add-on store](https://chrome.google.com/webstore/detail/form-notifications/bbpdeojefjfhaelgljjcadpcckdfcdod). The disatvantage of this solution is that the e-mails will be sent from your private gmail inbox - not the your_city@djangogirls.org one. If you know some JavaScript basics you can also play with Script Manager for a more customisable notification system. Follow the detailed instructions found [here](http://davidwees.com/content/email-confirmations-google-forms/) and use [our version of the script](https://gist.github.com/aniav/926f4667911ba1d138b8) instead of the code shown there. We have already used this way in several events - it's safe.
+
 ## How to choose attendees?
 
 If you receive a lot of applications you will face a very hard problem: who should you choose. It was very hard for us to decide, but we came up with a way to score applications.
 
 We had four people scoring applications. We used Andrew Godwin's Django app created especially for this purpose. You can find it here: https://github.com/andrewgodwin/grorg. It is a good idea to ask Andrew directly about the app, especially if you have some funding from the Django Software Foundation.
+
+You can also add additional columns for the people scoring the applications where they would put their scores (it's nice to colour them!). You should also hide the columns with personal information so that the scores won't be influenced by these details. After the scoring process is done you should sum up all the votes in an additional column (e.g. called TOTAL) and sort the whole document by the column with the total score (Data > Sort sheet by column X Z → A). You will then have a spreadhsheet with the people that will be able to attend the event as the first ones.
 
 ### Scoring
 
@@ -109,7 +117,7 @@ The final tip: follow you heart :) Choose those who convince you the most, those
 
 Make sure you write to all people who have applied - not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put the addresses as BCC, so they are hidden to other people who receive the e-mail.
 
-It's a good idea to create a waiting-list. We informed them that they didn't get in, but they were very close and asked them if they will be interested to join if a spot will be available.
+It's a good idea to create a waiting-list. We informed them that they didn't get in, but they were very close and asked them if they will be interested to join at a short notice if a spot will be available.
 
 ## People resigning
 
