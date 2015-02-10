@@ -50,8 +50,8 @@ What kind of questions should you ask in the form? We have a list of those we us
 2. Your e-mail address?
 3. Your phone number. Include your country prefix
 4. Where are you from? City, country
-5. How ald are you?
-6. Your laptop: What operating system do you use? (Windows | Mac OS X | Linux | Other)
+5. How old are you?
+6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
 7. What is your current occupation? Tell us what you currently do: working, learning or something else?
 8. What is your background? Do you have experience with making websites?
 9. Why do you want to attend Django Girls?
