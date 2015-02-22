@@ -34,3 +34,7 @@ Nós mal podemos esperar para ouvir suas experiências. Seria ótimo se você pu
 4. Como podemos fazer o Django Girls melhor?
 
 Apenas envie isso para a gente em hello@djangogirls.org :)
+
+#### Compartilhe o que você aprendeu no grupo Django Girls Organizers
+
+Se você quiser pode também dividir tudo com o grupo Django Girls Organizer que você já tem acesso. Temos certeza que outras organizadoras vão gostar também.
