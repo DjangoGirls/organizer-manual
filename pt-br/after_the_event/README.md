@@ -23,3 +23,14 @@ Por favor convide as pessoas para ler as entrevistas no [Django Girls Blog](http
 #### Convide seus participantes para nosso mailing Django Girls global
 
 Nós queremos construir uma comunidade global de mulheres que ajudam, empoderam e apoiam uma as outras no aprendizado de como programar. Considere convidar todos os seus participantes e treinadores para [nosso mailing Django Girls mailing ](https://groups.google.com/forum/#!forum/django-girls). [Nos avise](mailto:hello@djangogirls.org) e nós vamos te dar permissão para administrar o grupo para você convidá-los via Google Group.
+
+#### Nos conte como foi!
+
+Nós mal podemos esperar para ouvir suas experiências. Seria ótimo se você pudesse dividir o que aprendeu com a gente. Essa lista de perguntas pode ser útil:
+
+1. Quantos participantes foram no seu evento?
+2. Quantos terinadores foram no seu evento?
+3. Qual foi a coisa mais importante que você descobriu durante o workshop?
+4. Como podemos fazer o Django Girls melhor?
+
+Apenas envie isso para a gente em hello@djangogirls.org :)
