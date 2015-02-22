@@ -1,3 +1,7 @@
+# Projeto de tradução do Django Girls - Manual do Organizador
+Para participar faça um clone do projeto e inicie a tradução a partir do branch _pt-br-translation_.
+Descreva também [nesta planilha](https://docs.google.com/spreadsheets/d/1oCe_Rgaxr-kSq5tfjY1BlZ52XR1jM5opfteyFSE8pbk/edit#gid=0) qual conteúdo você pretende traduzir.
+
 # Django Girls Organizer's Manual
 
 If you are reading it, that means you are interested in organizing your own Django Girls event. That's awesome!
