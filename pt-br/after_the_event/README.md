@@ -38,3 +38,10 @@ Apenas envie isso para a gente em hello@djangogirls.org :)
 #### Compartilhe o que você aprendeu no grupo Django Girls Organizers
 
 Se você quiser pode também dividir tudo com o grupo Django Girls Organizer que você já tem acesso. Temos certeza que outras organizadoras vão gostar também.
+
+#### Considere escrever um post no blog
+
+Compartilhe com o mundo como foi legal! Considere fazer como Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) e [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014)
+descrevendo todo o evento no nosso blog. É uma boa maneira de agradecer todos, reviver memórias e mostrar seu evento para o mundo. se você está planejando organizar outro evento Django Girls no futuro, isso também irá ajudar a atrair apoios -- você pode apenas enviar para eles o link para convencê-los que uma Django Girls na sua cidade é incrível!
+
+Nós ficaremos felizes em publicar -- só nos avise. Você sabe onde nos encontrar :)
