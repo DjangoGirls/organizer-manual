@@ -19,3 +19,13 @@ Nossa missão é trazer mais mulheres para a área tecnológica fazendo a tecnol
 Um evento Django Girls é um workshop de um dia + encontro da organização na tarde anterior ou remotamente via Google Hangout / Skype. Durante todo o dia os participantes vão trabalhar em pequenos grupos (três participantes + um treinador) e passar pelo tutorial para criar um blog com sucesso e publicá-lo na internet.
 
 Os eventos Django Girls são sempre sem fins lucrativos e gratuitos para os participantes. Nós não pagamos treinadores, palestrantes ou organizadores. Os participantes não precisam de nenhum conhecimento prévio sobre programação e não há limites de idade. Tudo o que o que o participante precisa é de um laptop e alguma curiosidade.
+
+### Filosofia
+
+- __A experiência do participante importa__. Quando você está aprendendo algo novo é comum ficar perdida ou desencorajada porque é difícil. Por isso a experiência de aprendizado, um ambiente cooperante e amigável importa muito. Tenha certeza que eles se sintam como uma criança na DisneyLand, animadas para ir numa aventira. Está tudo nos pequenos grandes detalhes.
+- __Todo mundo pode fazer__. Tecnologia é para pessoas e qualquer um pode ser o criador. Mostre o cenário e os estimule tentar coisas novas.
+- __É tudo sobre pessoas__. Pessoas é o ponto central do que fazemos. Nós criamos eventos que nós mesmos queremos participar. Pense sobre suas experiências, os ajude, seja acolhedora e tenha certeza que ninguém fique perdido. Seja útil e proativa. Sorria, pergunte, faça eles se sentirem incríveis.
+
+## Pronta?
+
+Aprenda o que é preciso para organizar um evento Django Girls.
