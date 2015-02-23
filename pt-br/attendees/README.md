@@ -22,56 +22,97 @@ Se você não planeja prover qualquer assistência financeira para os participan
 ### Eventos internacionais
 
 If you organize an event and expect having people from many different countries you should start much earlier. There is a chance that you will have a people who need visas. In this case you need to let people know if they are in at least one month before the event.
-Se você organizar um evento que expera receber pessoas de diferentes nacionalidades você deve planejar com muito mais antecedência. Existe a possibilidade de que alguém precise de visto. Neste caso você tem que conscientizar as pessoas da confirmação com pelo menos um mês de antecedência ao evento.
+Se você organizar um evento que expera receber pessoas de diferentes nacionalidades deve planejar com muito mais antecedência. Existe a possibilidade de que alguém precise de visto. Neste caso, você tem que conscientizar as pessoas da confirmação com pelo menos um mês de antecedência ao evento.
 
-#### Visa invitation letter
+#### Carta-convite para visto
 
 It is also possible that you will need to provide the invitation letter for the participants who require visas. It could look like this:
+Também é possível que você tenha que providenciar a carta-convite para os participantes que necessitam de visto. Ela pode ser parecida com esta:
 
 > Through this paper we certify  that _[name of participant]_, born _[birth date of participant]_, living at _[country]_, _[address]_, with passport number _[passport number of participant]_, valid from _[date]_ to _[date]_ is invited during the period of [date] to [date] to participate in a Django Girls workshops organised by _[name of some legal entity or you]_ with the address: _[address]_; phone: _[phone]_, e-mail: _[email]_.
+> Através deste papel, certificamos que _[nome do participante]_, nascido em _[data de nascimento do participante]_, residente em _[país]_, _[endereço]_, com passaporte de número _[número do passaporte do participante]_, válido a partir de _[data]_ até _[data]_ está convidado durante o período de [data] até [data] para participar de um workshop Django Girls organizado por _[nome de alguma entidade legal ou seu nome]_ com o endereço: _[endereço]_; telefone: _[phone]_, e-mail: _[email]_.
 
 > _[here you can put some info about who organises the event - if it a part of conference you should put some info about it here]_
+> _[aqui você pode fornecer alguma informação sobre os organizadores do evento - se ele for parte de uma conferencia você deve fornecer algumas informações sobre isso aqui]_
 
 > Free food and social activities will be provided by organisers during the period of stay.
+> Alimentação gratuita e atividades sociais serão providenciadas pelos organizadores durante o período de estadia.
 
 > We kindly request to grant a free visa for this particular participant of the Django Girls workshop.
+> Nós encarecidamente requisitamos a concessão de visto livre para este participante em particular do workshop Django Girls.
 
 > [your name]
+> [seu nome]
 
 You will need to send this letter (signed!) to the participant. You should also scan the signed papers and send the copy via e-mail.
+Você terá que enviar esta carta (assinada!) para o participante. Você também deve digitalizar os papéis assinados e enviar uma cópia por e-mail.
 
-## Application form
+## Formulário de inscrição
 
-### Google Doc Form
+### Formulário Google Doc
 
 As we have mentioned you can use Google Doc Form for this purpose. You can do that by going to your Google Drive, clicking the "CREATE" button and choosing "Form" and the "Create and share" option. Then you should fill in all the necessary data: name, layout, etc..
+Como já mencionamos, você pode utilizar o Formulário do Google Doc para este propósito. Você pode fazê-lo acessando o seu Google Drive, clicando no botão de "CRIAR", selecionando "Formulário" e finalmente a opção "Criar e compatilhar". Então você deve preencher todos os dados necessários: nome, layout, etc...
 
 You can also copy our existing template form by [clicking this link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
+Você também pode copiar o nosso template de formulário existente [clicando neste link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing) 
 
-### Questions
+### Questinário
 
 What kind of questions should you ask in the form? We have a list of those we used or those we think could be useful for future events.
+Que tipo de perguntas você deve fazer no formulário? Nós temos uma lista daquelas que usamos ou que achamos que podem ser úteis para eventos futuros.
 
 1. What's your name?
-2. Your e-mail address?
-3. Your phone number. Include your country prefix
-4. Where are you from? City, country
-5. How old are you?
-6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
-7. What is your current occupation? Tell us what you currently do: working, learning or something else?
-8. What is your background? Do you have experience with making websites?
-9. Why do you want to attend Django Girls?
-10. What are you planning to do to share what you've learned with others?
-11. How did you heard about Django Girls? (Facebook | Twitter | From a friend | Other)
-12. What language are you more comfortable with? (English | (language of your country) | Both)
+1. Qual o seu nome?
 
-#### Financial aid questions
+2. Your e-mail address?
+2. Qual o seu endereço de e-mail?
+
+3. Your phone number. Include your country prefix
+3. Seu número de telefone. Inclua o prefixo do seu país
+
+4. Where are you from? City, country
+4. De onde você é? Cidade, País
+
+5. How old are you?
+5. Quantos anos você tem?
+
+6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
+6. Seu laptop: Qual o seu sistema operacional? (Windows | Mac OS X | Linux | Outro)
+
+7. What is your current occupation? Tell us what you currently do: working, learning or something else?
+7. Qual a sua ocupação atual? Diga-nos o que você atualmente faz: trabalho, estudo ou alguma outra coisa?
+
+8. What is your background? Do you have experience with making websites?
+8. Qual é a sua formação? Você possui experiência na construção de websites?
+
+9. Why do you want to attend Django Girls?
+9. Por que você quer participar do Django Girls?
+
+10. What are you planning to do to share what you've learned with others?
+10. O que você pretende fazer para compartilhar o que aprendeu com os outros?
+
+11. How did you heard about Django Girls? (Facebook | Twitter | From a friend | Other)
+11. Como você soube do Django Girls? (Facebook | Twitter | Através de um amigo | Outro)
+
+12. What language are you more comfortable with? (English | (language of your country) | Both)
+12. Com qual linguagem você está mais confortavél? (Português | Inglês | (língua nativa do seu país) | Todas)
+
+
+####  Questões de ajuda financeira
 
 1. Do you need financial assistance to come and stay in [city]?
+1. Você precisa de assistência financeira para vir e hospedar-se em [cidade]?
+
 2. What is your current financial situation? Tell us why you need financial assistance.
+2. Qual a sua atual situação financeira? Conte-nos por que você precisa de ajuda financeira.
+
 3. How much money do you need? Give us an exact amount of Euro you need. Try to break down costs.
+3. De quanto dinheiro você precisa? Dê-nos uma quantidade exata em Reais da qual precisa. Tente cortar custos.
+
 
 Some questions are not required. For example question 5 (age) is only used for statistical purposes.
+Algumas questões não são obrigatórias. Por exemplo a questão 5 (idade) é usada somente para fins estatísticos.
 
 It is also a good idea to ask about the previous experience in fields like: programming (any language), Python, CSS, HTML, Django, databases etc.. Thanks to that you will be able to team up people based on how advanced they are. Also ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
