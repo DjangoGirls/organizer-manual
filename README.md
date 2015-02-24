@@ -26,6 +26,16 @@ Django Girls events are always non-profit and free for participants. We do not p
 - __Everyone can do it__. Technology is for people and everyone can be a creator. Show the bigger picture and encourage them to try new things.
 - __It's all about the people__. People are the core of what we do. We create events that we would want to attend ourselves. Think about their experience, help them, be welcoming and make sure no one is lost. Be helpful and proactive. Smile, ask questions, make them feel awesome.
 
+### Using Django Girls name
+
+To use Django Girls name for your workshop you need to do this steps:
+* apply to organize the event [here](http://djangogirls.org/organize/)
+* wait for our response
+* we will create a website and e-mail account in our domain
+* you can start!
+
+It is very important for us to know about all events that uses Django Girls name. __Please make sure not to use it, unless you contacted us__. 
+
 ## Ready?
 
 Learn what it takes to organize a Django Girls event.
