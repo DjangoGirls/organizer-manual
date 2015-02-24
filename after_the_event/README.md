@@ -8,6 +8,8 @@ Congratulations, you MADE IT! And we want to hear all about it :)
 
 Sending a little thank you note to your attendees, coaches and sponsors is important. Remember to also treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
 
+Make sure to reach out to your event's sponsors, tell them about how it went and thank them once again. It is very important to let them know how their money was spent and there is no better way than writing how awesome the workshop they sponsored was.
+
 #### Inform participants where they can look for help
 
 The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
