@@ -1,6 +1,6 @@
 # Attendees
 
-The main idea of Django Girls is to bring new people into technology. We are focusing on females, but it is totally fine to organize workshops without any gender requirement.
+The main idea of Django Girls is to bring new people into technology. __We are focusing on females, but it is totally fine to organize workshops without any gender requirement__. We encourage local organizers to give a priority to female applications, especially when the workshop is organized under Django Girls name. 
 
 The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with a computer can do it.
 
