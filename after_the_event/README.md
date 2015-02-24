@@ -18,6 +18,11 @@ The goal of Django Girls is to shape future software developers, so we shouldn't
 - Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
 - Maybe even organize a follow up meeting to meet for a coffee?:) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
 
+### Evaluation form for participants and coaches
+
+It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? This questions are very important and it is great to know answers before organizing the second edition, right :)?
+
+Make sure the forms are anonymous. Please note that if you ask for their coach name, the form is not so anonymous anymore.
 
 #### Tell people about our "Your Django Story" interview series
 
