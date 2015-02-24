@@ -73,3 +73,5 @@ Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with free 
 This is reaaally nice to have and sometimes you can get this kind of stuff for free if you have friends / friendly local people who want to support your initiative. It's a great memory to do some nice, professional photo reports from the event or record a video. It also helps to use it as marketing material for your next event and you have something to show to the sponsors.
 
 If you have resources (money / people), then totally do it. It's worth it :)
+
+You can also let us know and add your event's photos to our [Django Girls albums](https://www.flickr.com/photos/128162583@N08/sets). Make sure to provide us information about __a licence of the photo__ - if anyone can use them? For example other Django Girls organizers? If the photos/video can be used - on what terms?
