@@ -16,3 +16,7 @@ Inside you can find:
 - Email and tweet templates
 
 Feel free to fork, contribute with your own resources and make pull request! <3
+
+### Photos
+
+Check our [Flickr](https://www.flickr.com/photos/128162583@N08/sets/) account for a photos from previous Django Girls. If you want to use them, please carefully __check the license of each photo__ and make sure you can use them. 
