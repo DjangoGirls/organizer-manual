@@ -16,6 +16,10 @@ Rembember that they all need power :) Often the venue can offer you this, but if
 
 Internet is crucial, so ask your venue provider if they tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives.
 
+It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out it is not working. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
+
+It's a good idea to have some backup mobile internet and to create a hotspot for attendees if internet is not working properly. Make sure to check - especially during the installation part - if there are no problems with the Internet.
+
 ### Decorations
 
 Good atmosphere and friendly experience is extremaly important, so if you have enough budget, don't think twice about [printing some posters](resources/README.html), buying fresh flowers or bringing nice table clothes. These small little things can go a long way and bring a better experience for everyone. We like nice things, right?
