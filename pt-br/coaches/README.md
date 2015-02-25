@@ -51,12 +51,12 @@ Também seria ótimo se você conseguisse encontrar alguns treinadores entre os 
 
 Nós achamos que é uma boa ideia ter um treinador mais experiente no local que não está responsável por nenhum grupo. Nem todos os treinadores precisam ser super avançados. No caso de problemas sérios, o meta treinador pode ajudar a solucioná-los.
 
-## Coaches briefing
+## Instruções para os treinadores
 
-It is good to create a meeting/hangout for coaches before the event. They shoudl at least know each other so that they will know who to ask for help during the workshops.
+É bom criar um encontro/hangout com os treinadores antes do evento. Ele precisam pelos menos se conhecer para eles saberem para quem pedir ajuda durante o workshop.
 
-Some information worth mentioning:
-- the coaches should know the detailed schedule for the event (also tell them if and when there will be an official introduction)
-- it's important to hilight that they should provide help for the attendees not only with the technical details - it will make the attendees feel safe if the coach will know some other details
-- if this is possible ask the coaches to verify if their group is at the level they have stated in the registration form
-- ask the coaches if they need help with the tutorial - maybe some of them have some specific questions or want to discuss it with others?
+Alguma informação que vale mencionar:
+- os treinadores precisam saber o cronograma detalhado do evento (também falar com eles se querem e quando fazer uma introdução oficial)
+- é importante destacar que eles precisam oferecer ajuda para os participantes não apenas com detalhes técnicos - os participantes se sentirão seguros se o treinador saber alguns outros detalhes
+- se é possível pedir para os treinadores para verificar se o seu grupo está no level que foi informado no formulário de inscrição
+- pergunte para os treinadores se eles precisam de ajuda com o tutorial - talvez alguns deles tenham perguntas específicas e querem discutir com os outros?
