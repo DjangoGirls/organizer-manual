@@ -24,9 +24,9 @@ O nosso é assim:
 
 Você pode também copiar nosso atual templeta de do formulário [clicando nesse link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) e escolhendo "File" e "Make a copy..." no menu Options.
 
-## How many coaches do I need?
+## Quantos treinadores eu preciso?
 
-Participants always work in groups of 3 attendees and 1 coach, so if you're organizing an event for 30 participants, you'll need 10 coaches.
+Participantes sempre trabalham em grupos de 3 parceiros e 1 treinador, então se você está organizando um evento para 30 participantes, você precisará de 10 treinadores.
 
 ## How to find coaches?
 
