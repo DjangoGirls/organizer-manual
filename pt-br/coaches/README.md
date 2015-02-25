@@ -28,15 +28,16 @@ Você pode também copiar nosso atual templeta de do formulário [clicando nesse
 
 Participantes sempre trabalham em grupos de 3 parceiros e 1 treinador, então se você está organizando um evento para 30 participantes, você precisará de 10 treinadores.
 
-## How to find coaches?
+## Como encontrar treinadores?
 
-There are lots of ways to do that but here are some ideas for you:
+Existem várias maneiras de fazer isso mas aqui estão algumas ideias para você:
 
-- Google. Almost every country and city has some sort of local community of developers. Identify a local Python / Django meetup or user group and just attend it. Ask the organizer for a couple of minutes on the microphone and don't be afraid to explain what Django Girls is and ask for their help. We're sure you'll find someone who will be willing to help.
+- Google. Praticamente qualquer país e cidade tem alguma comunidade local de desenvolvedores. Identifique um encontro local de Pythin / Django ou grupo de usuários e simplesmente participe. Peça para o organizador algusn minutos no microfone e não tenha medo de explicar o que é Django Girls e pedir pela ajuda deles.
+Nós temos certeza que você vai encontrar alguém disposto a ajudar.
 
-- Identify the local Python / Django software houses or companies and send them an email asking for help.
+- Identifique companhias e empresas locais de Python e Django e envie um email para elas pedindo por ajuda.
 
-- Ask friends and friends of friends for help. You never know how connections can go a long way. Often one key person can introduce you further.
+- Peça a amigos e a amigos de amigos por ajuda. Você nunca sabe quão longe podem ir as conexões. Geralmente uma pessoa chave pode apresentá-lo.
 
 ## How to choose the coach?
 
