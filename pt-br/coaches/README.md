@@ -7,21 +7,22 @@ Se você está fazendo o evento como parte de uma conferência de Phython/Django
 Tenha certeza que você tem um plano B se um ou mais dos seus treinadores não aparecer.
 
 
-## Call for coaches
+## Chamada por treinadores
 
-It is important to start looking for coaches as soon as possible. Create a separate form for them. Ours looked like this:
+É importante procura por treinadores o mais rápido possível. Crie um formulário separado para eles.
+O nosso é assim:
 
-1. What's your name?
-2. What's your e-mail?
-3. Your Github username if you have one.
-4. What operating systems are you comfortable with? If possible we would like to give you a group that works with the same operating system as your. (Windows | Mac OS X | Linux | Other)
-5. If we won't find a group suitable for your operating system are you willing to work with Windows?
-6. What languages do you speak?
-7. Will you have time before the workshops to help your group (3 people) install Python and Django via Google Hangout/Skype/e-mail?
-8. Will you have time to meet us and other coaches a day before the workshop?
-9. Do you have any previous experience with teaching others? Tell us about it.
+1. Qual o seu nome?
+2. Qual o seu email?
+3. Seu Github username se você tem um.
+4. Com quais sistemas operacionais você está confortável? Se possível nós gostaríamos de te oferecer um grupo que trabalha com o mesmo sistema operacional que o seu (Windows | Mac OS X | Linux | Outro)
+5. Se não conseguirmos um grupo com o seu sistema operacional você está disposto a trabalhar com Windows?
+6. Quais línguas você fala?
+7. Você vai ter tempo de, antes dos workshops, ajudar o seu grupo (3 pessoas) a instalar Python e Django via Google Hangouts/Skype/email?
+8. Você vai ter tempo de encontrar a gente e outros treinadores um dia antes do workshop?
+9. Você tem alguam experiência anterior em ensinar os outros? Fale com a gente sobre isso.
 
-You can also copy our existing form template by [clicking this link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
+Você pode também copiar nosso atual templeta de do formulário [clicando nesse link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) e escolhendo "File" e "Make a copy..." no menu Options.
 
 ## How many coaches do I need?
 
