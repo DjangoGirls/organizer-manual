@@ -1,6 +1,6 @@
 # Treinadores
 
-Para ter sucesso no workshop você precisa ter bons treinadores. Você não necessariamente precisa de alguém com um grande conhecimento em Phyton/Django. Você está procurando por pessoas que podem ensinar os outros e pode inspirá-las a aprender.
+Para ter sucesso no workshop você precisa ter bons treinadores. Você não necessariamente precisa de alguém com um grande conhecimento em Pyton/Django. Você está procurando por pessoas que podem ensinar os outros e pode inspirá-las a aprender.
 
 Se você está fazendo o evento como parte de uma conferência de Phython/Django você provavelmente não terá problemas em achar pessoas dispostas a ajudar. No caso de um evento sozinho - você deve entrar em contato com a comunidade loal de Python/Django. Tem também pessoas que gostam de viajar e ajudar com esse tipo de evento.
 
@@ -32,7 +32,7 @@ Participantes sempre trabalham em grupos de 3 parceiros e 1 treinador, então se
 
 Existem várias maneiras de fazer isso mas aqui estão algumas ideias para você:
 
-- Google. Praticamente qualquer país e cidade tem alguma comunidade local de desenvolvedores. Identifique um encontro local de Pythin / Django ou grupo de usuários e simplesmente participe. Peça para o organizador algusn minutos no microfone e não tenha medo de explicar o que é Django Girls e pedir pela ajuda deles.
+- Google. Praticamente qualquer país e cidade tem alguma comunidade local de desenvolvedores. Identifique um encontro local de Python/Django ou grupo de usuários e simplesmente participe. Peça para o organizador algusn minutos no microfone e não tenha medo de explicar o que é Django Girls e pedir pela ajuda deles.
 Nós temos certeza que você vai encontrar alguém disposto a ajudar.
 
 - Identifique companhias e empresas locais de Python e Django e envie um email para elas pedindo por ajuda.
