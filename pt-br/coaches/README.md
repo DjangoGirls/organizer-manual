@@ -39,13 +39,13 @@ Nós temos certeza que você vai encontrar alguém disposto a ajudar.
 
 - Peça a amigos e a amigos de amigos por ajuda. Você nunca sabe quão longe podem ir as conexões. Geralmente uma pessoa chave pode apresentá-lo.
 
-## How to choose the coach?
+## Como escolher o treinador?
 
-Coaches are important, so it is good to know they are people you trust and are firendly, patient and willing to help. You need somebody who will invest their time before, during and after the workshop.
+Treinadores são importantes, por isso é bom saber se eles são pessoas que você pode confiar, amigáveis, pacientes e dispostas a ajudar. Você precisa de alguém que vai investir tempo antes, durante e depois do workshop.
 
-If the potential coach is not responding to e-mails for a couple of days, is not willing to meet other coaches or help with the installation party, then you probably want somebody else.
+Se o treinador em potencial não está respondendo emails por alguns dias, não está disposto a conhecer os outros treinadores e ajudar na festa de instalação, então você provavelmente quer outra pessoa.
 
-It would also be lovely if you could find some coaches among previous Django Girls attendees!
+Também seria ótimo se você conseguisse encontrar alguns treinadores entre os participantes de Django Girls anteriores!
 
 ## Meta coach
 
