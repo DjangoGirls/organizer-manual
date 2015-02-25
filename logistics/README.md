@@ -22,7 +22,7 @@ It's a good idea to have some backup mobile internet and to create a hotspot for
 
 ### Decorations
 
-Good atmosphere and friendly experience is extremaly important, so if you have enough budget, don't think twice about [printing some posters](resources/README.html), buying fresh flowers or bringing nice table clothes. These small little things can go a long way and bring a better experience for everyone. We like nice things, right?
+Good atmosphere and friendly experience is extremaly important, so if you have enough budget, don't think twice about [printing some posters](../resources/README.html), buying fresh flowers or bringing nice table clothes. These small little things can go a long way and bring a better experience for everyone. We like nice things, right?
 
 ## Food
 
@@ -56,7 +56,7 @@ This is so far the most fun and most affordable way to do something nice at your
 
 ### T-shirts for coaches
 
-Order t-shirts for your coaches as a thank-you gift, but it also makes them more visible in the venue. You can find t-shirt designs on our [resources page](resources/README.html).
+Order t-shirts for your coaches as a thank-you gift, but it also makes them more visible in the venue. You can find t-shirt designs on our [resources page](../resources/README.html).
 
 ### Tote bags
 
@@ -64,7 +64,7 @@ We like tote bags, right?! They are also pretty cheap to print and it's a nice g
 
 ### Stickers
 
-Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with free stickers! You can find our [ready-to-print designs here](resources/README.html).
+Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with free stickers! You can find our [ready-to-print designs here](../resources/README.html).
 
 ## Marketing
 
