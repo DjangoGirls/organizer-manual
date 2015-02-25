@@ -47,9 +47,9 @@ Se o treinador em potencial não está respondendo emails por alguns dias, não 
 
 Também seria ótimo se você conseguisse encontrar alguns treinadores entre os participantes de Django Girls anteriores!
 
-## Meta coach
+## Meta treinador
 
-We think it is a good idea to have one more experienced coach on site that is not assigned to any group. Not all of your coaches need to be super advanced. In case of some serious problems, the meta coach could help with solving them.
+Nós achamos que é uma boa ideia ter um treinador mais experiente no local que não está responsável por nenhum grupo. Nem todos os treinadores precisam ser super avançados. No caso de problemas sérios, o meta treinador pode ajudar a solucioná-los.
 
 ## Coaches briefing
 
