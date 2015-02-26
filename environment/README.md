@@ -7,7 +7,7 @@ Os eventos das Django Girls são ambientes inclusivos, amigáveis e seguros. Men
 
 # Atmosfera positiva
 
-Os eventos das Django Girls são abertos a todos. Nós queremos passar um ótimo dia rodeadas de pessoas fantásticas e termos muita diversão juntas. Nós não somos pessoas muito sérias.
+Os eventos das Django Girls são abertos a todos. Nós queremos passar um ótimo dia rodeadas de pessoas fantásticas e termos muita diversão juntas. Nós não somos pessoas muito sérias, afinal.
 
 Tire selfies e dê muitos abraços. Deixe as pessoas saberem que elas farão um ótimo trabalho e que são maravilhosas. Faça amigos.
 
@@ -15,6 +15,10 @@ Tire selfies e dê muitos abraços. Deixe as pessoas saberem que elas farão um 
 
 Cada evento tem que seguir e cumprir nosso [Código de Conduta](http://djangogirls.org/coc/). O CdC é um conjunto de regras que tem o objetivo de prover ambiente inclusivo para pessoas de diferentes gêneros, cores, religiões e outros.
 
+<<<<<<< HEAD
 Comportáveis inaceitáveis por parte de qualquer membro da comunidade, incluindo patrocinadores e aqueles que têm autoridade com poder decisão, não deverão ser tolerados.
+=======
+Comportamentos inaceitáveis por parte de qualquer membro da comunidade, incluindo patrocinadores e aqueles que têm autoridade com poder decisão, não deverão ser tolerados. 
+>>>>>>> ajuste da traducao do environments
 
 Você, como uma organizadora, tem o direito de tomar qualquer atitude que você considere apropriada, incluindo avisos, expulsão temporária ou permanente da comunidade.
