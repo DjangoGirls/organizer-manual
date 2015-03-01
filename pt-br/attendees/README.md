@@ -4,7 +4,7 @@ A ideia principal do Django Girls é introduzir novas pessoas no mercado de tecn
 
 O tutorial é projetado para iniciantes, então nenhum conhecimento prévio em programação é necessário. Basicamente, qualquer pessoa com um computador pode fazê-lo.
 
-Contudo, existem problemas. Se você organizar algo gratuito existe uma chance de algumas pessoas não irem mesmo assim. Eles não investiram qualquer tempo ou dinheiro, então é fácil para eles simplesmente não comparecerem. Este é o motivo pelo qual você deve tentar encontrar pessoas que realmente, realmente se importem.
+Contudo, existem problemas. Se você organizar algo gratuito existe uma chance de algumas pessoas não irem mesmo assim. Eles não investiram qualquer tempo ou dinheiro, então é fácil para eles simplesmente não comparecerem. Este é o motivo pelo qual você deve tentar encontrar pessoas que realmente, realmente, se importem.
 
 A única forma que você pode medir o compromisso de alguém é através do seu formulário de inscrição. Certifique-se de que ele contém as questões que te darão as dicas necessárias sobre a pessoa.
 
@@ -22,7 +22,7 @@ Se você organizar um evento que expera receber pessoas de diferentes nacionalid
 
 Também é possível que você tenha que providenciar a carta-convite para os participantes que necessitam de visto. Ela pode ser parecida com esta:
 
-> Através deste papel, certificamos que _[nome do participante]_, nascido em _[data de nascimento do participante]_, residente em _[país]_, _[endereço]_, com passaporte de número _[número do passaporte do participante]_, válido a partir de _[data]_ até _[data]_ está convidado durante o período de [data] até [data] para participar de um workshop Django Girls organizado por _[nome de alguma entidade legal ou seu nome]_ com o endereço: _[endereço]_; telefone: _[phone]_, e-mail: _[e-mail]_.
+> Através deste documento, certificamos que _[nome do participante]_, nascido em _[data de nascimento do participante]_, residente em _[país]_, _[endereço]_, com passaporte de número _[número do passaporte do participante]_, válido a partir de _[data]_ até _[data]_ está convidado durante o período de [data] até [data] para participar de um workshop Django Girls organizado por _[nome de alguma entidade legal ou seu nome]_ com o endereço: _[endereço]_; telefone: _[phone]_, e-mail: _[e-mail]_.
 
 > _[aqui você pode fornecer alguma informação sobre os organizadores do evento - se ele for parte de uma conferencia você deve fornecer algumas informações sobre isso aqui]_
 
@@ -88,7 +88,7 @@ Também é uma boa idéia perguntar sobre a experiência prévia em campos como:
 
 Por padrão o Google Forms não irá enviar qualquer e-mail sobre o formulário que está sendo submetido. Você não será notificado e a pessoa que preencheu o formulário não saberá que informação ela submeteu. Isto é claro não é obrigatório, mas as pessoas gostam de ter alguma confirmação do formulário de que os dados foram salvos.
 
-Existem diversas maneiras de resolver este problema. O caminho mais fácil de configurar as notificações é instalando um simples plugin do Google. Ele está disponível na [loja de complementos](https://chrome.google.com/webstore/detail/form-notifications/bbpdeojefjfhaelgljjcadpcckdfcdod). A desvantagem dessa solução é que os e-mails serão enviados da sua caixa de e-mail pessoal - não de sua_cidade@djangogirls.org. Se você sabe algo básico de JavaScript, você também pode brincar com o Script Manager para um sistema de notificação mais customizável. Siga as instruções detalhadas encontradas [aqui](http://davidwees.com/content/e-mail-confirmations-google-forms/) e use [nossa versão de script](https://gist.github.com/aniav/926f4667911ba1d138b8) no lugar do código demonstrado lá. Nós já usamos essa abordagem em diversos eventos - ela é segura.
+Existem diversas maneiras de resolver este problema. O caminho mais fácil de configurar as notificações é instalando um simples plugin do Google. Ele está disponível na [loja de complementos](https://chrome.google.com/webstore/detail/form-notifications/bbpdeojefjfhaelgljjcadpcckdfcdod). A desvantagem dessa solução é que os e-mails serão enviados da sua caixa de e-mail pessoal - não de sua_cidade@djangogirls.org. Se você sabe algo básico de JavaScript, você também pode brincar com o Script Manager para um sistema de notificação mais customizável. Siga as instruções detalhadas encontradas [aqui](http://davidwees.com/content/email-confirmations-google-forms/) e use [nossa versão de script](https://gist.github.com/aniav/926f4667911ba1d138b8) no lugar do código demonstrado lá. Nós já usamos essa abordagem em diversos eventos - ela é segura.
 
 ## Como selecionar os participantes?
 
@@ -102,27 +102,27 @@ Você também pode adicionar colunas onde eles podem colocar a sua nota (é lega
 
 Para certificar-se de que o primero pontuado não foi influenciado pelos outros, cada pessoa pontuou as inscrições sem o conhecimento da nota das outras três pessoas. Depois de fazer a primeira pontuação, pode-se ver as outras notas.
 
-A ordem das inscrições também não foi determinada - nós pontuamos em ordem randômica, então a probabilidade de que uma pessoa é mais pontuada/menos pontuada somente porque ela estava sempre no topo/final da lista é baixa.
+A ordem das inscrições também não foi determinada - nós pontuamos em ordem randômica, então a probabilidade de que uma pessoa é mais/menos pontuada somente porque ela estava sempre no topo/final da lista é baixa.
 
 Nós pontuamos cada inscrição de 1 a 5.
 
-Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (sugerido por Daniele Procida):
+Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (sugerido por Daniele Procida):;
 
-* Qual é o benefício real para o inscrito?
+* Qual é o benefício real para a inscrita?
 
 * Qual é o benefício real para os outros?
 
-* O inscrito possui idéias claras, específicas, concretas, realísticas do que se fazer com o conhecimento?
+* A inscrita possui idéias claras, específicas, concretas, realísticas do que se fazer com o conhecimento?
 
-* O inscrito possui idéias claras, expecíficas, concretas e realistícas sobre como compartilhá-lo?
+* A inscrita possui idéias claras, expecíficas, concretas e realistícas sobre como compartilhá-lo?
 
-* Eu realmente sinto que o inscrito realmente, realmente, precisa dessa oportunidade ou isso é somente uma oferta interessante para ele?
+* Eu realmente sinto que a inscrita realmente, realmente, precisa dessa oportunidade ou isso é somente uma oferta interessante para ela?
 
-* Qual é o custo/benefício global, se o inscrito está perguntando por fundos?
+* Qual é o custo/benefício global, se a inscrita está perguntando por fundos?
 
-* Qual é meu sentimento global sobre a inscrito?
+* Qual é meu sentimento global sobre a inscrita?
 
-Como você pode ver, existiam diversos pontos que levamos em consideração quando pontuamos. Foi muito, muito difícil de se obter. Se a inscrição não foi muito detalhada - a chance de ser aceita é bem baixa. Mas escrevendo bastante também não foi uma receita de sucesso. Nós buscamos por idéias e compromissos concretos nas inscrições.
+Como você pode ver, existiam diversos pontos que levamos em consideração quando pontuamos. Foi muito, muito, difícil de se obter. Se a inscrição não foi muito detalhada - a chance de ser aceita é bem baixa. Mas escrevendo bastante também não foi uma receita de sucesso. Nós buscamos por idéias e compromissos concretos nas inscrições.
 
 Busque por um grupo diversificado: Quanto mais as pessoas são diferentes, as idéias mais loucas/divertidas/criativas irão ocorrer durante o evento.
 
