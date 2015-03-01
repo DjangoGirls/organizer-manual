@@ -16,11 +16,12 @@ O nosso objetivo é traduzir a documentação para o Português-BR. Caso deseje 
 5. Qualquer participante pode validar e aceitar/rejeitar pull requests. Contamos também com a sua ajuda para validar os nossos :)
 
 6. Dúvidas? Entre em contato com uma de nossas participantes:
-	[@aninhalacerda](https://github.com/aninhalacerda)
-	[@darlenedms](https://github.com/darlenedms)
-	[@I-am-Gabi](https://github.com/I-am-Gabi)
-	[@pgrangeiro](https://github.com/pgrangeiro)
-	[@vihvs](https://github.com/vihvs)
+
+* [@aninhalacerda](https://github.com/aninhalacerda)
+* [@darlenedms](https://github.com/darlenedms)
+* [@I-am-Gabi](https://github.com/I-am-Gabi)
+* [@pgrangeiro](https://github.com/pgrangeiro)
+* [@vihvs](https://github.com/vihvs)
 
 
 # Django Girls Organizer's Manual
