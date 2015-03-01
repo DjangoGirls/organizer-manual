@@ -1,6 +1,27 @@
 # Projeto de tradução do Django Girls - Manual do Organizador
-Para participar faça um clone do projeto e inicie a tradução a partir do branch _pt-br-translation_.
-Descreva também [nesta planilha](https://docs.google.com/spreadsheets/d/1oCe_Rgaxr-kSq5tfjY1BlZ52XR1jM5opfteyFSE8pbk/edit#gid=0) qual conteúdo você pretende traduzir.
+
+Este é um fork do projeto de documentação de mentoria das Django Girls, mais especificamente o Manual do Organizador.
+O projeto original pode ser encontrado [aqui](https://github.com/DjangoGirls/organizer-manual).
+
+O nosso objetivo é traduzir a documentação para o Português-BR. Caso deseje participar, é importante seguir os seguintes passos:
+
+1. Crie um branch com o nome do conteúdo que pretende traduzir. Esse branch deve partir do _pt-br-translation_.
+
+2. Descreva [nesta planilha](https://docs.google.com/spreadsheets/d/1oCe_Rgaxr-kSq5tfjY1BlZ52XR1jM5opfteyFSE8pbk/edit#gid=0) em qual conteúdo você está trabalhando.
+
+3. Os arquivos da raiz do projeto devem ser mantidos em inglês. O conteúdo traduzido deve ser copiado para a pasta pt-br na raiz do projeto, seguindo a mesma hierarquia do projeto em inglês. Isso é necessário pois o nosso objetivo é submeter esta tradução para a documentação original do Django Girls.
+
+4. Ao terminar a tradução, realize um Pull Request para o branch _pt-br-translation_. Atenção para não submeter o seu Pull Request para o projeto original. 
+
+5. Qualquer participante pode validar e aceitar/rejeitar pull requests. Contamos também com a sua ajuda para validar os nossos :)
+
+6. Dúvidas? Entre em contato com uma de nossas participantes:
+	[@aninhalacerda](https://github.com/aninhalacerda)
+	[@darlenedms](https://github.com/darlenedms)
+	[@I-am-Gabi](https://github.com/I-am-Gabi)
+	[@pgrangeiro](https://github.com/pgrangeiro)
+	[@vihvs](https://github.com/vihvs)
+
 
 # Django Girls Organizer's Manual
 
