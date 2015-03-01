@@ -12,7 +12,7 @@ Os custos abaixo são estimados para um público de 30 participantes e 10 mentor
 
 - __Local__ - Pela nossa experiência, é fácil conseguir um lugar para 40 pessoas de graça. Tente com suas start ups locais, empresas ou hackerspaces e espaços de coworking. Esse custo pode sair bem caro, então qualquer apoio da comunidade local será de grande ajuda. 0€.
 
-- __Happy Hour__ - Encontre-se seus mentores e participantes depois do workshop para relaxar, descontrair, se divertire e fazer amigos. Todo mundo pode pagar por suas próprias bebeidas. 0€.
+- __Happy Hour__ - Encontre seus mentores e participantes depois do workshop para relaxar, descontrair, se divertir e fazer amigos. Todo mundo pode pagar por suas próprias bebidas. 0€.
 
 - __Custos de viagem__ - Se não há nenhuma Django Girls no seu país, considere a possibilidade de nos convidar para participar. Nós podemos ficar em hostels baratos ou até mesmo no seu sofá :) 0€.
 
