@@ -1,20 +1,19 @@
+# Environment
 
-# Ambiente
+Django Girls' goal is not only to teach people about programming, but to __do it in a friendly and positive environment.__
 
-O objetivo das Django Girls não é apenas ensinar pessoas a programarem, mas __fazê-lo num ambiente amigável e positivo.__
+Django Girls events are inclusive, friendly and safe environments. Girls, women, ladies, gals and even men are allowed in. More than semantics we’re interested in a mindset.
 
-Os eventos das Django Girls são ambientes inclusivos, amigáveis e seguros. Meninas, mulheres, senhoras, garotas e até mesmo homens são permitidos. Mais do que semântica estamos interessadas em atitudes.
+## Positive atmosphere
 
-# Atmosfera positiva
+Django Girls events are welcoming for everyone. We want to spend a great day surrounded by fantastic people and have lots of fun together. We're not very serious people.
 
-Os eventos das Django Girls são abertos a todos. Nós queremos passar um ótimo dia rodeadas de pessoas fantásticas e termos muita diversão juntas. Nós não somos pessoas muito sérias, afinal.
+Do selfies or Friday Hugs. Let people know that they're doing a great job and are awesome. Make friends.
 
-Tire selfies e dê muitos abraços. Deixe as pessoas saberem que elas farão um ótimo trabalho e que são maravilhosas. Faça amigos.
+## Code of Conduct
 
-## Código de Conduta
+Each event has to follow and enforce our [Code of Conduct](http://djangogirls.org/coc/). The CoC is a set of rules that aim to provide inclusive environment for people of different genders, colors, religion or else.
 
-Cada evento tem que seguir e cumprir nosso [Código de Conduta](http://djangogirls.org/coc/). O CdC é um conjunto de regras que tem o objetivo de prover ambiente inclusivo para pessoas de diferentes gêneros, cores, religiões e outros. 
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, should not be tolerated.
 
-Comportamentos inaceitáveis por parte de qualquer membro da comunidade, incluindo patrocinadores e aqueles que têm autoridade com poder decisão, não deverão ser tolerados. 
-
-Você, como uma organizadora, tem o direito de tomar qualquer atitude que você considere apropriada, incluindo avisos, expulsão temporária ou permanente da comunidade.
+You, as an organizer, have the right to take any action you deem appropriate, including a warning, temporary ban or permanent expulsion from the community.
