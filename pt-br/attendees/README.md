@@ -16,7 +16,7 @@ Se você não planeja prover qualquer ajuda financeira para os participantes, vo
 
 ### Eventos internacionais
 
-Se você organizar um evento que expera receber pessoas de diferentes nacionalidades deve planejar com muito mais antecedência. Existe a possibilidade de que alguém precise de visto. Neste caso, você tem que conscientizar as pessoas da confirmação com pelo menos um mês de antecedência ao evento.
+Se você organizar um evento que espera receber pessoas de diferentes nacionalidades deve planejar com muito mais antecedência. Existe a possibilidade de que alguém precise de visto. Neste caso, você tem que conscientizar as pessoas da confirmação com pelo menos um mês de antecedência ao evento.
 
 #### Carta-convite para visto
 
@@ -24,7 +24,7 @@ Também é possível que você tenha que providenciar a carta-convite para os pa
 
 > Através deste documento, certificamos que _[nome do participante]_, nascido em _[data de nascimento do participante]_, residente em _[país]_, _[endereço]_, com passaporte de número _[número do passaporte do participante]_, válido a partir de _[data]_ até _[data]_ está convidado durante o período de [data] até [data] para participar de um workshop Django Girls organizado por _[nome de alguma entidade legal ou seu nome]_ com o endereço: _[endereço]_; telefone: _[phone]_, e-mail: _[e-mail]_.
 
-> _[aqui você pode fornecer alguma informação sobre os organizadores do evento - se ele for parte de uma conferencia você deve fornecer algumas informações sobre isso aqui]_
+> _[aqui você pode fornecer alguma informação sobre os organizadores do evento - se ele for parte de uma conferência você deve fornecer algumas informações sobre isso aqui]_
 
 > Alimentação gratuita e atividades sociais serão providenciadas pelos organizadores durante o período de estadia.
 
@@ -40,7 +40,7 @@ Você terá que enviar esta carta (assinada!) para o participante. Você também
 
 Como mencionamos, você pode utilizar o Formulário do Google Doc para este propósito. Você pode fazê-lo acessando o seu Google Drive, clicando no botão de "NOVO" e selecionando "Formulários Google". Então você deve preencher todos os dados necessários: nome, layout, etc...
 
-Você também pode copiar o nosso template de formulário existente [neste link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing) 
+Você também pode copiar o nosso template de formulário existente [neste link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing)
 
 ### Questinário
 
@@ -130,7 +130,7 @@ A dica final: Siga seu coração :) Escolha aqueles quem mais te convencem, aque
 
 ## E-mail de aceitação/rejeição
 
-Certifique-se de escrever para todos que solicitaram inscrição - não apenas para aqueles que irão. É tão fácil quanto enviar uma mensagem idêntica para todos os endereços de e-mails. Apenas tenha certeza de colocar os endereços como CCO, então eles ficam ocultos para os demais que receberem o e-mail. 
+Certifique-se de escrever para todos que solicitaram inscrição - não apenas para aqueles que irão. É tão fácil quanto enviar uma mensagem idêntica para todos os endereços de e-mails. Apenas tenha certeza de colocar os endereços como CCO, então eles ficam ocultos para os demais que receberem o e-mail.
 
 É uma boa idéia criar uma lista de e-mail. Para as inscrições rejeitadas, informamos que eles não foram selecionados mas que eles estavam muito próximos e perguntamos se eles estariam interessados em participar caso algum lugar fique vago.
 
