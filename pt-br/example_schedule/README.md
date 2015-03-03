@@ -6,7 +6,7 @@ Conheça seus treinadores (façam um jantar juntos!). Certifique-se de que eles 
 
 ## Sexta à noite - Festa de instalação!
 
-__17:00__ Conheça seus participantes e treinadores. Dê-lhes 30 minutos conhecerem-se e conversar.
+__17:00__ Conheça seus participantes e treinadores. Dê-lhes 30 minutos para conhecerem-se e conversar.
 
 __17:30__ Inicia-se a instalação! Certifique-se de que todos têm Python, Pip, Virtualenv e Django instalados em seus computadores.
 
@@ -20,7 +20,7 @@ __9:00__ Dê boas vindas a todos, faça uma breve apresentação explicando o qu
 
 __9:30__ O workshop começa! As equipes e treinadores devem agora começar a trabalhar e seguir o [tutorial](tutorial/README.html).
 
-__12:00__ Tempo para almoço :) Faça uma longa hora de pausa. Você também pode ajustar alguns patrocinadores / oradores convidados aqui. Certifique-se de que eles estão inspirando!
+__12:00__ Tempo para almoço :) Faça uma longa hora de pausa. Você também pode ajustar alguns patrocinadores/oradores convidados aqui. Certifique-se de que eles estão inspirando!
 
 __13:30__ De volta ao workshop.
 
@@ -28,4 +28,4 @@ __18:00__ Final oficial. Mais uma vez: agradeça patrocinadores, treinadores e p
 
 __18:30__ Envolva-se.
 
-Nós intencionalmente não fazemos muitas pausas entre uma sessão de workshop, mas certifique-se de que as equipes saibam que eles podem fazer uma pausa sempre que quiserem. As pessoas não gostam de parar seu trabalho no meio, assim é melhor se uma equipe pode decidir quando querem fazer uma pausa. Certifique-se de que há um lugar no recinto (ou fora), onde podem conversar, rir e ser barulhento :) Também é uma boa idéia fazer uma pequena atividade como um jogo com todos, quer antes do início do workshop ou durante o almoço para dar as pessoas a oportunidade de conhecer uns aos outros. As pessoas vão estar a trabalhar em seus grupos na maior parte do dia, tente incentivá-los a conhecer os outros participantes e treinadores também.
+Nós intencionalmente não fazemos muitas pausas durante uma sessão de workshop, mas certifique-se de que as equipes saibam que elas podem fazer uma pausa sempre que quiserem. As pessoas não gostam de parar seu trabalho no meio, assim é melhor se uma equipe pode decidir quando quer fazer uma pausa. Certifique-se de que há um lugar no recinto (ou fora) onde podem conversar, rir e serem barulhentos :) Também é uma boa idéia fazer uma pequena atividade, como um jogo com todos, quer antes do início do workshop ou durante o almoço, para dar as pessoas a oportunidade de conhecer uns aos outros. As pessoas irão trabalhar em seus grupos na maior parte do dia, tente incentivá-los a conhecer os outros participantes e treinadores também.
