@@ -18,7 +18,7 @@ Internet é crucial, então pergunte ao fornecedor do local se eles testaram a W
 
 ### Decorações
 
-Uma boa atmosfera e uma experiência amigável é extremamente importante, por isso se você tem orçamento suficiente, não pense duas vezes sobre [imprimir alguns cartazes](resources/README.html), comprar flores frescas ou trazer agradáveis toalhas de mesa. Estas pequenas coisas podem percorrer um longo caminho e trazer uma melhor experiência para todos. Nós gostamos de coisas agradáveis, certo?
+Uma boa atmosfera e uma experiência amigável é extremamente importante, por isso se você tem orçamento suficiente, não pense duas vezes sobre [imprimir alguns cartazes](../resources/README.html), comprar flores frescas ou trazer agradáveis toalhas de mesa. Estas pequenas coisas podem percorrer um longo caminho e trazer uma melhor experiência para todos. Nós gostamos de coisas agradáveis, certo?
 
 ## Alimentação
 
@@ -60,7 +60,7 @@ Nós gostamos de tote bags, certo ?! Elas também são muito baratas para imprim
 
 ### Adesivos
 
-Pssst, [Stickermule](http://stickermule.com/) gosta de patrocinar eventos com adesivos gratuitos! Você pode encontrar os nossos [designs ready-to-print aqui](resources/README.html).
+Pssst, [Stickermule](http://stickermule.com/) gosta de patrocinar eventos com adesivos gratuitos! Você pode encontrar os nossos [designs ready-to-print aqui](../resources/README.html).
 
 ## Marketing
 
