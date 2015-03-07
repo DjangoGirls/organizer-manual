@@ -2,7 +2,7 @@
 
 Para ter sucesso no workshop você precisa ter bons treinadores. Você não necessariamente precisa de alguém com um grande conhecimento em Pyton/Django. Você está procurando por pessoas que podem ensinar os outros e pode inspirá-las a aprender.
 
-Se você está fazendo o evento como parte de uma conferência de Phython/Django você provavelmente não terá problemas em achar pessoas dispostas a ajudar. No caso de um evento sozinho - você deve entrar em contato com a comunidade loal de Python/Django. Tem também pessoas que gostam de viajar e ajudar com esse tipo de evento.
+Se você está fazendo o evento como parte de uma conferência de Phython/Django você provavelmente não terá problemas em achar pessoas dispostas a ajudar. No caso de um evento sozinho - você deve entrar em contato com a comunidade local de Python/Django. Tem também pessoas que gostam de viajar e ajudar com esse tipo de evento.
 
 Tenha certeza que você tem um plano B se um ou mais dos seus treinadores não aparecer.
 
@@ -22,7 +22,7 @@ O nosso é assim:
 8. Você vai ter tempo de encontrar a gente e outros treinadores um dia antes do workshop?
 9. Você tem alguam experiência anterior em ensinar os outros? Fale com a gente sobre isso.
 
-Você pode também copiar nosso atual templeta de do formulário [clicando nesse link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) e escolhendo "File" e "Make a copy..." no menu Options.
+Você pode também copiar nosso atual template de do formulário [clicando nesse link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) e escolhendo "File" e "Make a copy..." no menu Options.
 
 ## Quantos treinadores eu preciso?
 
@@ -32,7 +32,7 @@ Participantes sempre trabalham em grupos de 3 parceiros e 1 treinador, então se
 
 Existem várias maneiras de fazer isso mas aqui estão algumas ideias para você:
 
-- Google. Praticamente qualquer país e cidade tem alguma comunidade local de desenvolvedores. Identifique um encontro local de Python/Django ou grupo de usuários e simplesmente participe. Peça para o organizador algusn minutos no microfone e não tenha medo de explicar o que é Django Girls e pedir pela ajuda deles.
+- Google. Praticamente qualquer país e cidade tem alguma comunidade local de desenvolvedores. Identifique um encontro local de Python/Django ou grupo de usuários e simplesmente participe. Peça para o organizador alguns minutos no microfone e não tenha medo de explicar o que é Django Girls e pedir pela ajuda deles.
 Nós temos certeza que você vai encontrar alguém disposto a ajudar.
 
 - Identifique companhias e empresas locais de Python e Django e envie um email para elas pedindo por ajuda.
