@@ -52,7 +52,7 @@ Isto é de longe a forma mais divertida e mais acessível para fazer algo legal 
 
 ### Camisas para os treinadores
 
-Encomende camisas para os seus treinadores como um presente de agradecimento, mas isso também os torna mais visíveis no local. Você pode encontrar designs de camisas em nossa [página de recursos](./pt-br/resources/README.html).
+Encomende camisas para os seus treinadores como um presente de agradecimento, mas isso também os torna mais visíveis no local. Você pode encontrar designs de camisas em nossa [página de recursos](../resources/README.html).
 
 ### Tote bags
 
