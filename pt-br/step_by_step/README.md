@@ -2,7 +2,7 @@
 
 Antes de entrarmos em mais detalhes, vamos dar uma olhada no quadro geral da organização de um evento Django Girls.
 
-Você pode começar oganizando com pelo menos com 3 meses de antecedência. Isso dará uma quantidade de tempo segura para fazer tudo correr bem. Claro, a quantidade total de trabalho se encaixa entre 40-50 horas, por isso, se você dividir em 3 meses, você consegue fazer isso no seu tempo livre.
+Você pode começar oganizando com 3 meses de antecedência. Isso dará uma quantidade de tempo segura para fazer tudo correr bem. Claro, a quantidade total de trabalho se encaixa entre 40-50 horas, por isso, se você dividir em 3 meses, você consegue fazer isso no seu tempo livre.
 
 Vamos ver como fica isso na linha do tempo:
 

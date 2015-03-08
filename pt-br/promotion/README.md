@@ -20,7 +20,7 @@ Vá para o [capítulo sobre recursos](resources/README.html) para encontrar logo
 
 Estudantes são um grupo muito atrativo de pessoas que querem aprender coisas novas. Não foque apenas em universidades técnicas, mas tente alcançar pesssoas dos mais diversos setores. Veja o que você pode fazer:
 
-1) Prepara um e-mail simples para enviar às universidades locais e pergunte se eles podem repassar a mensagem para os seus alunos.
+1) Prepare um e-mail simples para enviar às universidades locais e pergunte se eles podem repassar a mensagem para os seus alunos.
 
 2) Ache grupos / comunidades de estudantes e poste lá informações sobre o workshop.
 
