@@ -1,18 +1,18 @@
-# Resources
+# Recursos
 
-All of our resources are available here: [resources.djangogirls.org](http://resources.djangogirls.org/).
+Todos os nossos recursos estão disponíveis aqui: [resources.djangogirls.org](http://resources.djangogirls.org/).
 
-Inside you can find:
-- Logo in different versions (orange, white, square)
+No link você encontra:
+- Logo em diferentes versões (laranja, branco, quadrado)
 - Posters (12 designs)
-- Stickers (1 design)
+- Adesivos (1 design)
 - T-shirt (1 design)
-- Bag (1 design)
-- Presentation for sponsors
-- Presentation for media/community promotion
-- Presentation for opening the Django Girls workshop
-- Presentation for closing the Django Girls workshop
+- Bolsa (1 design)
+- Apresentação para patrocinadores
+- Apresentação para promoção na comunidade / mídia
+- Apresentação para a abertura do workshop Django Girls
+- Apresentação para o encerramento do workshop Django Girls
 - Tattoos
-- Email and tweet templates
+- Templates de email e tweet
 
-Feel free to fork, contribute with your own resources and make pull request! <3
+Fique livre para copiar, contribuir com seus próprios recursos e fazer um pull request! :)
