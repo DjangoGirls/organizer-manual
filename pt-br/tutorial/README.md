@@ -12,7 +12,7 @@ No tutorial todo mundo constrói seu próprio blog. Claro, mudanças nisso são 
 
 A ideia por trás do tutorial é que você está aprendendo comentendo um monte de erros e consertando-os. Como na vida real, certo?
 
-Fazemos isso para familiarizar as pessoas com erros e bugs que podem aocntecer com qualquer programador o tempo todo. Nós queremos que as pessoas não tenham medo deles, mas apredam a ler, entender e consertá-los. Não pule essa parte, é importante!
+Fazemos isso para familiarizar as pessoas com erros e bugs que podem acontecer com qualquer programador o tempo todo. Nós queremos que as pessoas não tenham medo deles, mas apredam a ler, entender e consertá-los. Não pule essa parte, é importante!
 
 Essa técnica também permite as pessoas a entender melhor como realmente funciona. Se você só copiar e colar o código não vai aprender como funciona. Se você precisar realmente pensar sobre isso - isto é quando acontece o click.
 
