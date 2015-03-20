@@ -6,7 +6,7 @@ No link você encontra:
 - Logo em diferentes versões (laranja, branco, quadrado)
 - Posters (12 designs)
 - Adesivos (1 design)
-- T-shirt (1 design)
+- Camisa (1 design)
 - Bolsa (1 design)
 - Apresentação para patrocinadores
 - Apresentação para promoção na comunidade / mídia
