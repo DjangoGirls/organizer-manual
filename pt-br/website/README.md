@@ -1,6 +1,6 @@
 # Website
 
-Nós construímos uma aplicação Django simples que permite que você crie o site do seu evento de uma forma muito simples. Você não tem que saber como fazer o código para alterá-la, mas pouco conhecimento sobre HTML e CSS será útil :)
+Nós construímos uma aplicação Django simples que permite que você crie o site do seu evento de uma maneira muito fácil. Você não tem que saber como programar para alterá-la, mas um pouco conhecimento sobre HTML e CSS será útil :)
 
 ## Precisa do seu website?
 
