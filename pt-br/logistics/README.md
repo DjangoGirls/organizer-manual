@@ -1,6 +1,6 @@
 # Logística
 
-Há um par de coisas que são importantes durante a organização de um evento Django Girls. Não vamos tentar explicar tudo nos mínimos detalhes, mas nós fazemos a elaboração sobre um par das coisas mais importantes:
+Há um par de coisas que são importantes durante a organização de um evento Django Girls. Não vamos tentar explicar tudo nos mínimos detalhes, mas nós fazemos a elaboração de algumas coisas mais importantes:
 
 ## Local de reunião
 
@@ -14,7 +14,7 @@ Lembre-se que todos precisam de energia :) Muitas vezes o local pode oferecer-lh
 
 ### Internet
 
-Internet é crucial, então pergunte ao fornecedor do local se eles testaram a WiFi antes. Esteja preparado para alguns problemas, então tenha todo o material (tutorial, bootstrap, css) baixado e salvo em um par de pen drives.
+Internet é crucial, então pergunte ao fornecedor do local se eles testaram a WiFi antes. Esteja preparado para alguns problemas, então tenha todo o material (tutorial, bootstrap, css) baixado e salvo em alguns de pen drives.
 
 ### Decorações
 
