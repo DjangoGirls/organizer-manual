@@ -1,6 +1,6 @@
 # Patrocinadores
 
-Conseguir patrocinadores pode soar assustador, mas na realidade isso não é tão difícil. Django Girls visa um público de mulheres geralmente jovens que estão inetressadas em tecnologia e são possíveis funcionárias ou consumidoras de uma empresa que pode patrocinar seu evento.
+Conseguir patrocinadores pode soar assustador, mas na realidade isso não é tão difícil. Django Girls visa um público de mulheres geralmente jovens que estão interessadas em tecnologia e são possíveis funcionárias ou consumidoras de uma empresa que pode patrocinar seu evento.
 
 Nós estamos procurando por patrocinadores que são participantes ativos no cenário tecnológico local, se é uma startup ou uma grande coorporação, uma organização sem fins lucrativos ou governamental.
 
