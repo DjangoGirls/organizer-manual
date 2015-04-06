@@ -2,7 +2,7 @@
 
 For the purpose of this workshop we decided to write our own tutorial which you can find here: [tutorial.djangogirls.org](http://tutorial.djangogirls.org/).
 
-We're biased :) but we really recommend using this for the workshop. It's tested, corrected by a lot of people and you can fit it into an 8 hour workshop.
+We're biased :), but we really recommend using this for the workshop. It has been tested and corrected by a lot of people and you can fit it into an 8 hour workshop.
 
 ## Tutorial topic
 
@@ -20,11 +20,11 @@ This technique also allows people to better understand how it actually works. If
 
 The goal of the tutorial is to build a working web application and deploy it to the internet.
 
-But the goal is not to turn people into programmers into one day - it's not possible. We want to show the sparks, get people excited and show them how fun it is to build something.
+But the goal is not to turn people into programmers in one day - this is not possible. We want to show the sparks, get people excited and show them how much fun it is to build something.
 
 __Getting people excited and making them fall in love with building things is our mission. __
 
-Constantly show them a bigger picture, talk about open source communities, bring in the larger context of the internet.
+Constantly show them the bigger picture, talk about open source communities, bring in the larger context of the internet.
 
 ## Can I use my own resource?
 
@@ -32,4 +32,4 @@ Yes, but make sure you've tested it before on someone.
 
 ## I found a bug in the tutorial!
 
-Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help help are really appreciated.
+Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help are really appreciated.
