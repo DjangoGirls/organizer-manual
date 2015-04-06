@@ -1,6 +1,6 @@
 # Conference partnerships
 
-One of the ways that you can boost your event is by partnering with conferences in your city (or neighboring cities!). This section contains some (hopefully) helpful tips and guidelines that you can use when you communicate and operate with a conference.
+One of the ways to boost your event is by partnering with conferences in your city (or neighboring cities!). This section contains some (hopefully) helpful tips and guidelines that you can use when you communicate and operate with a conference.
 
 When you first approach a conference, assuming that they're interested, you can bring up any of the standard sponsorship requests as you would with any sponsor. However, there are a few unique areas where conferences can be a great source of support, more so than other types of sponsors.
 
@@ -19,7 +19,7 @@ This will help orientate the participants to the venue, and if you time the brea
 
 More and more conferences are kicking off diversity activities, scholarships, talk mentoring programs, and more. If you aim for international attendance, you could approach the conference for help with travel funds and accommodation. 
 
-For example, many conference already have room blocks or discounts at hotels, and might also be able to directly sponsor the rooms (or arrange for an invoice that another sponsor can pay directly to the hotel).
+For example, many conferences already have room blocks or discounts at hotels, and might also be able to directly sponsor the rooms (or arrange for an invoice that another sponsor can pay directly to the hotel).
 
 ## Swag and food
 
@@ -43,11 +43,11 @@ If the conference is Python/Django-focused, you can probably join an existing sp
 
 ## Table/booth
 
-Attending your first tech conference can be scary, even when you're not an absolute beginner! A well-placed booth will give the workshop participants a "home base", where they can return to if they feel lost. Having a booth also gives a chance for the participants (new graduates!) to act as subject matter experts, as conference attendees tend to walk up, look around, ask questions. 
+Attending your first tech conference can be scary, even when you're not an absolute beginner! A well-placed booth will give the workshop participants a "home base", where they can return to if they feel lost. Having a booth also gives a chance for the participants (new graduates!) to act as subject matter experts, as conference attendees tend to walk up, look around and ask questions. 
 
 Some tips and suggestions for a successful booth:
 
 * The booth should be operated by at least 1 coach/organizer and 1-2 participants, so that attendees can learn about the different perspectives of the project. The easiest way to set this up is to create a Doodle with timeslots for each "shift", and ask participants to "vote" for the times that they can attend.
-* When you order swag for the workshop, choose a few key items and order double/triple/etc so that you have enough to give away at the conference. For example, at DevConf.cz we ordered twice the amount of pens and buttons as we gave out during the workshop, and they were gone by the end of the first day!
+* When you order swag for the workshop, choose a few key items and order double/triple/etc. so that you have enough to give away at the conference. For example, at DevConf.cz we ordered twice the amount of pens and buttons as we gave out during the workshop, and they were gone by the end of the first day!
 * Decorations for the booth are up to you! Some options could be printed tablecloths, rollups, LED lightstrips, and so on. Cupcakes are recommended too ;-)
 * Make sure you have at least 1-2 power adapters/extension cords, as conferences do not always provide these! Optional: Arrange for a computer monitor where you can run a slideshow of previous Django Girls workshop photos, demo the tutorial in action, etc.

@@ -6,7 +6,7 @@ Congratulations, you MADE IT! And we want to hear all about it :)
 
 #### Thank everyone
 
-Sending a little thank you note to your attendees, coaches and sponsors is important. Remember to also treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
+Sending a little thank you note to your attendees, coaches and sponsors is important. Remember also to treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
 
 Make sure to reach out to your event's sponsors, tell them about how it went and thank them once again. It is very important to let them know how their money was spent and there is no better way than writing how awesome the workshop they sponsored was.
 
@@ -16,13 +16,13 @@ The goal of Django Girls is to shape future software developers, so we shouldn't
 - Invite them to our Gitter chat
 - Give them a list of local events and meetups
 - Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
-- Maybe even organize a follow up meeting to meet for a coffee?:) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
+- Maybe even organize a follow up meeting to meet for a coffee? :) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
 
 ### Evaluation form for participants and coaches
 
-It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? This questions are very important and it is great to know answers before organizing the second edition, right :)?
+It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :)?
 
-Make sure the forms are anonymous. Please note that if you ask for their coach name, the form is not so anonymous anymore.
+Make sure the forms are anonymous. Please note that if you ask for their coaches name, the form is not so anonymous anymore.
 
 #### Tell people about our "Your Django Story" interview series
 
@@ -35,7 +35,7 @@ We want to build a global community of women who help each other, empower each o
 
 #### Let us know how it went!
 
-We can't wait to hear about your experiences. It'd be great if you could share whatever you learned with us. This list of questions maybe helpful:
+We can't wait to hear about your experience. It'd be great if you could share whatever you learned with us. This list of questions maybe helpful:
 
 1. How many participants attended your event?
 2. How many coaches attendeed your event?
@@ -50,7 +50,7 @@ If you want to, you can also share everything with the Django Girls Organizer gr
 
 #### Consider writing a blog post
 
-Share with the world how awesome it was! Consider following [Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) and [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014) describing your whole event on our blog. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Django Girls event in the future, this will also help you attract sponsors -- you can just send them a link to convince them that Django Girls in your city is awesome!
+Share with the world how awesome it was! Consider following [Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) and [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014) describing your whole event on our blog. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Django Girls event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Django Girls in your city is awesome!
 
 We would be happy to publish it -- just let us know. You know where to find us :)
 

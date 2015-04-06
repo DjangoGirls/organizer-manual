@@ -4,17 +4,17 @@ There are a couple of things that are important while organizing a Django Girls 
 
 ## Venue
 
-General rule about the venue: very often, you can get a space for free. Your target are: big coworking spaces, hackerspaces, makerspaces, univerisities, local companies, startups. These are the places that may be willing to offer you space for free (especially during weekends).
+General rule about the venue: very often, you can get a space for free. Your targets are: big coworking spaces, hackerspaces, makerspaces, univerisities, local companies, startups. These are the places that may be willing to offer you space for free (especially during weekends).
 
 The setup should allow you to sit comfortably everyone in small groups (team of 3 + 1 coach). The best setup is just square tables (or two tables put together) with 4 chairs around it.
 
 ### Power cords
 
-Rembember that they all need power :) Often the venue can offer you this, but if they can't, just ask attendees and coaches to bring one power cord each -- this way you will have more than enough.
+Remember that they all need power :) Often the venue can offer you this, but if they can't, just ask attendees and coaches to bring one power cord each -- this way you will have more than enough.
 
 ### Internet
 
-Internet is crucial, so ask your venue provider if they tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives.
+Internet is crucial, so ask your venue provider if they have tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives.
 
 It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out it is not working. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
 
@@ -22,11 +22,11 @@ It's a good idea to have some backup mobile internet and to create a hotspot for
 
 ### Decorations
 
-Good atmosphere and friendly experience is extremaly important, so if you have enough budget, don't think twice about [printing some posters](../resources/README.html), buying fresh flowers or bringing nice table clothes. These small little things can go a long way and bring a better experience for everyone. We like nice things, right?
+Good atmosphere and friendly experience is extremely important, so if your budget is big enough, don't think twice about [printing some posters](../resources/README.html), buying fresh flowers or bringing nice table clothes. These small little things can go a long way and bring a better experience for everyone. We like nice things, right?
 
 ## Food
 
-If you don't have enough budget, don't worry to much. It's a free event, people will be grateful to you anyway. Lunch is the most important one, because you want to keep people energized and don't want to provide too much distractions.
+If you don't have enough budget, don't worry too much. It's a free event, people will be grateful to you anyway. Lunch is the most important one, because you want to keep people energized and don't want to provide too much distraction.
 
 But if you can, it's awesome to do this:
 
@@ -40,7 +40,7 @@ Order something fresh and tasty. Plan for ~25% of vegetarian option (some people
 
 ### Drinks
 
-Buy some water, juices and lemons with paper/plastic cups before the event so you don't have to overpay the catering company for this stuff. Usually 1 liter per person per day is enough. If you don't have a car transporting that much water might be a problem. You can ask some of you coaches or other helpers to meet you at a store the morning of the workshop and help you carry the water to the venue. In case you run out of water or food it's good to have a helper available who can go to the store for you during the workshop.
+Buy some water, juices and lemons with paper/plastic cups before the event so you don't have to overpay the catering company for this stuff. Usually 1 liter per person per day is sufficient. If you don't have a car transporting that much water might be a problem. You can ask some of you coaches or other helpers to meet you at a store the morning of the workshop and help you carry the water to the venue. In case you run out of water or food it's good to have a helper available who can go to the store for you during the workshop.
 
 ### Snacks
 
