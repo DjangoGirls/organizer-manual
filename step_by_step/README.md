@@ -9,28 +9,28 @@ Let's see how it looks on the timeline:
 ### 3 months before
 
 - __Apply to the Django Girls organization to register your event__
-- Announce a [website](../website/README.html), [Twitter or Facebook](/promotion/README.html)
-- [Start promotion of Django Girls](../promotion/README.html)
-- [Start looking for sponsors](../sponsors/README.html)
-- [Start looking for a venue](../logistics/README.html)
-- [Start looking for coaches](../coaches/README.html)
+- Announce a [website](../website/), [Twitter or Facebook](/promotion/)
+- [Start promotion of Django Girls](../promotion/)
+- [Start looking for sponsors](../sponsors/)
+- [Start looking for a venue](../logistics/)
+- [Start looking for coaches](../coaches/)
 
 ### 2 months before
 
-- [Announce the application process for attendees](../attendees/README.html)
-- [Reach out to local press, universities, etc. to actively promote the event](../promotion/README.html)
-- [Have a team of coaches ready](../coaches/README.html)
+- [Announce the application process for attendees](../attendees/)
+- [Reach out to local press, universities, etc. to actively promote the event](../promotion/)
+- [Have a team of coaches ready](../coaches/)
 - Secure a venue
 - Start looking for catering
-- [Still look for sponsors](../sponsors/README.html)
+- [Still look for sponsors](../sponsors/)
 
 ### 1 months before
 
 - Announce your coaches on your website
 - [Choose attendees and inform them](../attendees/README.html#how-to-choose-attendees)
-- Organize a dinner/meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](../tutorial/README.html).
+- Organize a dinner/meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](../tutorial/).
 - Make sure attendees confirmed their attendance
-- [Make sure all the logistics are figured out](../logistics/README.html)
+- [Make sure all the logistics are figured out](../logistics/)
 
 ### 1 week before
 
@@ -38,7 +38,7 @@ Let's see how it looks on the timeline:
 
 ### After the event
 
-- Follow up with global Django Girls and let us know how it went! [Here are some ideas](../after_the_event/README.html).
+- Follow up with global Django Girls and let us know how it went! [Here are some ideas](../after_the_event/).
 - __Be proud of yourself <3__
 
 All of this is further explained in the chapters on the left, but this is the bigger picture.
