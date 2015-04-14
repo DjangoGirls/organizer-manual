@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](./)
+* [Introduction](README.md)
 * [Step by step](step_by_step/)
 * [Attendees](attendees/)
 * [Promotion](promotion/)
