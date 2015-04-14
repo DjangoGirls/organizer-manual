@@ -54,4 +54,10 @@ Share with the world how awesome it was! Consider following [Warsaw](http://blog
 
 We would be happy to publish it -- just let us know. You know where to find us :)
 
+## Next editions
+
+If you plan to organize next editiong of Django Girls in your city, you will need to let us know, so that:
+* we know it is happening :)
+* we will setup a new website for you (with the same address) - **please do not change old website after the event** - it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page. We also associate some stats after each finished event, so changing you old website will cause trouble for us.
+
 
