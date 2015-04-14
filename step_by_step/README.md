@@ -27,7 +27,7 @@ Let's see how it looks on the timeline:
 ### 1 months before
 
 - Announce your coaches on your website
-- [Choose attendees and inform them](../attendees/README.html#how-to-choose-attendees)
+- [Choose attendees and inform them](../attendees/#how-to-choose-attendees)
 - Organize a dinner/meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](../tutorial/).
 - Make sure attendees confirmed their attendance
 - [Make sure all the logistics are figured out](../logistics/)
