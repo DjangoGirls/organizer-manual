@@ -2,11 +2,11 @@
 
 We want to make all Django Girls events as accessible as possible. Making your
 event accessible will help everyone, not just attendees with disabilities. This 
-page can be daunting, because we are trying to be comprehensive, but read through 
+page can be daunting because we are trying to be comprehensive, but read through 
 it and do your best! 
 
 Depending on your venue, you might not be able to do all of these things. But if you 
-think about accessibility from the time yoxu decide to organize an event, you
+think about accessibility from the time you decide to organize an event, you
 have a better chance of not accidentally leaving groups of people out. So 
 here are a few things to consider with respect to accessibility when organizing 
 your event. 
@@ -84,9 +84,7 @@ Don't make your attendees ask which accommodations you're able to provide. Be up
 able to do! This will encourage people who need those accommodations to apply, since they will be 
 confident that they can participate in your event. Being specific with your list of accommodations 
 will show potential attendees that you're working to create a space where access and inclusivity are 
-priorities. For suggestions on integrating accessibility into your web site, here is how one of our events addressed this issue: 
-
-![image](https://www.dropbox.com/s/j0w4twl0yho06dx/accessibility.jpg?dl=0)
+priorities. You can just add these as questions in your FAQ section. See [this event](http://djangogirls.org/portland) for some suggestions. 
 
 Ask for suggestions from your coaches and attendees on other things you might want to provide. For example, 
 maybe you can find a friend to volunteer time for child care. 
