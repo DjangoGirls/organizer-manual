@@ -39,8 +39,8 @@ Will your attendees be able to work in quiet?
 gender-neutral restrooms that are trans-inclusive? 
 - Is there accessible parking? 
 - Is there adequate lighting for your attendees to work? 
-- Is the venue allergy-free? Can you ask your attendees to not wear perfume to the event, 
-for folks who have allergies or are prone to migraines? Are the cleaning products scent-free?
+- Is the venue allergy-free and scent-free?  Consider creating a [scent policy](https://portland.adacamp.org/policies/#scent] and asking  attendees to not wear perfume to the event, 
+for folks who have allergies, asthma, or are prone to migraines. 
 
 ### Sight impairments 
 
@@ -51,7 +51,7 @@ the installation party is a great opportunity for a coach to get to know this at
 
 Not all attendees who are sight impaired are blind, so make sure that any presenters giving lightning 
 talks are using a large font on their screen. (Remember that code in particular can be hard to read 
-on a PowerPoint.) Ask your presenters to prepare handouts in at least 18-point font. Ask your 
+on a PowerPoint.) Ask your presenters to prepare handouts in at least 18-point font. (If your coaches are giving talks, ask them to give you a digital file in advance so you can make copies beforehand; ideally, coaches shouldn't be out money to participate in your workshop!) Ask your 
 presenters to also remember to verbally describe any images that are in their presentations. 
 
 Make sure the web site and materials you prepare for the workshop pass the [Web AIM Contrast Checker](http://webaim.org/resources/contrastchecker/). 
