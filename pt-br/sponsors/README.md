@@ -22,7 +22,7 @@ Nós recomendamos falar com seus patrocinadores e perguntar sobre seus objetivos
 
 ## O que você não pode oferecer para patrocinadores?
 
-A coisa mais importanteé: __não venda dados dos seus participantes (nomes, emails, etc).__ Você pode enviar emails para os participantes em nome do seu patrocinador, mas você não pode compartilhar informação privada com eles.
+A coisa mais importante é: __não venda dados dos seus participantes (nomes, emails, etc).__ Você pode enviar emails para os participantes em nome do seu patrocinador, mas você não pode compartilhar informação privada com eles.
 
 Patrocinadores são livres para aparecer durante o evento e falar diretamente com os participantes.
 
@@ -32,14 +32,14 @@ Se você tem tempo para isso, nós realmente recomendamos criar uma simples Ofer
 
 Você pode utilizar a [Oferta de Patrocínio](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) que nós preparamos para nosso primeiro evento e modificá-lo de acordo com sua necessidade.
 
-Cobre seus patrocinadores entre 300 e 1000 euros, mas lembre-se que que mesmo as menores contribuições são importantes.
+Cobre seus patrocinadores entre 300 e 1000 euros, mas lembre-se que mesmo as menores contribuições são importantes.
 
 ### Quem pode ser patrocinador?
 
 - Procure por eventos similares na sua cidade e tente contactar empresas que apoiam esses eventos
-- Email ou ligue para companhias locais que são familiares a você. Encontrar patrocinadores locais pode ser mais trabalhoso que contactar uma grande companhia global mas no fim vale a pena porque a chance de conseguir dinheiro para o evento de um patrocinador local é maior e você pode criar uma boa relação com eles. É bem possível que eles te ajudem num futuro workshop ou evento de continuidade na sua cidade também.
+- Envie um e-mail ou ligue para companhias locais que são familiares a você. Encontrar patrocinadores locais pode ser mais trabalhoso que contactar uma grande companhia global mas no fim vale a pena porque a chance de conseguir dinheiro para o evento de um patrocinador local é maior e você pode criar uma boa relação com eles. É bem possível que eles te ajudem num futuro workshop ou evento de continuidade na sua cidade também.
 - Poste um pedido de ajuda nas suas redes sociais e talvez alguém vá se juntar a você!
-- Crie uma lista de empresas locais que usam Python no dia-a-dia e mande um email para eles pedindo ajuda
+- Crie uma lista de empresas locais que usam Python no dia-a-dia e mande um email para eles pedindo ajuda.
 - Contacte empresas e organizações globais como [Github](http://community.github.com/) ou pergunte [Django Software Foundation](https://djangoproject.com/) por ajuda. Tenha em mente que a Django Software Foundation é um fundação com um orçamento bem limitado, então só pergunte para eles se você realmente precisar de ajuda. Também tente achar companhias globais que ainda não patrocinaram um evento Django Girls.
 - A Python Software Foundation oferece 50$ por participante garantido pelo Python Educational Programs (você é elegível para isso!). Envie para eles uma proposta aqui: https://www.python.org/psf/grants/
 
@@ -64,7 +64,7 @@ X X
 Infelizmente, você também tem que cuidar de tranferir dinheiro do patrocinador para o fornecedor. Você pode fazer isso de três maneiras:
 
 - Se você tem sua própria empresa, você pode apenas faturá-los e pagar os custos. Essa é provavelmente a melhor maneira.
-- Se você não tem sua própria empresa, pergunte para a comunidade local de Python ou para seus amigos se eles podem ajudar com isso. SE tiver uma associação de Django/Python no seu país você pode pedir ajuda para eles também. Se você manipular a transferência do dinheiro através de um amigo fique em mente que você deverá pagar as taxas no dinheiro recebido. O valor varia de país para país.
+- Se você não tem sua própria empresa, pergunte para a comunidade local de Python ou para seus amigos se eles podem ajudar com isso. Se tiver uma associação de Django/Python no seu país você pode pedir ajuda para eles também. Se você manipular a transferência do dinheiro através de um amigo fique em mente que você deverá pagar as taxas no dinheiro recebido. O valor varia de país para país.
 - Se isso não funcionar também você pode pedir para patrocinadores pagarem a comida e as impressões diretamente.
 
 Certifique-se de dizer para seus patrocinadores quando você precisa do dinheiro. Transferência de dinheiro pode demorar alguns dias e você precisa pagar coisas como impressão de camisas e bolsas com antecedência. Tenha certeza de ter todo o dinheiro na sua conta do banco pelo menos 1 a 2 semanas antes do workshop para não entrar em confusão e ter que organizar algumas coisas no último minuto.

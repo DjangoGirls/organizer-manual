@@ -1,4 +1,3 @@
-
 # Ambiente
 
 O objetivo das Django Girls não é apenas ensinar pessoas a programarem, mas __fazê-lo num ambiente amigável e positivo.__
