@@ -27,7 +27,7 @@ O website irá vir com algum conteúdo padrão que pode ser ajustado de acordo c
 
 É possível adicionar logos de patrocinadores/parceiros no seu website. Tudo que você precisa é ir em _Core_ -> _Sponsors_ na página admin e clicar no botão  _Add sponsor_. Você irá ver algo parecido com:
 
-![](images/3.png)
+![](../../website/images/3.png)
 
 Agora, você deverá preencher alguns campos:
 
