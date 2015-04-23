@@ -15,4 +15,8 @@ Inside you can find:
 - Tattoos
 - Email and tweet templates
 
-Feel free to fork, contribute with your own resources and make pull request! <3
+Feel free to fork, contribute with your own resources and make a pull request! <3
+
+### Photos
+
+Check our [Flickr](https://www.flickr.com/photos/128162583@N08/sets/) account for photos from previous Django Girls events. If you want to use them, please be careful; __check the license of each photo__ and make sure you may use them. 

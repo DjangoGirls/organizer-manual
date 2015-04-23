@@ -1,10 +1,10 @@
 # Website
 
-We've built a simple Django application that allows you to create your event's website in a really simple way. You don't have to know how to code to change it but little knowledge about HTML and CSS will be helpful :)
+We have built a simple Django application that allows you to create your events website in a really simple way. You don't have to know how to code to change it but a little knowledge about HTML and CSS will be helpful :).
 
 ## Want your website?
 
-Send us an email to [hello@djangogirls.org](mailto:hello@djangogirls.org) and give us following details:
+Send us an email to [hello@djangogirls.org](mailto:hello@djangogirls.org) and give us the following details:
 
 - Name of the city
 - Name of the country
@@ -13,7 +13,7 @@ Send us an email to [hello@djangogirls.org](mailto:hello@djangogirls.org) and gi
 - Name and e-mail address of the team leader
 - Names and e-mail addresses of the rest of the team (if any)
 
-You'll receive an access to Django Admin. It looks like this:
+You'll receive an access to the Django Admin panel. It looks like this:
 
 ![](images/1.png)
 
