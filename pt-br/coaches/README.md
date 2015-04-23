@@ -2,14 +2,14 @@
 
 Para ter sucesso no workshop você precisa ter bons treinadores. Você não necessariamente precisa de alguém com um grande conhecimento em Pyton/Django. Você está procurando por pessoas que podem ensinar os outros e pode inspirá-las a aprender.
 
-Se você está fazendo o evento como parte de uma conferência de Phython/Django você provavelmente não terá problemas em achar pessoas dispostas a ajudar. No caso de um evento sozinho - você deve entrar em contato com a comunidade local de Python/Django. Tem também pessoas que gostam de viajar e ajudar com esse tipo de evento.
+Se você está fazendo o evento como parte de uma conferência de Python/Django você provavelmente não terá problemas em achar pessoas dispostas a ajudar. No caso de um evento sozinho - você deve entrar em contato com a comunidade local de Python/Django. Tem também pessoas que gostam de viajar e ajudar com esse tipo de evento.
 
 Tenha certeza que você tem um plano B se um ou mais dos seus treinadores não aparecer.
 
 
 ## Chamada por treinadores
 
-É importante procura por treinadores o mais rápido possível. Crie um formulário separado para eles.
+É importante procurar por treinadores o mais rápido possível. Crie um formulário separado para eles.
 O nosso é assim:
 
 1. Qual o seu nome?
@@ -20,7 +20,7 @@ O nosso é assim:
 6. Quais línguas você fala?
 7. Você vai ter tempo de, antes dos workshops, ajudar o seu grupo (3 pessoas) a instalar Python e Django via Google Hangouts/Skype/email?
 8. Você vai ter tempo de encontrar a gente e outros treinadores um dia antes do workshop?
-9. Você tem alguam experiência anterior em ensinar os outros? Fale com a gente sobre isso.
+9. Você tem alguma experiência anterior em ensinar os outros? Fale com a gente sobre isso.
 
 Você pode também copiar nosso atual template de do formulário [clicando nesse link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) e escolhendo "File" e "Make a copy..." no menu Options.
 
@@ -56,7 +56,7 @@ Nós achamos que é uma boa ideia ter um treinador mais experiente no local que 
 É bom criar um encontro/hangout com os treinadores antes do evento. Ele precisam pelos menos se conhecer para eles saberem para quem pedir ajuda durante o workshop.
 
 Alguma informação que vale mencionar:
-- os treinadores precisam saber o cronograma detalhado do evento (também falar com eles se querem e quando fazer uma introdução oficial)
-- é importante destacar que eles precisam oferecer ajuda para os participantes não apenas com detalhes técnicos - os participantes se sentirão seguros se o treinador saber alguns outros detalhes
-- se é possível pedir para os treinadores para verificar se o seu grupo está no level que foi informado no formulário de inscrição
-- pergunte para os treinadores se eles precisam de ajuda com o tutorial - talvez alguns deles tenham perguntas específicas e querem discutir com os outros?
+- os treinadores precisam saber o cronograma detalhado do evento (também falar com eles se querem e quando fazer uma introdução oficial);
+- É importante destacar que eles precisam oferecer ajuda para os participantes não apenas com detalhes técnicos - os participantes se sentirão seguros se o treinador saber alguns outros detalhes;
+- Se é possível pedir para os treinadores para verificar se o seu grupo está no nível que foi informado no formulário de inscrição;
+- Pergunte para os treinadores se eles precisam de ajuda com o tutorial - talvez alguns deles tenham perguntas específicas e queiram discutir com os outros.

@@ -8,11 +8,11 @@ Um dos maiores objetivos das Django Girls é tornar mais popular a construção 
 
 Escreva um release para a mídia (ou nos peça ajuda com isso!), prepare uma lista de bloggers e jornalistas locais que escrevem sobre revistas com foco em mulheres e simplesmente mande um e-mail. Tenha certeza de que você faça isso com antecedência o bastante para eles terem tempo de preparar um artigo e publicá-lo (2-3 meses antes do evento é bom o suficiente).
 
-Se você está trabalhando com uma empresa grande enquanto patrocinadora, talvez o setor de RH deles também possa ajudar com isso?
+Se você está trabalhando com uma empresa grande enquanto patrocinadora, talvez o setor de RH deles também possa ajudar com isso.
 
 ### Facebook, twitter, mídias sociais
 
-Divulgar o seu evento via mídias socias é muito fácil hoje em dia. Crie uma fanpage, um perfil no twitter ou qualquer outro serviço que você use na sua cidade e peça aos seus amigos para ajudá-las a compartilhar. As pessoas compartilham coisas facilmente hoje em dia e este foi de longe um dos mais efetivos meios de divulgação para nós também.
+Divulgar o seu evento via mídias sociais é muito fácil hoje em dia. Crie uma fanpage, um perfil no twitter ou qualquer outro serviço que você use na sua cidade e peça aos seus amigos para ajudá-las a compartilhar. As pessoas compartilham coisas facilmente hoje em dia e este foi de longe um dos mais efetivos meios de divulgação para nós também.
 
 Vá para o [capítulo sobre recursos](resources/README.html) para encontrar logos, imagens e fotos que você pode utilizar nos seus perfis nas mídias sociais.
 
@@ -38,4 +38,4 @@ Vá até a nossa [página de recursos](resources/README.html) para encontrar pos
 
 ### Recomendações
 
-No seu questionário de aplicação você pode perguntar às mulheres os e-mails de outras mulheres que elas recomendariam participar do workshop. Envie convites pessoais e encoraje-as a se inscreverem.
+No seu questionário de inscrição você pode perguntar às mulheres os e-mails de outras mulheres que elas recomendariam participar do workshop. Envie convites pessoais e encoraje-as a se inscreverem.

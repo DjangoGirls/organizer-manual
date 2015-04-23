@@ -1,6 +1,6 @@
 # Logística
 
-Há um par de coisas que são importantes durante a organização de um evento Django Girls. Não vamos tentar explicar tudo nos mínimos detalhes, mas nós fazemos a elaboração de algumas coisas mais importantes:
+Um conjunto de coisas que são importantes durante a organização de um evento Django Girls. Não vamos tentar explicar tudo nos mínimos detalhes, mas nós fazemos a elaboração de algumas coisas mais importantes:
 
 ## Local de reunião
 
@@ -32,7 +32,7 @@ Normalmente comprar alguns doces ou rosquinhas no caminho para o local é sufici
 
 ### Almoço
 
-Peça algo fresco e saboroso. Tenha um plano para ~25% de opção vegetariana (algumas pessoas preferem apenas legumes, mesmo se elas não são vegetarianas). Se você não tem um monte de dinheiro compre pão e diferentes complementos como salsicha e queijo, manteiga de amendoim, etc, em uma loja para que as pessoas podem fazer-se sanduíches, é uma boa opção.
+Peça algo fresco e saboroso. Tenha um plano para ~25% de opção vegetariana (algumas pessoas preferem apenas legumes, mesmo se elas não são vegetarianas). Se você não tem um monte de dinheiro compre pão e diferentes complementos como salsicha e queijo, manteiga de amendoim, etc, em uma loja para que as pessoas podem fazer seus próprios sanduíches, é uma boa opção.
 
 ### Bebidas
 
@@ -48,7 +48,7 @@ Isto é apenas se você tem dinheiro suficiente para isso.
 
 ### Tatuagens temporárias!
 
-Isto é de longe a forma mais divertida e mais acessível para fazer algo legal em seu evento. Você só precisa comprar [papel para tatuagem temporária](http://www.amazon.com/Silhouette-MEDIA-TATTOO-Temporary-Tattoo-Paper/dp/B0043WJ3OA/), imprimir o [nosso designs ready-to-go ](https://github.com/DjangoGirls/resources/tree/master/Design/Tattoos) em sua impressora doméstica, cortá-los e você está pronto para ir! Você pode ter um monte de tatuagens por apenas um par de dólares.
+Isto é de longe a forma mais divertida e mais acessível para fazer algo legal em seu evento. Você só precisa comprar [papel para tatuagem temporária](http://www.amazon.com/Silhouette-MEDIA-TATTOO-Temporary-Tattoo-Paper/dp/B0043WJ3OA/), imprimir o [nosso design ready-to-go ](https://github.com/DjangoGirls/resources/tree/master/Design/Tattoos) em sua impressora doméstica, cortá-los e você está pronto para ir! Você pode ter um monte de tatuagens por apenas um par de dólares.
 
 ### Camisas para os treinadores
 
@@ -56,7 +56,7 @@ Encomende camisas para os seus treinadores como um presente de agradecimento, ma
 
 ### Tote bags
 
-Nós gostamos de tote bags, certo ?! Elas também são muito baratas para imprimir e é um belo presente para os participantes que irão lembrar sobre o evento mais tarde :)
+Nós gostamos de tote bags, certo ?! Elas também são muito baratas para imprimir e é um belo presente para as participantes que irão lembrar sobre o evento mais tarde :)
 
 ### Adesivos
 

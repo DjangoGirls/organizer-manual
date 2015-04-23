@@ -106,7 +106,7 @@ A ordem das inscrições também não foi determinada - nós pontuamos em ordem 
 
 Nós pontuamos cada inscrição de 1 a 5.
 
-Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (sugerido por Daniele Procida):;
+Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (sugerido por Daniele Procida):
 
 * Qual é o benefício real para a inscrita?
 
@@ -120,13 +120,13 @@ Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (s
 
 * Qual é o custo/benefício global, se a inscrita está perguntando por fundos?
 
-* Qual é meu sentimento global sobre a inscrita?
+* Qual é meu sentimento geral sobre a inscrita?
 
 Como você pode ver, existiam diversos pontos que levamos em consideração quando pontuamos. Foi muito, muito, difícil de se obter. Se a inscrição não foi muito detalhada - a chance de ser aceita é bem baixa. Mas escrevendo bastante também não foi uma receita de sucesso. Nós buscamos por idéias e compromissos concretos nas inscrições.
 
 Busque por um grupo diversificado: Quanto mais as pessoas são diferentes, as idéias mais loucas/divertidas/criativas irão ocorrer durante o evento.
 
-A dica final: Siga seu coração :) Escolha aqueles quem mais te convencem, aqueles quem mais precisam, aqueles quem podem querer mudar suas vidas e seguir este caminho como uma carreia. A escolha é sua, mas nunca é fácil.
+A dica final: Siga seu coração :) Escolha aqueles quem mais te convencem, aqueles que mais precisam, aqueles que podem querer mudar suas vidas e seguir este caminho como uma carreia. A escolha é sua, mas nunca é fácil.
 
 ## E-mail de aceitação/rejeição
 
