@@ -57,3 +57,5 @@ Some information worth mentioning:
 - it's important to highlight that they should provide help for the attendees not only with the technical details - it will make the attendees feel safe if the coach will know some other details
 - if this is possible ask the coaches to verify if their group is at the level they have stated in the registration form
 - ask the coaches if they need help with the tutorial - maybe some of them have some specific questions or want to discuss it with others?
+
+
