@@ -15,11 +15,11 @@ Mande-nos um email para [hello@djangogirls.org](mailto:hello@djangogirls.org) e 
 
 Você irá receber um acesso ao Django Admin. Ele se parece com:
 
-![](images/1.png)
+![](../../website/images/1.png)
 
 Você também poderá mudar todo o conteúdo do seu website:
 
-![](images/2.png)
+![](../../website/images/2.png)
 
 O website irá vir com algum conteúdo padrão que pode ser ajustado de acordo com o que você precisa.
 
