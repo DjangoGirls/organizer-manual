@@ -1,4 +1,4 @@
-﻿## Accessibility 
+# Accessibility 
 
 We want to make all Django Girls events as accessible as possible. Making your
 event accessible will help everyone, not just attendees with disabilities. This 
