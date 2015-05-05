@@ -42,16 +42,16 @@ gender-neutral restrooms that are trans-inclusive?
 - Is the venue allergy-free and scent-free?  Consider creating a [scent policy](https://portland.adacamp.org/policies/#scent) and asking  attendees to not wear perfume to the event, 
 for folks who have allergies, asthma, or are prone to migraines. 
 
-### Sight impairments 
+### Blind or low-sight attendees 
 
-To welcome attendees with sight impairments, first speak to your coaches. Someone coaching an 
-attendee with a sight impairment should first and foremost be flexible. An attendee with a sight
-impairment probably already has a screen reader set up on their machine that they are used to, so
+To welcome attendees with blind or low vision, first speak to your coaches. Someone coaching an 
+attendee with low vision should first and foremost be flexible. An attendee with low vision
+may already have a screen reader set up on their machine that they are used to, so
 the installation party is a great opportunity for a coach to get to know this attendee's setup. 
 
-Not all attendees who are sight impaired are blind, so make sure that any presenters giving lightning 
+Not all attendees who have low vision are blind, so make sure that any presenters giving lightning 
 talks are using a large font on their screen. (Remember that code in particular can be hard to read 
-on a PowerPoint.) Ask your presenters to prepare handouts in at least 18-point font. (If your coaches are giving talks, ask them to give you a digital file in advance so you can make copies beforehand; ideally, coaches shouldn't be out money to participate in your workshop!) Ask your 
+on a PowerPoint.) Ask your presenters to prepare handouts in a large font. (If your coaches are giving talks, ask them to give you a digital file in advance so you can make copies beforehand; ideally, coaches shouldn't be out money to participate in your workshop!) Ask your 
 presenters to also remember to verbally describe any images that are in their presentations. 
 
 Make sure the web site and materials you prepare for the workshop pass the [Web AIM Contrast Checker](http://webaim.org/resources/contrastchecker/). 
@@ -63,18 +63,17 @@ so if you're doing any demonstrations on a large screen, make sure your font is 
 where to enlarge the type on the command line or in a text editor can also be hard, so have your coaches
 walk your attendees through that. It will make it easier for them to read and debug. 
 
-### Hearing impairments
+### Hard of hearing or Deaf attendees
 
-Again, working with attendees who are hearing imparired will go best with a flexible coach. Speak to your 
-coaches about using text-based communication (chat, whiteboard) during the tutorial for attendees with 
-hearing impairments. Remind coaches to look at their attendees when speaking to them, as there may 
+Again, working with attendees who are hard of hearing will go best with a flexible coach. Speak to your 
+coaches about using text-based communication (chat, whiteboard) during the tutorial for attendees who are Deaf or hard of hearing. Remind coaches to look at their attendees when speaking to them, as there may 
 be people who read lips. Also, find out if any of your attendees will be bringing interpreters; you 
 will want to provide them with food and a space to sit!
 
 Ask your presenters to speak slowly and clearly (sometimes people speak more quickly when they get 
 nervous!), and remind them to either provide a script or a handout for their presentation. 
 
-Remember that a hearing impairment doesn't always mean total hearing loss. People who are deaf, hard 
+Remember that being hard of hearing doesn't always mean total hearing loss. People who are Deaf, hard 
 of hearing, find it hard to concentrate in loud rooms, or for whom English (or whatever language your 
 workshop is in) is not their first language can all benefit from these tips. 
 
