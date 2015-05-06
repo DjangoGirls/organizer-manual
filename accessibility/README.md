@@ -42,7 +42,7 @@ gender-neutral restrooms that are trans-inclusive?
 - Is the venue allergy-free and scent-free?  Consider creating a [scent policy](https://portland.adacamp.org/policies/#scent) and asking  attendees to not wear perfume to the event, 
 for folks who have allergies, asthma, or are prone to migraines. 
 
-### Blind or low-sight attendees 
+### Blind or low vision attendees 
 
 To welcome attendees with blind or low vision, first speak to your coaches. Someone coaching an 
 attendee with low vision should first and foremost be flexible. An attendee with low vision
