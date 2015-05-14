@@ -18,7 +18,7 @@ __8.30am__ Doors open, breakfast is served, early registration starts.
 
 __9am__ Welcome everyone, do a short presentation explaining what we're going to do today and what the schedule looks like. Make sure they know they're awesome - the impostor syndrome is strong and you need to break the ice and ensure them they can do it.
 
-__9.30am__ The workshop starts! Teams and coaches should now get to work and follow the [tutorial](../tutorial/README.html).
+__9.30am__ The workshop starts! Teams and coaches should now get to work and follow the [tutorial](../tutorial/README.md).
 
 __12.30pm__ Time for lunch :) Do a one-hour break. You can also fit some talks by sponsors / invited speakers here. Make sure they're inspiring!
 

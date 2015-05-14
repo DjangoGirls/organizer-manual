@@ -14,7 +14,7 @@ If you're working with a big company as a sponsor, maybe their PR department can
 
 Getting the word out via social media is pretty easy today. Create a Facebook page, Twitter profile or fanpage on whatever service you use in your city and ask your friends to help you spread the word. People share things really easily, and that has been by far the most effective source for us too.
 
-Go to the [resources chapter](../resources/README.html) to find logos, images and photos you can use on your social media profiles.
+Go to the [resources chapter](../resources/README.md) to find logos, images and photos you can use on your social media profiles.
 
 You can also use photos from previous Django Girls events from our [Flickr](https://www.flickr.com/photos/128162583@N08/sets). You can freely use photos from our events in Warsaw and Kraków. __Please check the licence of photos you are going to use__. Some of them can be used only if certain conditions are met. 
 
@@ -36,7 +36,7 @@ Go to your local Girls in Tech, Geek Girl Dinner, Geek Girl Carrots, DevChix, an
 
 Print some posters and flyers and distribute them in your local gyms (women's locker rooms are awesome!), music stores, cafes or restaurants. Think about where women gather in your city and use those places to get women with very different backgrounds. Diversity rocks!
 
-Go to our [resources page](../resources/README.html) to find posters and flyers we already created. Don't be afraid to contribute yours, too!
+Go to our [resources page](../resources/README.md) to find posters and flyers we already created. Don't be afraid to contribute yours, too!
 
 ### Recommendations
 
