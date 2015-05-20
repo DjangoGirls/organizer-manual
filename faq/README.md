@@ -54,4 +54,12 @@ A: First of all, we are so sorry this is happening to you.
 
 Most of the time when people make this accusation, it's because they don't understand the law. Django Girls events, even when limited to only women, do not break the law, any more than women's only hacker schools like [Hackbright](http://hackbrightacademy.com/) or [App Camp for Girls](http://appcamp4girls.com/) do. Furthermore, our events are free, and might be best likened to a Pyladies educational meetup. 
 
-We recommend you either ignore people who are accusing you of being discriminatory, or of breaking the law; or send them one of the links in the response to the above question, "Isn't Django Girls sexist?" If you feel harassed, or are not sure how to respond, reach out to us as [hello@djangogirls.org](hello@djangogirls.org) and we would be glad to support you however we can. 
+We recommend you either ignore people who are accusing you of being discriminatory, or of breaking the law; or send them one of the links in the response to the above question, "Isn't Django Girls sexist?" If you feel harassed, or are not sure how to respond, reach out to us as [hello@djangogirls.org](hello@djangogirls.org) and we would be glad to support you however we can.
+
+**Q: Are Django Girls events trans-inclusive?** 
+
+A: Yes! We encourage you to make this explicit on your website. Some events have used this wording: 
+
+> We are trans-inclusive and welcome applications from all women. 
+
+You can add this to your FAQ, or to your event description on your event website. 
