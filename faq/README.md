@@ -47,3 +47,11 @@ that are "mixed gender," but are really mostly men. We've found that by limiting
 our workshop to a majority of women participants, women are more comfortable
 signing up, asking questions, getting involved, and even staying involved later
 on. And that's a good thing!
+
+**Q: I'm an organizer, and someone is saying that my Django Girls event breaks discrimination laws. What do I do?** 
+
+A: First of all, we are so sorry this is happening to you. 
+
+Most of the time when people make this accusation, it's because they don't understand the law. Django Girls events, even when limited to only women, do not break the law, any more than women's only hacker schools like [Hackbright](http://hackbrightacademy.com/) or [App Camp for Girls](http://appcamp4girls.com/) do. Furthermore, our events are free, and might be best likened to a Pyladies educational meetup. 
+
+We recommend you either ignore people who are accusing you of being discriminatory, or of breaking the law; or send them one of the links in the response to the above question, "Isn't Django Girls sexist?" If you feel harassed, or are not sure how to respond, reach out to us as [hello@djangogirls.org](hello@djangogirls.org) and we would be glad to support you however we can. 
