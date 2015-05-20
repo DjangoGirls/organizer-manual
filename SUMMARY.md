@@ -16,4 +16,5 @@
 * [Resources](resources/README.md)
 * [Environment](environment/README.md)
 * [After the event](after_the_event/README.md)
+* [FAQ](faq/README.md) 
 
