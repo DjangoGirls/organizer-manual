@@ -1,6 +1,6 @@
 # FAQ: Frequently Asked Questions 
 
-Django Girls events have been happening all over the world for awhile now, and we get some repeat questions. Hopefully this page will help you if part of the planning process has you confused! 
+Django Girls events have been happening all over the world for a while now, and we get some repeat questions. Hopefully this page will help you if part of the planning process has you confused! 
 
 **Q: Isn't Django Girls sexist?**
 
