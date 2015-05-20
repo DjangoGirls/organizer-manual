@@ -64,6 +64,6 @@ A: Yes! We encourage you to make this explicit on your website. Some events have
 
 You can add this to your FAQ, or to your event description on your event website. 
 
-**Q: Is there a Django Girls for Men?** 
+**Q: Is there a Django Girls for men?** 
 
 A: There doesn't seem to be a need for Django Boys at the moment. But all of our content, including our tutorial and this manual, is open sourced, so if you'd like to start a workshop aimed at another audience, we encourage you to do so! We support you starting an organization that reaches an audience you care about. All the resources we've created, including the tutorial and this manual, are open sourced under Creative Commons Attribution 4.0 International (CC BY 4). This means that you can modify, distribute and use commercially, but you cannot sublicense and you have to give us credit and include copyright. 
