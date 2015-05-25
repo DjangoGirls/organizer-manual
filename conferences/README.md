@@ -50,7 +50,7 @@ Some tips and suggestions for a successful booth:
 ### Logistics
 
 * The booth should be operated by at least 1 coach/organizer and 1-2 participants, so that attendees can learn about the different perspectives of the project. The easiest way to set this up is to create a Doodle with timeslots for each "shift", and ask participants to "vote" for the times that they can attend.
-* Write down and pay speciall attention to all the peak times at the booth, such as lunch, coffee breaks, breakfast, and make sure that the core organizers are present during those times.
+* Write down and pay special attention to all the peak times at the booth, such as lunch, coffee breaks, breakfast, and make sure that the core organizers are present during those times.
 * Make sure that the conference provides you with at least 1-2 power adapters/extension cords, as conferences do not always provide these! Optional: Arrange for a computer monitor where you can run a slideshow of previous Django Girls workshop photos, demo the tutorial in action, etc.
 
 
@@ -82,7 +82,7 @@ Decorations for the booth are up to you and are super-important to drive traffic
 ### Warnings
 
 * Do not leave the booth unattended! Depending on the conference, you might be able to leave basic swag overnight, but anything that is worth money like swag for sale, monitors, and tip jar (with money of course) must be either watched by someone at the booth or taken with you when you leave.
-* Don't waste money on foody swag, and don't be tempted to give away shirts or bags. Unlike the big corporations, we are operating independently and on a donation basis, and conferences provide enough food to all attendies that we don't need to supplament it!
+* Don't waste money on foody swag, and don't be tempted to give away shirts or bags. Unlike the big corporations, we are operating independently and on a donation basis, and conferences provide enough food to all attendies that we don't need to supplement it!
 * Don't let people leave their bags, jackets, or laptops in the booth unless they are on shift and can fit their items under the table or somewhere hidden. You might end up with a closet more than a booth!
 * Keep the table tidy! Cups, cans, bottles, unfinished food... They look a mess and clutter the table.
 
