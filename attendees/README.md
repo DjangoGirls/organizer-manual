@@ -56,7 +56,7 @@ What kind of questions should you ask in the form? We have a list of those we us
 8. What is your background? Do you have experience with making websites?
 9. Why do you want to attend Django Girls?
 10. What are you planning to do to share what you have learned with others?
-11. How did you heard about Django Girls? (Facebook | Twitter | From a friend | Other)
+11. How did you hear about Django Girls? (Facebook | Twitter | From a friend | Other)
 12. What language are you more comfortable with? (English | (language of your country) | Both)
 
 #### Financial aid questions
