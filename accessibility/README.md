@@ -88,9 +88,6 @@ priorities. You can just add these as questions in your FAQ section. See [this e
 Ask for suggestions from your coaches and attendees on other things you might want to provide. For example, 
 maybe you can find a friend to volunteer time for child care. 
 
-Good news - Google forms works really well with most screen readers! Feel free to use the templates 
-that Django Girls provides for Google forms with the confidence that they are accessible for your users.  
-
 ### Other resources
 
 - [Unlocking the Invisible Elevator: Accessibility at Tech Conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences), by Liz Henry

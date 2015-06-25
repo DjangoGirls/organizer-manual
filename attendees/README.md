@@ -12,7 +12,7 @@ The only way you can measure somebody's commitment is their application form. Ma
 
 ### Local events
 
-If you don't plan on providing any financial aid for participants you should open an application process at least a month (ideally two) before the event. Give people two weeks to apply, and ask them why they should be the ones to attend the event, and what is their motivation. You can create a simple Google Doc form or use a free service like Wufoo. Send people acceptance/rejection e-mails a week before the event. Make sure they confirm that they will attend.
+If you don't plan on providing any financial aid for participants you should open an application process at least a month (ideally two) before the event. Give people two weeks to apply, and ask them why they should be the ones to attend the event, and what is their motivation. It's easiest to use Django Girls website to manage applications. We will talk more about this below. Send people acceptance/rejection e-mails a week before the event. Make sure they confirm that they will attend.
 
 ### International events
 
@@ -36,60 +36,55 @@ You will need to send this letter (signed!) to the participant. You should also 
 
 ## Application form
 
-### Google Doc Form
+### Create a form on Django Girls website
 
-As we have mentioned, you can use Google Doc forms for this purpose. You can do that by going to your Google Drive, clicking the "CREATE" button and choosing "Form" and the "Create and share" option. Then you should fill in all the necessary data: name, layout, etc..
+You can create one application form for each Django Girls website. In order to do that, go to [Django Girls Admin -> Applications -> Form](http://djangogirls.org/admin/applications/form/) and click the "Add form" button. You will see a form like that:
 
-You can also copy our existing template form by [clicking this link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
+![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.20.19%20PM.png)
+
+Now you should edit out all the texts. Confirmation mail is what we will automatically send from your city@djangogirls.org to all applicants after they submit an applications.
+
+You can also specify when the form will automatically become and stop being available from the public, using the date fields at the end.
+
+Once you save the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website). This is an address you should also add on your website and share with potential applicants.
 
 ### Questions
 
-What kind of questions should you ask in the form? We have a list of those we used or those we think could be useful for future events.
+As you probably noticed, when you create a form, we also automatically add default questions. You can always edit, remove or add new questions by going to [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!
 
-1. What is your name?
-2. Your e-mail address?
-3. Your phone number (include your country prefix)
-4. Where are you from? (city, country)
-5. How old are you?
-6. Your laptop: What operating system do you have? (Windows | Mac OS X | Linux | Other)
-7. What is your current occupation? Tell us what you currently do: working, learning or something else?
-8. What is your background? Do you have experience with making websites?
-9. Why do you want to attend Django Girls?
-10. What are you planning to do to share what you have learned with others?
-11. How did you hear about Django Girls? (Facebook | Twitter | From a friend | Other)
-12. What language are you more comfortable with? (English | (language of your country) | Both)
+It is also a good idea to ask about previous experience in fields like programming (any language), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Also, ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
 #### Financial aid questions
+
+If you offer a financial assistance to your attendees, here is a list of example questions:
 
 1. Do you need financial assistance to come and stay in [city]?
 2. What is your current financial situation? Tell us why you need financial assistance.
 3. How much money do you need? Give us an exact amount of Euro/dollars you need. Try to break down costs.
 
-Some questions are not required. For example question 5 (age) is only used for statistical purposes.
-
-It is also a good idea to ask about previous experience in fields like programming (any language), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Also, ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
-
 #### Form submit notifications
 
-By default, Google Forms won't send any e-mail about the form being submitted. You won't be notified and the person filling out the form won't know what information she has submitted. This next step is not required, but people like to have some form of confirmation that the data was saved.
+Once your applicants submit their answer, they will receive an automatic confirmation to their email address with a copy of their responses. Woohoo!
 
-There are many ways of sending confirmation emails. The easiest way of accomplishing this is to install a simple plugin from Google. It is [available in the Add-on store](https://chrome.google.com/webstore/detail/form-notifications/bbpdeojefjfhaelgljjcadpcckdfcdod). The disatvantage of this solution is that the e-mails will be sent from your private gmail inbox - not the your_city@djangogirls.org one. If you know some JavaScript basics you can also play with Script Manager for a more customisable notification system. Follow the detailed instructions found [here](http://davidwees.com/content/email-confirmations-google-forms/) and use [our version of the script](https://gist.github.com/aniav/926f4667911ba1d138b8) instead of the code shown there. We have already used this in several events - it's safe.
+## Choosing attendees
 
-## How to choose attendees?
+You can see all applications submitted to your event by going to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+
+There you will see a list of all applications. You can filter them by state or RSVP status, you can see the details of each application and assign them to groups (accepted, rejected, waitlisted) as well as set their RSVP statuses (yes, no, waiting).
+
+### How to choose attendees?
 
 If you receive a lot of applications you will face a very hard problem: who should you choose? It was very hard for us to decide, but we came up with a way to score applications.
 
-We had four people scoring applications. We used Andrew Godwin's Django app created especially for this purpose. You can find it here: https://github.com/andrewgodwin/grorg. It is a good idea to ask Andrew directly about the app, especially if you have some funding from the Django Software Foundation.
-
-You can also add additional columns for the people scoring the applications where they would put their scores (it's nice to colour them!). You should also hide the columns with personal information so that the scores won't be influenced by these details. After the scoring process is done you should sum up all the votes in an additional column (e.g. called TOTAL) and sort the whole document by the column with the total score (Data > Sort sheet by column X Z → A). You will then have a spreadsheet with the people that will be able to attend the event as the first ones.
+Once you click on one of the applications, you can see that there is also a way to score applications there. All of the organizers can add scores for each application.
 
 ### Scoring
 
-To ensure that the first score is not influenced by others, each person scored applications without knowing the other three people's scores. After making a first scoring, one could see the other marks.
+To ensure that the first score is not influenced by others, each person scores applications without knowing the other people's scores. After making a first scoring, one can see the other marks.
 
-The order of applications was also not determined - we scored in random order, so the probability that one person is scored higher/lower only because she was always on top/bottom of the list, was low.
+The order of applications is also not determined - we score in random order, so the probability that one person is scored higher/lower only because she was always on top/bottom of the list is lower.
 
-We scored each application from 1 to 5.
+You can score each application from 1 to 5.
 
 Here is a list of things we took into account when scoring (suggested by Daniele Procida):
 
@@ -113,15 +108,56 @@ Look for a diverse group: the more different people are, the more crazy/fun/crea
 
 The final tip: follow you heart! Choose those who convince you the most, those who need it, those who may want to change their lives and follow this path as a career. The choice is yours, but it's never easy.
 
-## Acceptance/rejection e-mails
+## Waiting list
 
-Make sure you write to all people who have applied, not only to those who get in. It is as easy as sending the same thing to all e-mail addresses. Just make sure to put the addresses as BCC, so they are hidden to other people who receive the e-mail.
-
-It's a good idea to create a waiting list. We informed people that they didn't get in, but they were very close and asked them if they will be interested to join at a short waiting list if a spot will be available.
+It's a good idea to create a waiting list. We informed people that they didn't get in, but they were very close and asked them if they will be interested to join at a short waiting list if a spot will be available. There is always a couple of people who will say that they can't attend, so this way you can still fill the empty slots. 
 
 ## People resigning
 
-We had a number of people who said they won't manage to come even though they confirmed their attendence before. The waiting list worked very well in this scenario.
+We had a number of people who said they won't manage to come even though they confirmed their attendance before. The waiting list worked very well in this scenario.
 
 Be prepared to have some last minute (as in, one day before the workshops) cancellations. It's normal. As long as you have people who can fill in, don't worry.
 
+## Acceptance/rejection e-mails
+
+To make it easy for you to email all attendees at the same time, we build a way to send the same email to a chosen group of applicants.
+
+In order to do that:
+
+- Go to http://djangogirls.org/yourcity/communication/ (replace `yourcity` with your website address)
+- Click the "create new e-mail" button
+- You will see a form like that:
+
+ ![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.37.42%20PM.png)
+ 
+- You can choose the Recipients:
+ - `Application submitted` - means everyone with the application status = `submitted`
+ - `Application accepted` - means everyone with the application status = `accepted`
+ - `Application rejected` - means everyone with the application status = `rejected`
+ - `Application on waiting list` - means everyone with the application status = `waiting list`
+ - `RSVP: Waiting for response` - means everyone with the application status = `accepted` and rsvp status = `waiting`
+ - `RSVP: Confirmed attendance` - means everyone with the application status = `accepted` and rsvp status = `yes`
+ - `RSVP: Rejected invitation` - means everyone with the application status = `accepted` and rsvp status = `no`
+
+## What's up with this RSVP thing?
+
+[RSVP](https://en.wikipedia.org/wiki/RSVP_(invitations)) is sent to all accepted attendees. You should ask them if they still can attend the workshop, because otherwise you will give their spot to someone from the waiting list. 
+
+It's hard to gather information about that from ~30-40 people and make sure you won't mix something up, so we build a tool for that too.
+
+When you're sending your acceptance letter to all accepted attendees, make sure to add `RSVP: yes` and `RSVP: no` links to the email. You can do so by clicking the `Add a RSVP: yes link to email` and `Add a RSVP: no link to email` buttons above Recipients field. This will add a placeholder to the content of your email, something looking like that: `[rsvp-url-yes]`. **You should always include both 'yes' and 'no' links!**.
+
+The content of the message should look like that:
+
+    Hey there!
+    
+    Congratulations! Your application to Django Girls event in City has been approved. We can't wait to meet you on our workshop!
+    
+    To confirm your attendance, please go to this link: [rsvp-url-yes]
+    
+    If you can't attend, we would be really grateful if you could let us know earlier, so we can give your place to someone from the waiting list. To let us know, simply click this link: [rsvp-url-no]
+    
+    Thank you!
+    Django Girls team
+
+Our system will replace these tags with unique generated URLs, and log information about which applicant clicked on which link on the list of all applications, so you don't have to track it manually. Yay!
