@@ -1,6 +1,6 @@
-# Acessibilidade
+﻿# Acessibilidade
 
-Nós queremos tornar todos os eventos Django Girls tão acessíveis quanto é possível. Tornar o seu evento acessível irá ajudar a todos, não apenas às participantes com deficiências. Esta página pode ser assustadora porque nós estamos tentando ser abrangentes mas leia-a completamente e faça o seu melhor!
+Nós queremos tornar todos os eventos Django Girls tão acessíveis quanto é possível. Tornar o seu evento acessível irá ajudar a todos, não apenas às participantes com deficiências. Esta página pode ser assustadora porque nós estamos tentando ser abrangentes, mas leia-a completamente e faça o seu melhor!
 
 Dependendo do local, você pode não ser capaz de fazer todas estas coisas. Mas se você pensar em acessibilidade a partir do momento que decidir organizar um evento, você tem uma melhor chance de acidentalmente não deixar um grupo de pessoas de fora. Então, aqui estão algumas coisas a se considerar no que diz respeito à acessibilidade na organização do seu evento.
 
@@ -28,9 +28,9 @@ Para acolher participantes com alguma deficiência visual, primeiro fale com seu
 
 Nem todas as participantes que possuem baixa visão são cegas, então certifique-se de que qualquer palestrante dando lightning talk irá usar uma fonte grande em suas telas. (Lembre-se de que códigos em particular podem ser difíceis de ler em um PowerPoint). Peça aos seus palestrantes para preparar apostilas em uma fonte grande. (Se seus treinadores irão dar palestras, peça-os para enviarem uma cópia digital com antecedência então você pode fazer cópias de antemão; idealmente, os treinadores não deveriam gastar qualquer dinheiro ao participar do seu workshop!) Peça aos seus palestrantes para também lembrar de descrever verbalmente todas as imagens que estão em suas apresentações.
 
-Certifique-se de que o site e os materiais que você preparar para o workshop passam pelo [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker/). Apenas preencha com o código hexadecimal da cor de fundo e da fonte e esta ferramenta gratuita deixará você saber se o seu contraste é suficiente.
+Certifique-se de que o site e os materiais que você preparar para o workshop passam pelo [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker/). Apenas preencha com o código hexadecimal da cor de fundo e da fonte nesta ferramenta gratuita você irá saber se o seu contraste é suficiente.
 
-Código, em particular, pode ser difícil de se ver para qualquer um. A fonte tende a ser pequena e não duplamente espaçada, então se você fizer qualquer desmonstração em uma tela grande, certifique-se de que sua fonte é bem grande. Encontrar onde aumentar a fonte na linha de comando ou em um editor de texto também pode ser difícil, então peça aos seus treinadores para acompanhar suas participantes quanto a isto. Isto irá facilitar a leitura e o debug para elas.
+Código, em particular, pode ser difícil de se ver para qualquer um. A fonte tende a ser pequena e não duplamente espaçada, então se você fizer qualquer desmonstração em uma tela grande, certifique-se de que sua fonte é bem grande. Encontrar onde aumentar a fonte na linha de comando ou em um editor de texto também pode ser difícil, então peça aos seus treinadores para acompanhar suas participantes quanto a isto. Isto irá facilitar a leitura e a depuração do código para elas.
 
 ### Participantes com deficiência auditiva
 
@@ -38,13 +38,13 @@ Novamente, trabalhar com participantes que possuem deficiência de audição flu
 
 Peça para seus paletrantes falarem devagar e claramente (por vezes pessoas falam mais rapidamente quando ficam nervosas!) e lembre-os para também fornecerem um script ou folheto para as suas apresentações.
 
-Lembre-se de que ser deficiente auditivo nem sempre significa ter perda total de audição. Pessoas que são surdas, com deficiência auditiva, acham difícil concentrar-se em salas barulhentas ou para quem o Português (ou qualquer língua ao qual seu workshop é dado) não é a sua primeira língua podem se beneficiar dessas dicas.
+Lembre-se de que ser deficiente auditivo nem sempre significa ter perda total de audição. Pessoas que são surdas, com deficiência auditiva, acham difícil concentrar-se em salas barulhentas ou para quem o Português (ou qualquer língua ao qual seu workshop é dado) não é a sua primeira língua podem se beneficiar com essas dicas.
 
 ### Web site e inscrições
 
 Não faça suas participantes perguntarem quais acomodações você é capaz de proporcionar. Esteja a frente sobre o que você é capaz de fazer! Isto irá incentivar as pessoas que precisam dessas acomodações a se inscreverem, uma vez que elas vão ter certeza de que poderão participar do seu evento. Ser específico com a sua lista de acomodações irá mostrar às potenciais participantes que você está trabalhando para criar um espaço onde acesso e inclusividade são prioridades. Você pode simplesmente adicionar estas questões em sua seção de FAQ. Veja [este evento](http://djangogirls.org/portland) para algumas sugestões.
 
-Pergunte por sugestões de seus treinadores e participantes em outras coisas que você pode querer prover. Por exemplo, talvez você possa encontrar um amigopara voluntariar-se a cuidar das crianças.
+Pergunte por sugestões de seus treinadores e participantes em outras coisas que você pode querer prover. Por exemplo, talvez você possa encontrar um amigo para voluntariar-se a cuidar das crianças.
 
 ### Outros recursos
 
