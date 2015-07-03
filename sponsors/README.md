@@ -35,7 +35,7 @@ You can use the [Sponsorship Offer](https://github.com/DjangoGirls/resources/tre
 
 Price your sponsorships in a range of 300 - 1000 Euro, but remember that even the smallest contributions are important.
 
-### Who can be a sponsor?
+## Who can be a sponsor?
 
 - Look for similar events in your city and try contacting companies who support those events.
 - Look at the websites for prior Django Girls events and see if any of those sponors have offices in your city. 
@@ -47,7 +47,7 @@ Price your sponsorships in a range of 300 - 1000 Euro, but remember that even th
 - The Python Software Foundation provides a 50$ per attendee grant for Python Educational Programs (you are eglible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
 
 
-### How to contact sponsors?
+## How to contact sponsors?
 
 Simply send them an email like that:
 
@@ -62,7 +62,7 @@ Simply send them an email like that:
 > Have a great day,
 X X
 
-### How to transfer money?
+## How to transfer money?
 
 Unfortunately, you also have to take care of transfering the money from sponsor to provider. You can do it in three ways:
 
@@ -71,3 +71,6 @@ Unfortunately, you also have to take care of transfering the money from sponsor 
 - You can also ask sponsors to pay for food/printing directly.
 
 Make sure to tell the sponsors when you need the money. Money transfer can take a few days and you will have to pay for some things like printing t-shirts or bags beforehand. Make sure to have all the money in your bank account at least 1-2 weeks before the workshop so you don't get into trouble or have to organize some things last minute.
+
+### Invoices
+We have prepared sample invoices for GitHub and PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain. You can access the invoices [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing). Inside each file you have to choose File > Make a copy. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
