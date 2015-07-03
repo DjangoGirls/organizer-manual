@@ -73,4 +73,8 @@ Unfortunately, you also have to take care of transfering the money from sponsor 
 Make sure to tell the sponsors when you need the money. Money transfer can take a few days and you will have to pay for some things like printing t-shirts or bags beforehand. Make sure to have all the money in your bank account at least 1-2 weeks before the workshop so you don't get into trouble or have to organize some things last minute.
 
 ### Invoices
-We have prepared sample invoices for GitHub and PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain. You can access the invoices [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing). Inside each file you have to choose File > Make a copy. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
+We have prepared sample invoices for GitHub and PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain.
+
+You can access the invoices [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing).
+
+Inside each file you have to choose File > Make a copy. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
