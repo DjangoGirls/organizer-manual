@@ -1,6 +1,6 @@
 # Resources
 
-All of our resources are available here: [resources.djangogirls.org](http://resources.djangogirls.org/).
+All of our resources are available here: [https://github.com/DjangoGirls/resources](https://github.com/DjangoGirls/resources).
 
 Inside you can find:
 - Logo in different versions (orange, white, square)
