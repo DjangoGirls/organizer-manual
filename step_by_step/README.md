@@ -4,6 +4,8 @@ Before we get into the details, let's have a look at the bigger picture of organ
 
 You should start organizing at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothly. Of course, the actual amount of work could be fitted into 40-50 hours of total work, so if you spread that over a 3 month period, you can totally do it in your free time.
 
+Organizing an event with a team is awesome but not mandatory. Don't forget to set a few rules on how you'll work together to avoid misunderstanding.
+
 We've created a [Trello board](https://trello.com/b/xBRRgQRr/django-girls-template) that you can clone; hopefully this will help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
 
 1. Click "Show Menu" on the right-hand side 
