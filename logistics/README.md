@@ -4,7 +4,7 @@ There are several things that are important to remember when organizing a Django
 
 ## Venue
 
-General rule about the venue: very often, you can get a space for free. Your targets are: big coworking spaces, hackerspaces, makerspaces, univerisities, local companies, and startups. These are the places that may be willing to offer you space for free (especially during weekends).
+General rule about the venue: very often, you can get a space for free. Your targets are: big coworking spaces, hackerspaces, makerspaces, universities, local companies, and startups. These are the places that may be willing to offer you space for free (especially during weekends).
 
 The setup should allow you to sit everyone comfortably in small groups (teams of 3 + 1 coach). The best setup is just square tables (or two tables put together) with 4 chairs around them.
 
@@ -14,7 +14,7 @@ Remember that everyone will need power! Often the venue can offer you this, but 
 
 ### Internet
 
-Internet is crucial, so ask your venue provider if they have tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives.
+Internet is crucial, so ask your venue provider if they have tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives. You can use this [script](https://pypi.python.org/pypi/djangogirls_usbgenerator/) to download everything you need.
 
 It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
 

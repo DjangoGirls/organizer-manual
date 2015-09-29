@@ -4,7 +4,18 @@ Before we get into the details, let's have a look at the bigger picture of organ
 
 You should start organizing at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothly. Of course, the actual amount of work could be fitted into 40-50 hours of total work, so if you spread that over a 3 month period, you can totally do it in your free time.
 
-Let's see how it looks on the timeline:
+Organizing an event with a team is awesome but not mandatory. Don't forget to set a few rules on how you'll work together to avoid misunderstanding.
+
+We've created a [Trello board](https://trello.com/b/xBRRgQRr/django-girls-template) that you can clone; hopefully this will help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
+
+1. Click "Show Menu" on the right-hand side 
+2. Under the Menu, click "More" 
+3. Select "Copy Board" and give your board a title. We suggest, "Django Girls [Your City]." Change the organization to "none." Click "Create."
+4. You're now on your board! You can invite your other organizers, add notes to existing cards, add cards specific to your event, and start using your board! 
+
+Take a look at [Getting Started with Trello](http://help.trello.com/article/899-getting-started-video-demo) if you're not familiar with this project management tool. 
+
+Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 3 months before
 
