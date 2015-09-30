@@ -1,6 +1,6 @@
 # Participantes
 
-A ideia principal do Django Girls é introduzir novas pessoas no mercado de tecnologia. O nosso foco são as mulheres, mas é totalmente aceitável organizar workshops sem nenhuma restrição de sexo.
+A ideia principal do Django Girls é introduzir novas pessoas no mercado de tecnologia. __O nosso foco são as mulheres, mas é totalmente aceitável organizar workshops sem nenhuma restrição de sexo__. Nós encorajamos às organizadoras à priorizar as inscrições de mulheres, especialmente quando o workshop é organizado utilizando o nome Django Girls. 
 
 O tutorial é projetado para iniciantes, então nenhum conhecimento prévio em programação é necessário. Basicamente, qualquer pessoa com um computador pode fazê-lo.
 
@@ -12,7 +12,7 @@ A única forma que você pode medir o compromisso de alguém é através do seu 
 
 ### Eventos locais
 
-Se você não planeja prover qualquer ajuda financeira para os participantes, você deve abrir um processo de inscrição com pelo menos um mês (idealmente dois) de antecedência ao evento. Dê as pessoas duas semanas para inscreverem-se e explicar por que elas devem ser as selecionadas para participar do evento, quais são as suas motivações. Você pode criar um simples Formulário do Google Doc ou usar algum serviço gratuito como o Wufoo. Envie os e-mails de aceitação/rejeição uma semana antes do evento. Certifique-se da confirmação de que eles irão comparecer.
+Se você não planeja prover qualquer ajuda financeira para os participantes, você deve abrir um processo de inscrição com pelo menos um mês (idealmente dois) de antecedência ao evento. Dê as pessoas duas semanas para inscreverem-se e explicar por que elas devem ser as selecionadas para participar do evento, quais são as suas motivações. É mais fácil utilizar o site do Django Girls para gerenciar as inscrições. Nós iremos falar mais sobre isso mais adiante. Envie os e-mails de aceitação/rejeição uma semana antes do evento. Certifique-se de que elas confirmarão a presença.
 
 ### Eventos internacionais
 
@@ -36,71 +36,51 @@ Você terá que enviar esta carta (assinada!) para o participante. Você também
 
 ## Formulário de inscrição
 
-### Formulário Google Doc
+### Criando um formulário através do site Django Girls.
 
-Como mencionamos, você pode utilizar o Formulário do Google Doc para este propósito. Você pode fazê-lo acessando o seu Google Drive, clicando no botão de "NOVO" e selecionando "Formulários Google". Então você deve preencher todos os dados necessários: nome, layout, etc...
+Você pode criar um formulário de inscrição para cada site Django Girls. Para fazer isto, vá em [Django Girls Admin -> Applications -> Form](http://djangogirls.org/admin/applications/form/) e clique no botão "Add form". Você irá ver um formulário como este:
 
-Você também pode copiar o nosso template de formulário existente [neste link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing)
+![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.20.19%20PM.png)
+
+Agora você deve editar todos os textos. O campo _Confirmation mail_ corresponde ao email que será automaticamente enviado através de cidade@djangogirls.org para a participante após submeter a inscrição.
+
+Você também pode especificar o período no qual o formulário irá automaticamente tornar-se disponível para o público, usando os campos de data no final da página.
+
+Uma vez salvo, você pode acessá-lo em: http://djangogirls.org/suacidade/apply (subistitua `suacidade` com a url para o website da sua cidade). Você também deve adicionar este endereço no seu website e compartilhá-lo com potenciais participantes.
 
 ### Questinário
 
-Que tipo de questões você deve fazer no formulário? Nós temos uma lista daquelas que usamos ou que achamos que podem ser úteis para eventos futuros.
+Como você provavelmente notou que, ao criar o formulário, nós automaticamente adicionamos algumas questões padrões. Você sempre poderá editar, remover ou adicionar novas questões indo em [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!
 
-1. Qual o seu nome?
+Também é uma boa idéia perguntar sobre a experiência prévia em campos como: programação (qualquer linguagem), Python, CSS, HTML, Django, banco de dados, etc... Graças a isso você estará habilitado a agrupar as pessoas baseando-se no quão avançadas elas são. Também pergunte aos seus participantes com qual idioma eles são mais confortáveis. Alguns de seus treinadores podem estar aptos para falar somente em Português, então eles tem que treinar um grupo que esteja confortável sendo treinado em Português. Mesmo que ainda não exista disponível uma tradução do seu tutorial na sua língua nativa, você pode, pelo menos, certificar-se de que os participantes sintam-se confortáveis tendo um treinador que fala seu idioma.
 
-2. Qual o seu endereço de e-mail?
+#### Questões de ajuda financeira
 
-3. Seu número de telefone. Inclua o prefixo do seu país.
-
-4. De onde você é? Cidade, País.
-
-5. Quantos anos você tem?
-
-6. Seu laptop: Qual o seu sistema operacional? (Windows | Mac OS X | Linux | Outro)
-
-7. Qual a sua ocupação atual? Diga-nos o que você atualmente faz (trabalho, estudo ou alguma outra coisa?).
-
-8. Qual é a sua formação? Você possui experiência na construção de websites?
-
-9. Por que você quer participar do Django Girls?
-
-10. O que você planeja fazer para compartilhar o que aprendeu com os outros?
-
-11. Como você soube do Django Girls? (Facebook | Twitter | Através de um amigo | Outro)
-
-12. Com qual língua você está mais confortavél? (Português | (língua nativa do seu país) | Ambas)
-
-
-####  Questões de ajuda financeira
+Se você oferecer assistência financeira para as suas participantes, aqui está uma lista de questões de exemplo:
 
 1. Você precisa de ajuda financeira para vir e hospedar-se em [cidade]?
-
 2. Qual a sua atual situação financeira? Conte-nos por que você precisa de ajuda financeira.
-
 3. De quanto dinheiro você precisa? Dê-nos uma quantidade exata em Reais da qual precisa. Tente cortar custos.
 
+#### Notificações de submissão de formulário
 
-Algumas questões não são obrigatórias. Por exemplo a questão 5 (idade) é usada somente para fins estatísticos.
+Uma vez que suas participantes submeterem suas inscrições, elas irão receber uma confirmação automática em seus emails com uma cópia de suas respostas. Woohoo!
 
-Também é uma boa idéia perguntar sobre a experiência prévia em campos como: programação (qualquer linguagem), Python, CSS, HTML, Django, banco de dados, etc... Graças a isso você estará habilitado para agrupar as pessoas baseando-se no quão avançadas elas são. Também pergunte aos seus participantes com qual língua eles são mais confortáveis. Alguns de seus treinadores podem estar aptos para falar somente em Português, então eles tem que treinar um grupo que esteja confortável sendo treinado em Português. Mesmo que ainda não exista disponível uma tradução do seu tutorial na sua língua nativa, você pode, pelo menos, certificar-se de que os participantes sintam-se confortáveis tendo um treinador que fala sua língua.
+## Escolhendo participantes
 
-#### Notificações de submissão de formulários
+Você poderá ver todas as inscrições submetidas para o seu evento acessando uma URL como esta: http://djangogirls.org/suacidade/applications/ (lembre-se de substituir `suacidade` com o endereço do seu website).
 
-Por padrão o Google Forms não irá enviar qualquer e-mail sobre o formulário que está sendo submetido. Você não será notificado e a pessoa que preencheu o formulário não saberá que informação ela submeteu. Isto é claro não é obrigatório, mas as pessoas gostam de ter alguma confirmação do formulário de que os dados foram salvos.
+Lá você verá uma lista de todas as inscrições. Você pode filtrá-las por estado ou pelo RSVP status, você pode ver os detalhes de cada inscrição e atribuí-las em grupos (accepted, rejected, waitlisted) assim como informar seus RSVP status (yes, no, waiting).
 
-Existem diversas maneiras de resolver este problema. O caminho mais fácil de configurar as notificações é instalando um simples plugin do Google. Ele está disponível na [loja de complementos](https://chrome.google.com/webstore/detail/form-notifications/bbpdeojefjfhaelgljjcadpcckdfcdod). A desvantagem dessa solução é que os e-mails serão enviados da sua caixa de e-mail pessoal - não de sua_cidade@djangogirls.org. Se você sabe algo básico de JavaScript, você também pode brincar com o Script Manager para um sistema de notificação mais customizável. Siga as instruções detalhadas encontradas [aqui](http://davidwees.com/content/email-confirmations-google-forms/) e use [nossa versão de script](https://gist.github.com/aniav/926f4667911ba1d138b8) no lugar do código demonstrado lá. Nós já usamos essa abordagem em diversos eventos - ela é segura.
-
-## Como selecionar os participantes?
+## Como selecionar as participantes?
 
 Se você recebeu um bocado de inscrições você irá confrontar um problema bem difícil: quem você deve selecionar. Foi muito difícil para nós decidirmos, mas nós sugerimos uma maneira de pontuar as inscrições.
 
-Nós tinhamos quatro pessoas pontuando as inscrições. Usamos o app Django de Andrew Godwin criado especialmente para este propósito. Você pode encontrá-lo aqui: https://github.com/andrewgodwin/grorg. É uma boa idéia perguntar diretamente ao Andrew sobre o app, especialmente se você tem algum financiamento do Django Software Foundation.
-
-Você também pode adicionar colunas onde eles podem colocar a sua nota (é legal colori-las!), pontuando as inscrições. Você deve também esconder as colunas com informações pessoais, então a pontuação não irá ser influenciada por estes detalhes. Depois de finalizar o processo de pontuação você deve somar todos os votos em uma coluna adicional (chamada TOTAL) e ordenar o documento inteiro pela coluna com a pontuação total (Dados > Classificar página por coluna X, Z → A). Você irá então ter uma planilha com as pessoas que estarão habilitadas a participar do evento nas primeiras linhas.
+Assim que clicar em uma das inscrições, você verá que existe uma forma de pontuar as inscrições ali. Todas as organizadoras podem adicionar pontos para cada inscrição.
 
 ### Pontuando
 
-Para certificar-se de que o primero pontuado não foi influenciado pelos outros, cada pessoa pontuou as inscrições sem o conhecimento da nota das outras três pessoas. Depois de fazer a primeira pontuação, pode-se ver as outras notas.
+Para certificar-se de que o primero pontuado não foi influenciado pelos outros, cada pessoa pontua as inscrições sem o conhecimento da nota das outras pessoas. Depois de fazer a primeira pontuação, pode-se ver as outras notas.
 
 A ordem das inscrições também não foi determinada - nós pontuamos em ordem randômica, então a probabilidade de que uma pessoa é mais/menos pontuada somente porque ela estava sempre no topo/final da lista é baixa.
 
@@ -118,7 +98,7 @@ Aqui está uma lista de coisas que tomamos em consideração quando pontuamos (s
 
 * Eu realmente sinto que a inscrita realmente, realmente, precisa dessa oportunidade ou isso é somente uma oferta interessante para ela?
 
-* Qual é o custo/benefício global, se a inscrita está perguntando por fundos?
+* Qual é o custo/benefício total, se a inscrita está perguntando por fundos?
 
 * Qual é meu sentimento geral sobre a inscrita?
 
@@ -128,15 +108,56 @@ Busque por um grupo diversificado: Quanto mais as pessoas são diferentes, as id
 
 A dica final: Siga seu coração :) Escolha aqueles quem mais te convencem, aqueles que mais precisam, aqueles que podem querer mudar suas vidas e seguir este caminho como uma carreia. A escolha é sua, mas nunca é fácil.
 
-## E-mail de aceitação/rejeição
+## Lista de espera
 
-Certifique-se de escrever para todos que solicitaram inscrição - não apenas para aqueles que irão. É tão fácil quanto enviar uma mensagem idêntica para todos os endereços de e-mails. Apenas tenha certeza de colocar os endereços como CCO, então eles ficam ocultos para os demais que receberem o e-mail.
-
-É uma boa idéia criar uma lista de e-mail. Para as inscrições rejeitadas, informamos que eles não foram selecionados mas que eles estavam muito próximos e perguntamos se eles estariam interessados em participar caso algum lugar fique vago.
+É uma boa ideia criar uma lista de espera.Para as inscrições rejeitadas, informamos que eles não foram selecionadas mas que eles estavam muito próximas e perguntamos se elas estariam interessadas em ingressar em uma pequena lista de espera caso algum lugar fique disponível. Sempre existe um número de pessoas que dirão que não comparecerão, então desta maneira você pode preencher lugares vagos.
 
 ## Desistentes
 
-Tivemos um número de pessoas que disseram que não iriam comparecer mesmo tendo confirmado a sua presença anteriormente. A lista de espera funcionou muito bem neste cenário.
+Tivemos um número de pessoas que não compareceram mesmo tendo confirmado a sua presença antes. A lista de espera funciona muito bem neste cenário.
 
 Esteja preparado para ter alguns cancelamentos no último minuto (um dia antes dos workshops). É normal. Contanto que você tenha pessoas que possam preencher a vaga, está tudo bem.
 
+## E-mail de aceitação/rejeição
+
+Para facilitar o seu trabalho de enviar emails para todas as participantes ao mesmo tempo, nós construimos uma maneira de enviar o mesmo email pra um grupo selecionado de participantes.
+
+Para fazer isto:
+
+- Vá para http://djangogirls.org/suacidade/communication/ (subistitua `suacidade` com o endereço do seu website)
+- Clique no botão "create new e-mail"
+- Você verá um formulário como este:
+
+ ![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.37.42%20PM.png)
+
+- Você pode selecionar os Destinatários:
+ - `Application submitted` - significa todas com a inscrição de status = `submitted`
+ - `Application accepted` - siginifica todas com a inscrição de status = `accepted`
+ - `Application rejected` - siginifica todas com a inscrição de status = `rejected`
+ - `Application on waiting list` - siginifica todas com a inscrição de status = `waiting list`
+ - `RSVP: Waiting for response` - siginifica todas com a inscrição de status = `accepted` e rsvp status = `waiting`
+ - `RSVP: Confirmed attendance` - siginifica todas com a inscrição de status = `accepted` e rsvp status = `yes`
+ - `RSVP: Rejected invitation` - siginifica todas com a inscrição de status = `accepted` e rsvp status = `no`
+
+## O que há com essa coisa de RSVP?
+
+O [RSVP](https://en.wikipedia.org/wiki/RSVP_(invitations)) é enviado para todas as participantes aceitas. Você deve perguntá-las se podem comparecer ao evento, porque de outra maneira você pode ceder seus lugares para alguém da lista de espera. 
+
+É difícil reunir informações sobre ~30-40 pessoas e certifique-se que você não vai misturar alguma coisa, por isso, também construimos uma ferramenta para isso.
+
+Quando você enviar seu email de aceitação para todas as participantes aprovadas, certifique de adicionar os links `RSVP: yes` e `RSVP: no` no email. Você pode fazer isto clicando nos botões `Add a RSVP: yes link to email` e `Add a RSVP: no link to email` abaixo do campo Recipients. Isto irá adicionar um placeholder no conteúdo do seu email, algo como: `[rsvp-url-yes]`. **Você sempre deve incluir ambos os links 'yes' e 'no'!**.
+
+O conteudo da mensagem deve parecer com:
+
+    Olá!
+    
+    Parabéns! Sua inscrição para o evento Django Girls em Cidade foi aprovada. Nós mal podemos esperar para te conhecer em nosso workshop!
+    
+    Para confirmar sua inscrição, por favor acesse este link: [rsvp-url-yes]
+    
+    Caso não possa comparecer, nós ficariamos muito gratas se puder nos avisar com antecedência, assim nós podemos ceder o seu lugar para alguém da lista de espera. Para nos informar sua desistência, apenas clique neste link: [rsvp-url-no]
+    
+    Obrigada!
+    Time Django Girls
+
+Nosso sistema irá substituir estas tags por uma URL única gerada, e comunicar a informação sobre qual inscrita da lista de inscrições clicou em qual link, então você não precisa informar isto manualmente. Yay!
