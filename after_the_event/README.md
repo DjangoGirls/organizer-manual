@@ -38,7 +38,7 @@ We want to build a global community of women who help each other, empower each o
 We can't wait to hear about your experience. It'd be great if you could share whatever you learned with us. This list of questions maybe helpful:
 
 1. How many participants attended your event?
-2. How many coaches attendeed your event?
+2. How many coaches attended your event?
 3. What was the most important thing you discovered during the workshop?
 4. How can we make Django Girls better?
 
