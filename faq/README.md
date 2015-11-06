@@ -6,12 +6,18 @@ planning process has you confused!
 
 ## Website and organizing
 
+### Resources
+
+**Q: I want the cool tattoos and stickers I saw on other events' pictures!
+
+A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
+
 ### Translation
 
 **Q: We just finished to translate the tutorial on Crowdin: what do we do now?
 
 A: First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
-Now that the first part is done, you need someone to proofread your work. If you not sure if someone as the right to do it, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% validated, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.
+Now that the first part is done, you need someone to proofread your work. If you not sure if someone on your team is a proofreader, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% approved, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.
 
 ### Application form
 
