@@ -1,6 +1,6 @@
 # Environment
 
-The goal of Django Girls is not only to teach people about programming, but to __do it in a friendly and positive environment.__
+Django Girls' goal is not only to teach people about programming, but to __do it in a friendly and positive environment.__
 
 Django Girls events are inclusive, friendly and safe environments. Girls, women, ladies, gals and even men are allowed in. More than semantics we’re interested in a mindset.
 
