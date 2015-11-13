@@ -48,6 +48,8 @@ You can also specify when the form will automatically become and stop being avai
 
 Once you save the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website). This is an address you should also add on your website and share with potential applicants.
 
+To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+
 ### Questions
 
 As you probably noticed, when you create a form, we also automatically add default questions. You can always edit, remove or add new questions by going to [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!

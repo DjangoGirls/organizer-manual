@@ -20,7 +20,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 ### 3 months before
 
 - __Apply to the Django Girls organization to register your event__
-- Announce a [website](../website/README.md), [Twitter or Facebook](/promotion/README.md)
+- Announce a [website](../website/README.md), [Twitter or Facebook](../promotion/README.md)
 - [Start promotion of Django Girls](../promotion/README.md)
 - [Start looking for sponsors](../sponsors/README.md)
 - [Start looking for a venue](../logistics/README.md)
