@@ -8,20 +8,20 @@ planning process has you confused!
 
 ### Resources
 
-**Q: I want the cool tattoos and stickers I saw on other events' pictures!
+**Q: I want the cool tattoos and stickers I saw on other events' pictures!**
 
 A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
 
 ### Translation
 
-**Q: We just finished to translate the tutorial on Crowdin: what do we do now?
+**Q: We just finished to translate the tutorial on Crowdin: what do we do now?**
 
 A: First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
 Now that the first part is done, you need someone to proofread your work. If you not sure if someone on your team is a proofreader, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% approved, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.
 
 ### Application form
 
-**Q: Where can I find all applications submitted for my event?
+**Q: Where can I find all applications submitted for my event?**
 
 A: To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
 
@@ -35,11 +35,11 @@ A: Scoring applications is hard! Sometimes when you score, you have a certain pe
 
 ### Next events
 
-**Q: I want to make another workshop!
+**Q: I want to make another workshop!**
 
 A: This is so cool! Let us [know](http://djangogirls.org/organize/) and we will set a new website for you. **Please do not change old website after the event**: it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page.
 
-**Q: Can I use the name Django Girls to make recurring meetups after my workshop?
+**Q: Can I use the name Django Girls to make recurring meetups after my workshop?**
 
 A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish those from the regular workshop. Your meetup will need to be beginner friendly and have a Code of Conduct (you can use [our](https://djangogirls.org/pages/coc/) if you want). 
 Don't forget to add your event in our [meetup page](https://djangogirls.org/community/meetups)!
