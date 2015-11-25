@@ -33,3 +33,7 @@ Yes, but make sure you've tested it before on someone.
 ## I found a bug in the tutorial!
 
 Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help are really appreciated.
+
+## I want to translate the tutorial!
+
+To know more about translation, consult the the [Translation Guide](http://translate.djangogirls.org/).
