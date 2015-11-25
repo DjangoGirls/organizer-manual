@@ -38,7 +38,7 @@ We want to build a global community of women who help each other, empower each o
 We can't wait to hear about your experience. It'd be great if you could share whatever you learned with us. This list of questions maybe helpful:
 
 1. How many participants attended your event?
-2. How many coaches attendeed your event?
+2. How many coaches attended your event?
 3. What was the most important thing you discovered during the workshop?
 4. How can we make Django Girls better?
 
@@ -56,7 +56,7 @@ We would be happy to publish it -- just let us know. You know where to find us :
 
 ## Next editions
 
-If you plan to organize next editiong of Django Girls in your city, you will need to let us know, so that:
+If you plan to organize next edition of Django Girls in your city, you will need to let us know, so that:
 * we know it is happening :)
 * we will setup a new website for you (with the same address) - **please do not change old website after the event** - it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page. We also associate some stats after each finished event, so changing you old website will cause trouble for us.
 

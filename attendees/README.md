@@ -120,6 +120,8 @@ We had a number of people who said they won't manage to come even though they co
 
 Be prepared to have some last minute (as in, one day before the workshops) cancellations. It's normal. As long as you have people who can fill in, don't worry.
 
+To help you keep an up to date list of attendees, you can add `declined` status to those applicants in your application page (http://djangogirls.org/yourcity/applications/ (replace `yourcity` with your website address)).
+
 ## Acceptance/rejection e-mails
 
 To make it easy for you to email all attendees at the same time, we build a way to send the same email to a chosen group of applicants.

@@ -4,6 +4,47 @@ Django Girls events have been happening all over the world for a while now, and
 we get some repeat questions. Hopefully this page will help you if part of the
 planning process has you confused!
 
+## Website and organizing
+
+### Resources
+
+**Q: I want the cool tattoos and stickers I saw on other events' pictures!
+
+A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
+
+### Translation
+
+**Q: We just finished to translate the tutorial on Crowdin: what do we do now?
+
+A: First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
+Now that the first part is done, you need someone to proofread your work. If you not sure if someone on your team is a proofreader, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% approved, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.
+
+### Application form
+
+**Q: Where can I find all applications submitted for my event?
+
+A: To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+
+**Q: We scored applicants, and we have a lot of ties! What do we do?** 
+
+A: Scoring applications is hard! Sometimes when you score, you have a certain percentage of applicants at the top, but then some in the middle who are tied and you can't select the number you need. Our suggestions are: 
+
+- Recruit some more volunteers (maybe former coaches or organizers in other cities) to help you score. More votes lessens the likelihood that you'll have ties. 
+- Rescore those applications with your team, to see if a second look at the applicant helps you form a consensus. 
+- Accept the applicants who applied first, if there is a tie, and put the rest on a waiting list.  
+
+### Next events
+
+**Q: I want to make another workshop!
+
+A: This is so cool! Let us [know](http://djangogirls.org/organize/) and we will set a new website for you. **Please do not change old website after the event**: it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page.
+
+**Q: Can I use the name Django Girls to make recurring meetups after my workshop?
+
+A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish those from the regular workshop. Your meetup will need to be beginner friendly and have a Code of Conduct (you can use [our](https://djangogirls.org/pages/coc/) if you want). 
+Don't forget to add your event in our [meetup page](https://djangogirls.org/community/meetups)!
+
+## Django Girls in general
 
 **Q: Isn't Django Girls sexist?**
 
@@ -67,11 +108,3 @@ You can add this to your FAQ, or to your event description on your event website
 **Q: Is there a Django Girls for men?** 
 
 A: There doesn't seem to be a need for Django Boys at the moment. But all of our content, including our tutorial and this manual, is open sourced, so if you'd like to start a workshop aimed at another audience, we encourage you to do so! We support you starting an organization that reaches an audience you care about. All the resources we've created, including the tutorial and this manual, are open sourced under Creative Commons Attribution 4.0 International (CC BY 4). This means that you can modify, distribute and use commercially, but you cannot sublicense and you have to give us credit and include copyright. 
-
-**Q: We scored applicants, and we have a lot of ties! What do we do?** 
-
-A: Scoring applications is hard! Sometimes when you score, you have a certain percentage of applicants at the top, but then some in the middle who are tied and you can't select the number you need. Our suggestions are: 
-
-- Recruit some more volunteers (maybe former coaches or organizers in other cities) to help you score. More votes lessens the likelihood that you'll have ties. 
-- Rescore those applications with your team, to see if a second look at the applicant helps you form a consensus. 
-- Accept the applicants who applied first, if there is a tie, and put the rest on a waiting list.  
