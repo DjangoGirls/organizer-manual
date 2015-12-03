@@ -2,7 +2,7 @@
 
 We strive to make each Django Girls event one of the kind experience. If you look at the pictures from the past workshops you'll notice amazing decorations, photo booths, flowers, cupcakes and many other exciting things. This one of the things that makes Django Girls unique, fun and exciting and we love it. 
 
-However, we don’t want you to have an impression that to make a successful Django Girls event you have to have all these things and spend loads of money on decorations, flowers, filmig videos and so on. Yes, we believe they make Django Girls different and special, but we also don’t want to waste sponsors money on things that are expensive and are not necessary. 
+However, we don’t want you to have an impression that to make a successful Django Girls event you have to have all these things and buy decorations, flowers, make videos and so on. Yes, we believe they make Django Girls different and special, but we also don’t want you to spend loads of money on things that are expensive and not necessary.
 
 This chapter will give you some tips and examples, how - with a little of DIY and good ideas and hacks - you could create something magical with very little money. 
 
@@ -67,7 +67,7 @@ You could also arrange your own photo booth, instead of having a professional on
 
 ## Swag
 
-You don’t always have enough money to order T-Shirts with “Django Girls” print for every participant. We have some tips how to prepare something nice for each participant and coach and not spending a fortune on that.
+You don’t always have enough money to order T-Shirts with “Django Girls” print for every participant. We have some tips how to prepare something nice for each participant and coach and not spend a fortune on that.
 
 * In general, ordering bags will be much cheaper than ordering T-shirts. If you don’t have enough money for t-shirt, but you have some funds - it’s much cheaper version. However, very often the cheapest bags could shrink in laundry, so you should check the quality of the bags before ordering 50 of them.
 * If bags are too expensive, you could prepare small packets for participants. Buy a pack of brown paper or white paper breakfast bags, which should be very, very cheap and put a handful of candies and stickers from sponsors inside. You could also put other small things: confetti (you could make some on your own with a small punch hole cutter!), a handwritten notes with “Thank you for coming!” or anything else you could think of. Tie with a ribbon or use sticker to close the bag. It will look lovely!
