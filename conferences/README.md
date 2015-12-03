@@ -17,7 +17,7 @@ This will help familiarize the participants with the venue, and if you time your
 
 ## Financial aid 
 
-More and more conferences are kicking off diversity activities, scholarships, mentoring programs, and more. If you aim for international attendance, you could approach the conference for help with travel funds and accommodation. 
+More and more conferences are kicking off diversity activities, scholarships, mentoring programs, and more. If you aim for international attendance, you could approach the conference for help with travel funds and accommodation. It is worth keeping in mind that financial aid requirements can be larger for a conference workshop as people are often travelling from further away and staying for the whole event.
 
 For example, many conferences already have room blocks or discounts at hotels, and might also be able to directly sponsor the rooms (or arrange for an invoice that another sponsor can pay directly to the hotel).
 
@@ -30,6 +30,11 @@ Note: coach shirts are better arranged separately, because then you can have con
 ## Cross-promotion and online traction
 
 Conferences normally have a large-to-huge mailing list, countless followers on Twitter, and a [social media strategist](http://elitedaily.com/envision/these-20-photos-prove-that-you-take-your-job-title-way-too-seriously-photos/651099/). You can therefore leverage their online presence to call out for coaches, sponsors, or even participants (as in "tell your women friends about us so they can come to the conference too!").
+
+## Remote organising
+
+* If you're organising a conference workshop, chances are you may not be living locally to the venue, and might not even see it before you arrive for the event yourself. It helps to have somebody local to help out if possible, or a conference organiser familiar with the location.
+* If you are ordering heavy or bulky swag (e.g. t-shirts, mugs, posters), depending on your transport options it may be easier to have those sent straight to the venue - ask conference organisers whether this is possible. This may mean you don't see these items until you arrive so it can help if somebody local can receive them and check that everything came out OK!
 
 ## Lightning talks 
 
@@ -78,6 +83,10 @@ Decorations for the booth are up to you and are super-important to drive traffic
 
 * Try to have someone on social media duty at the booth, and post lots of pictures! If people are tweeting from their personal accounts, try to have them tag the workshop account.
 * Memorize/prepare a 30 sec - 1 min [elevator pitch](http://en.wikipedia.org/wiki/Elevator_pitch) about Django Girls, as you'll have lots of people asking about what we do and most of the booth time will be spent on these types of introductions.
+
+### Talks
+
+* Try to suggest some beginner-friendly talks which might appeal to attendees. Some people will already have some technical knowledge and be just fine - complete beginners may feel out of their depth with the more technical talks so it is good to provide some guidance. Talks with "softer" topics are often good targets for this. Some conferences will clearly label the level at which a talk is aimed, for others you may need to contact organisers for advice.
 
 ### Warnings
 
