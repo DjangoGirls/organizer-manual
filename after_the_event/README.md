@@ -10,6 +10,8 @@ Sending a little thank you note to your attendees, coaches and sponsors is impor
 
 Make sure to reach out to your event's sponsors, tell them about how it went and thank them once again. It is very important to let them know how their money was spent and there is no better way than writing how awesome the workshop they sponsored was.
 
+Sometimes, attendees ask for a certificate of completion: we're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
+
 #### Inform participants where they can look for help
 
 The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
