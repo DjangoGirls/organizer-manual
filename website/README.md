@@ -1,9 +1,9 @@
 # Administrating your website
 
-We have built a simple Django application that allows you to create your events website in a really simple way. You don't have to know how to code to change it but a little knowledge about HTML and CSS will be helpful :). In this section, we will cover the admin part and the applications form.
+We have built a simple Django application that allows you to create your events website in a really simple way. You don't have to know how to code to change it but a little knowledge about HTML and CSS will be helpful :).
 
 Your website will be created after you filled a [request](https://djangogirls.org/organize/) for organizing an event and confirmed you read this manual ;)
-Don't forget to give us the name and email address of other members of your team if you have any.
+Don't forget to give us the name and email address of the other members of your team if you have any.
 
 All your team will receive an access to the Django Admin panel. It looks like this:
 
@@ -14,46 +14,48 @@ All your team will receive an access to the Django Admin panel. It looks like th
 You can access and edit basic information about your workshop in the event section of your admin interface:
 
 * Click on `events list` in the left panel
-* Clicked on your event and you will obtain this page:
+* Clicked on your event and you will get this page:
 
 ![](images/4.png)
 
-Most of the fields are editable but keep those few rules in mind:
+You can edit most fields but keep those few rules in mind:
 
-* You can change the event date but if you want to postpone or delay an event. If you do that, [keep us posted](mailto:hello@djangogirls.com): don't forget that we can help you if you have any problem ;)
-* Cover picture for your event should be under Creative Common Licence. If you want to change it, you can look on [Flickr](http://flickr.com/) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Don't forget to update photo credit and link.
+* You can change the event date if you want to set a more precise date and postpone or delay an event.
+* You can modify the cover picture for your event. Remember that this picture should be under Creative Common Licence. To find a new one, you can look on [Flickr](http://flickr.com/) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Don't forget to update photo credit and link.
 * You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com)
 
 ## Create a mailing list
 
-You want to create your website but your event is far away? You may want to create a mailing list to keep people inform about your event.
+You want to create your website but your event is far away? You may want to create a mailing list to keep people inform.
 
 * Go to [MailChimp](http://mailchimp.com/) and create a free account.
 * Create a list.
 * Click on your list in the `lists` tab.
-* Click on `Signup forms` and `Embedded form`
+* Click on `Signup forms` and `Embedded form`.
 * Edit your form and copy the code.
-* Go in `Website Content` in your Django Girls admin interface.
-* Select an entry where you want your form to appear.
-* Past the code and save! :tada:
+* Go to `Website Contents` in your Django Girls admin interface.
+* Click on the item where you want your form to appear.
+* Past the code in the `Content` section and save your modifications!
+
+:tada:
 
 We recommend you to read [Getting Started With MailChimp](http://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/) and [Create Signup Forms and Response Emails](http://kb.mailchimp.com/lists/signup-forms/create-signup-forms-and-response-emails) if you want to know more about how to create a mailing list and a signup form.
 
-## Managing content
+## Manage and edit content
 
-### What is the structure of my website?
+### Structure of your website
 
-The website will come with some default items that you can adjust to your needs:
+Your website will come with some default items that you can adjust to your needs:
 
-* about: catchphrase for your event!
-* values: general description of your event.
-* apply: link to application form for attendees.
-* faq: questions attendees frequently ask.
-* coach: information for potential coaches and link to application form.
-* partners: sponsors!
-* footer: link to social media and Code of Conduct.
+* `about`: catchphrase for your event!
+* `values`: general description of your event.
+* `apply`: link to application form for attendees.
+* `faq`: questions attendees frequently ask.
+* `coach`: information for potential coaches and link to application form.
+* `partners`: sponsors!
+* `footer`: link to social media and Code of Conduct.
 
-### How to edit content?
+### Edit content
 
 To change the content of your website:
 
@@ -70,7 +72,7 @@ First, go to `Website Contents` and click on `partners` in the list. You will ob
 
 ![](images/3.png)
 
-To add a sponsors, go at the bottom of this page and look if your sponsor isn't already in the list. If it's the case, select it and click on `Add another Eventpagecontent-Sponsor Relationship`. If your sponsor isn't in the list, click on the `plus` button. A new window will open:
+To add a sponsors, go at the bottom of this page and look if your sponsor isn't already in the drop down menu. If it's the case, select it and click on `Add another Eventpagecontent-Sponsor Relationship`. If your sponsor isn't in the menu, click on the `plus` button and a new window will open:
 
 ![](images/5.png)
 
@@ -79,7 +81,7 @@ To add a sponsors, go at the bottom of this page and look if your sponsor isn't 
 * Add the website address of the sponsor.
 * You can add some extra description, but we usually leave it empty.
 * Click on save.
-* Add as many sponsors as you want.
+* Add as many sponsors as you want by clicking on `Add another Eventpagecontent-Sponsor Relationship`.
 * Don't forget to save your modifications by click on the `save` blue button on the right.
 
 :tada:
@@ -102,8 +104,8 @@ You may want to add a list of the people who will coach at your event.
 * Don't add a background.
 * Check the `Is public` box.
 * Go at the bottom of the page in the `Coaches` section.
-* Look if your coaches aren't already in the list. If it's not, add them by clicking on the `plus` button. The only field required is the name. If you don't have pictures for your coaches, put Django Girls [logo](https://github.com/DjangoGirls/resources/blob/master/Design/Logo/logo_square.png). Click on save.
-* Add as many coaches as you want.
+* Look if your coaches aren't already in the drop down menu. If they're not, add them by clicking on the `plus` button. The only field required is the name. If you don't have pictures for your coaches, put Django Girls [logo](https://github.com/DjangoGirls/resources/blob/master/Design/Logo/logo_square.png). Click on save.
+* Add as many coaches as you want by clicking on `Add another Eventpagecontent-Coach Relationship`.
 * Don't forget to save your modifications by click on the `save` blue button on the right.
 
 :tada:
@@ -114,6 +116,6 @@ To make your website available to everyone, click on `Website` and on your websi
 
 ![](images/2.png)
 
-The most important thing here is the "is live" checkbox. When your website is ready, click on it and save your page. Tada: your website is now online!
+The most important thing here is the `Is live` checkbox. When your website is ready, click on it and save your page. Tada: your website is now online!
 
 Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always have to access it.

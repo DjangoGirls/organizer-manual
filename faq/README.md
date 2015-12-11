@@ -20,10 +20,6 @@ A: Check our [resources repository](https://github.com/DjangoGirls/resources/) f
 
 A: We don't for the moment. Don't hesitate to contact other organizers near your location on Slack or Google group: some may have extra from a previous event and may be happy to send them to you!
 
-**Q: Can I give a certificate at the end of the workshop?**
-
-A: We're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
-
 ### Translation
 
 **Q: We just finished to translate the tutorial on Crowdin: what do we do now?**
