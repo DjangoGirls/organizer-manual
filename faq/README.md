@@ -6,11 +6,23 @@ planning process has you confused!
 
 ## Website and organizing
 
-### Resources
+### Organizing
+
+**Q: Is it possible to add other people to my team after the event was created?**
+
+A: Yes: send us an [email](mailto:hello@djangogirls.org) and we will add them as co-organizer. 
 
 **Q: I want the cool tattoos and stickers I saw on other events' pictures!**
 
 A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
+
+**Q: Do you provide swag for events?**
+
+A: We don't for the moment. Don't hesitate to contact other organizers near your location on Slack or Google group: some may have extra from a previous event and may be happy to send them to you!
+
+**Q: Can I give a certificate at the end of the workshop?**
+
+A: We're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
 
 ### Translation
 
@@ -32,6 +44,12 @@ A: Scoring applications is hard! Sometimes when you score, you have a certain pe
 - Recruit some more volunteers (maybe former coaches or organizers in other cities) to help you score. More votes lessens the likelihood that you'll have ties. 
 - Rescore those applications with your team, to see if a second look at the applicant helps you form a consensus. 
 - Accept the applicants who applied first, if there is a tie, and put the rest on a waiting list.  
+
+### Website
+
+**Q: Why can't I edit my website anymore?**
+
+A: If your event already happened, it's normal. If you want to make another workshop, [contact us](http://djangogirls.org/organize/). If you are in the middle of planing your event, it's not normal but don't worry: send us an [email](mailto:hello@djangogirls.org) and we will fix this!
 
 ### Next events
 
