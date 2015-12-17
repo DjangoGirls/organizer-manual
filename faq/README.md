@@ -51,6 +51,10 @@ A: Scoring applications is hard! Sometimes when you score, you have a certain pe
 
 A: If your event already happened, it's normal. If you want to make another workshop, [contact us](http://djangogirls.org/organize/). If you are in the middle of planing your event, it's not normal but don't worry: send us an [email](mailto:hello@djangogirls.org) and we will fix this!
 
+**Q: I try to add coaches on my website but it's not working: what can I do to fix it?**
+
+A: To add coaches on your website, you need to create a new section on your website. To know more about this, check the [website chapter](http://organize.djangogirls.org/website/index.html) of this manual.
+
 ### Next events
 
 **Q: I want to make another workshop!**
