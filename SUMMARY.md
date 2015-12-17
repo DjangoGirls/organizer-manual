@@ -6,6 +6,7 @@
 * [Promotion](promotion/README.md)
 * [Coaches](coaches/README.md)
 * [Costs](costs/README.md)
+* [DIY](diy/README.md)
 * [Sponsors](sponsors/README.md)
 * [Conference partnerships](conferences/README.md)
 * [Logistics](logistics/README.md)
