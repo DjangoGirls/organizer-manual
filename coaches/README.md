@@ -50,12 +50,10 @@ We think it is a good idea to have one more experienced coaches on site that is 
 
 ## Coaches briefing
 
-It is good to create a meeting/hangout for coaches before the event. They should at least know each other so that they will know who to ask for help during the workshops.
+It is good to create a meeting/hangout for coaches before the event. They should at least know each other so that they will know who to ask for help during the workshops. It's also a good idea to send them the [coach manual](http://coach.djangogirls.org/) to help them prepare for the workshop.
 
 Some information worth mentioning:
 - the coaches should know the detailed schedule for the event (also tell them if and when there will be an official introduction)
 - it's important to highlight that they should provide help for the attendees not only with the technical details - it will make the attendees feel safe if the coach will know some other details
 - if this is possible ask the coaches to verify if their group is at the level they have stated in the registration form
 - ask the coaches if they need help with the tutorial - maybe some of them have some specific questions or want to discuss it with others?
-
-
