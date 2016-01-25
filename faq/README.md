@@ -31,6 +31,10 @@ A: We're not a formal training program with examinations so you can't deliver of
 A: First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
 Now that the first part is done, you need someone to proofread your work. If you not sure if someone on your team is a proofreader, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% approved, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.
 
+**Q: Is it possible to have a website in two languages?**
+
+A: If you're part of a international conference or think that your event need to be advertise in two languages, [contact us](mailto:hello@djangogirls.org).
+
 ### Application form
 
 **Q: Where can I find all applications submitted for my event?**

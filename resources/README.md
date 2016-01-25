@@ -3,11 +3,11 @@
 All of our resources are available here: [https://github.com/DjangoGirls/resources](https://github.com/DjangoGirls/resources).
 
 Inside you can find:
-- Logo in different versions (orange, white, square)
-- Posters (12 designs)
-- Stickers (1 design)
-- T-shirt (1 design)
-- Bag (1 design)
+- Logo in different versions
+- Posters
+- Stickers
+- T-shirt (send an email to the [support team](mailto:hello@djangogirls.org) to get access to "this is what a programmer looks like" design)
+- Bag
 - Presentation for sponsors
 - Presentation for media/community promotion
 - Presentation for opening the Django Girls workshop
