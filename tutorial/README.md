@@ -28,7 +28,7 @@ Constantly show them the bigger picture, talk about open source communities, bri
 
 ## Can I use my own resource?
 
-Yes, but make sure you've tested it before on someone.
+Yes, but ask us and make sure you've tested it before on someone.
 
 ## I found a bug in the tutorial!
 
