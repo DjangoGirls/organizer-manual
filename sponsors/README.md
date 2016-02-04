@@ -10,7 +10,7 @@ Django Girls should always be kept non-profit: if there’s money left, it shoul
 
 ## What can't you offer to sponsors?
 
-The most important is: __never give the data of your attendees (names, emails, etc).__ We are really serious about this. You shouldn't break this rule even if it's mean more swag, money or a cool place to do your workshop. Just don't.
+The most important is: __never give the data of your attendees (names, emails, etc).__ We are really serious about this. You shouldn't break this rule even if it means more swag, money or a cool place to do your workshop. Just don't.
 
 You can send e-mails to attendees on behalf of the sponsor, but you can't share private information of people with them.
 
