@@ -4,7 +4,4 @@
         ],
 
     "gitbook": ">=2.5.2"
-    "styles": {
-        "website": "styles/website.css",
-    }
 }
