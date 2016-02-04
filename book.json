@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "anchors@0.5.0"
+        "heading-anchors"
         ],
 
     "gitbook": ">=2.5.2"
