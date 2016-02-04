@@ -8,6 +8,14 @@ Also, non-technology companies can be approached: beverage brands, local restaur
 
 Django Girls should always be kept non-profit: if there’s money left, it should be used to support the future activities of the attendees or donated to the [Django Software Foundation](https://www.djangoproject.com/foundation/), who frequently support us. Don’t forget that you don’t need that much funding, and even a two-person startup could be willing to chip in. It may be easier to get many small companies on board than to get one large sponsor.
 
+## What can't you offer to sponsors?
+
+The most important is: __never give the data of your attendees (names, emails, etc).__ We are really serious about this. You shouldn't break this rule even if it's mean more swag, money or a cool place to do your workshop. Just don't.
+
+You can send e-mails to attendees on behalf of the sponsor, but you can't share private information of people with them.
+
+Sponsors are of course free to hang out during the event and talk to attendees directly.
+
 ## What can you offer to sponsors?
 
 The usual offer is to give sponsors an opportunity to showcase their product or service to people who are attending the event. That may include:
@@ -19,13 +27,7 @@ The usual offer is to give sponsors an opportunity to showcase their product or 
 - public thanks to them from your social media accounts
 - e-mail sent to attendees after the event (but sent by you on behalf of the sponsor!)
 
-We recommend talking to sponsors and ask about their goals. We always try to collaborate with our partners and we make sure they get actual value and are happy with the results. 
-
-## What can't you offer to sponsors?
-
-The most important is: __never sell the data of your attendees (names, emails, etc).__ You can send e-mails to attendees on behalf of the sponsor, but you can't share private information of people with them.
-
-Sponsors are of course free to hang out during the event and talk to attendees directly.
+We recommend talking to sponsors and ask about their goals. We always try to collaborate with our partners and we make sure they get actual value and are happy with the results.
 
 ## How to find sponsors?
 
