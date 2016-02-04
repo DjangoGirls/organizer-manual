@@ -12,7 +12,7 @@ planning process has you confused!
 
 A: Yes: send us an [email](mailto:hello@djangogirls.org) and we will add them as co-organizer. 
 
-**Q: I want the cool tattoos and stickers I saw on other events' pictures!**
+**Q: I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!**
 
 A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
 
@@ -23,6 +23,11 @@ A: We don't for the moment. Don't hesitate to contact other organizers near your
 **Q: Can I give a certificate at the end of the workshop?**
 
 A: We're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
+
+**Q: How to be sure attendees' computers are ready for the workshop?**
+
+A: If you can, book your venue the evening before the workshop to do an installation party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
+If you can't do that, invite your coaches to meet their group online and send them those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.
 
 ### Translation
 
@@ -39,7 +44,7 @@ A: If you're part of a international conference or think that your event need to
 
 **Q: Where can I find all applications submitted for my event?**
 
-A: To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+A: To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address). You can find more info about application forms [here](../application_form/README.md).
 
 **Q: We scored applicants, and we have a lot of ties! What do we do?** 
 
@@ -58,6 +63,10 @@ A: If your event already happened, it's normal. If you want to make another work
 **Q: I try to add coaches on my website but it's not working: what can I do to fix it?**
 
 A: To add coaches on your website, you need to create a new section on your website. To know more about this, check the [website chapter](http://organize.djangogirls.org/website/index.html) of this manual.
+
+**Q: The application form should be close so why can I still see it?**
+
+A: You can still see your application form because you're the website administrator. If you want to be sure it's closed for applicant, go to your website using the private mode of your browser.
 
 ### Next events
 
