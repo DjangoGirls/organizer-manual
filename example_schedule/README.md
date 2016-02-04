@@ -1,14 +1,18 @@
 # Example schedule
 
+For the big day, we really recommend you to let the different groups go at their own pace. Don't forget that attendees are new learners: some will be quick, some will want to spend more time on a chapter, etc. By doing so, you'll be sure they have an awesome day ;)
+
 ## The week before the event
 
 Meet your coaches (do a dinner together!). Make sure they're familiar with the Tutorial and Coaches Manual. Get to know everyone and make sure they know each other, too. Exchange ideas and advice.
+
+If you can't do the Installation Party, make sure that coaches contact their group to organize an online party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html)
 
 ## Friday evening - Installation Party!
 
 __5pm__ Meet your attendees and coaches. Give them 30 minutes to get to know each other and talk.
 
-__5.30pm__ Installation starts! Make sure everyone has Python, Pip, Virtualenv and Django installed on their computers.
+__5.30pm__ Installation starts! Make sure everyone has Python, Pip, Virtualenv and Django installed on their computers. Instructions [here](http://tutorial.djangogirls.org/en/installation/index.html)!
 
 __8pm__ Invite everyone for a little pre-party to a cafe nearby.
 

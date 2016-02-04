@@ -2,7 +2,7 @@
 
 For the purpose of this workshop we decided to write our own tutorial which you can find here: [tutorial.djangogirls.org](http://tutorial.djangogirls.org/).
 
-We're biased :), but we really recommend using this for the workshop. It has been tested and corrected by a lot of people and you can fit it into an 8 hour workshop.
+It has been tested, corrected and translated in multiple languages by a lot of people and you can fit it into an 8 hour workshop.
 
 ## Tutorial topic
 
@@ -28,7 +28,7 @@ Constantly show them the bigger picture, talk about open source communities, bri
 
 ## Can I use my own resource?
 
-Yes, but make sure you've tested it before on someone.
+We would prefer if you use our material for the workshop. If you have awesome tutorial that you want to share, you can create a meetup after the main event. [Ask us](mailto:hello@djangogirls.org) if you want to use the name Django Girls: we usually accept if the meetup is beginner friendly and has a Code of Conduct ;)
 
 ## I found a bug in the tutorial!
 
