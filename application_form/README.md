@@ -2,21 +2,77 @@
 
 ## Create a form on Django Girls website
 
-You can create one application form for each Django Girls website. In order to do that, go to [Django Girls Admin -> Applications -> Form](http://djangogirls.org/admin/applications/form/) and click the "Add form" button. You will see a form like that:
+You can create one application form for each Django Girls website.
+ 
+To do that:
 
-![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.20.19%20PM.png)
+* Go to your admin interface.
+* Click on `Application Form` in the left menu.
+* Click on the `+ Add form` green button on the right.
+* You'll obtain this page:
 
-Now you should edit out all the texts. Confirmation mail is what we will automatically send from your city@djangogirls.org to all applicants after they submit an applications.
+![](images/1.png)
 
-You can also specify when the form will automatically become and stop being available from the public, using the date fields at the end.
+Now you should edit out all the texts:
 
-Once you save the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website). This is an address you should also add on your website and share with potential applicants.
+* `Text description`: it's the header of your form. It will appear at the top of the apply page like this:
 
-To see all applications submitted to your event, go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+![](images/2.png)
+
+* `Confirmation email`: This email will be automatically send from your city@djangogirls.org to all applicants after they submit an applications.
+* `Application process is open from/until`: Both fields are mandatory. Potential attendees will be able to register only during this period. After that, the form will be automatically deactivated and they won't be able to reach http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website).
+* Don't forget to save your modifications by click on the `save` blue button on the right.
+
+Once you'v saved the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website). This is an address you should also add on your website and share with potential applicants.
+
+To see all applications submitted to your event:
+
+* Go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
+
+Or:
+
+* Go to your admin interface.
+* Click on `Submitted Applications`.
+* You'll be automatically redirect to the applications manager. If you already have organized multiple events, you'll need to chose the event you want in the list.
+
+Or:
+
+* Go to your admin interface.
+* Click on `Forms`.
+* Click on `See all submitted applications` in the `Applications` column of the table.
 
 ### Questions
 
-As you probably noticed, when you create a form, we also automatically add default questions. You can always edit, remove or add new questions by going to [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!
+As you probably noticed, when you create a form, we also automatically add default questions.
+
+To edit a question:
+
+* Go to your admin interface.
+* Click on `Application Form` in the left menu.
+* Click on `Questions`.
+* Click on the question you want to change.
+* Maje your changes and click on the `save` blue button on the right.
+
+To remove a question:
+
+* Go to your admin interface.
+* Click on `Application Form` in the left menu.
+* Click on `Questions`.
+* Click on the question you want to delete.
+* Click on `delete` button on the right.
+* Confirm. It's gone!
+
+Do not remove the question about the Code of Conduct: remember that each event has to follow and enforce our [Code of Conduct](https://djangogirls.org/pages/coc/).
+
+To add a question:
+
+* Go to your admin interface.
+* Click on `Application Form` in the left menu.
+* Click on `Questions`.
+* Click on `+ add question`.
+* Chose your event on the list.
+* Create the new content.
+* Don't forget to save your modifications by click on the `save` blue button on the right.
 
 It is also a good idea to ask about previous experience in fields like programming (any language), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Also, ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
