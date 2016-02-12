@@ -1,6 +1,6 @@
 # Application form
 
-## Create a form on Django Girls website
+## How to create a form on Django Girls website?
 
 You can create one application form for each Django Girls website.
  
@@ -21,25 +21,21 @@ Now you should edit out all the texts:
 
 * `Confirmation email`: This email will be automatically send from your city@djangogirls.org to all applicants after they submit an applications.
 * `Application process is open from/until`: Both fields are mandatory. Potential attendees will be able to register only during this period. After that, the form will be automatically deactivated and they won't be able to reach http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website).
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
-Once you'v saved the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website). This is an address you should also add on your website and share with potential applicants.
+Once you've saved the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website).
 
-To see all applications submitted to your event:
+The link to the application form should already be on your website. To check if it's the case or add it:
 
-* Go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
+* Go in your admin interface.
+* Click on `Events` in the left menu.
+* Click on `Website contents`.
+* Click on `apply` in the list.
+* Check if ` <a class="btn" href="apply">Register</a>` is there or add it.
 
-Or:
-
-* Go to your admin interface.
-* Click on `Submitted Applications`.
-* You'll be automatically redirect to the applications manager. If you already have organized multiple events, you'll need to chose the event you want in the list.
-
-Or:
-
-* Go to your admin interface.
-* Click on `Forms`.
-* Click on `See all submitted applications` in the `Applications` column of the table.
+The link and the application form will be automatically deactivated at the date you chose when you created it. To prevent any confusion and minimize the "can I still register?" emails, replace the content of `apply` by this text when your registrations are closed:
+  
+ `Registrations are now closed: we received many applications and are now evaluating them. Acceptance emails will be sent soon!`
 
 ### Questions
 
@@ -72,7 +68,7 @@ To add a question:
 * Click on `+ add question`.
 * Chose your event on the list.
 * Create the new content.
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 It is also a good idea to ask about previous experience in fields like programming (any language), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Also, ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English, and even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
@@ -87,6 +83,24 @@ If you offer a financial assistance to your attendees, here is a list of example
 ### Form submit notifications
 
 Once your applicants submit their answer, they will receive an automatic confirmation to their email address with a copy of their responses. Woohoo!
+
+## How to find applicants answers?
+
+To find and evaluate all applications submitted to your event:
+
+* Go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
+
+Or:
+
+* Go to your admin interface.
+* Click on `Submitted Applications`.
+* You'll be automatically redirect to the applications manager. If you already have organized multiple events, you'll need to chose the event you want in the list.
+
+Or:
+
+* Go to your admin interface.
+* Click on `Forms`.
+* Click on `See all submitted applications` in the `Applications` column of the table.
 
 ## Acceptance/rejection e-mails
 

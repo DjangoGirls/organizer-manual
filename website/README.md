@@ -47,7 +47,7 @@ To change the content of your website:
 * Go to `Website Contents`.
 * Click on the name of the section you want to modify.
 * Edit the html in the `Content` field. If the code editor field is too small, you can adapt its size by clicking and dragging the bottom right corner.
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
 
@@ -88,7 +88,7 @@ To add a sponsors, go at the bottom of this page and look if your sponsor isn't 
 * You can add some extra description, but we usually leave it empty.
 * Click on save.
 * Add as many sponsors as you want by clicking on `Add another Eventpagecontent-Sponsor Relationship`.
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
 
@@ -113,12 +113,12 @@ You may want to list on your website the awesome people that will coach at your 
 
 * Don't add a background.
 * Check the `Is public` box.
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 * Click on `Website Contents` and click on `Coaches` section.
 * Go at the bottom of the page to find `Coaches` section.
 * Look if your coaches aren't already in the drop down menu. If they're not, add them by clicking on the `plus` button. The only field required is the name. If you don't have pictures for your coaches, put Django Girls [logo](https://github.com/DjangoGirls/resources/blob/master/Design/Logo/logo_square.png). Click on save.
 * Add as many coaches as you want by clicking on `Add another Eventpagecontent-Coach Relationship`.
-* Don't forget to save your modifications by click on the `save` blue button on the right.
+* Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
 
