@@ -6,6 +6,10 @@ planning process has you confused!
 
 ## Website and organizing
 
+**Q: Help me, I'm stuck!**
+
+A: We're getting more and more emails and sadly, it's becoming difficult for the Support Team to respond to everyone in a short time. If you're already here, you're on the good track! Check if you can find the answer of your question here. If not, ask other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers). If no one can help you, [contact us](mailto:hello@djangogirls.org) ;)
+
 ### Organizing
 
 **Q: Is it possible to add other people to my team after the event was created?**

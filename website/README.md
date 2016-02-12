@@ -9,6 +9,8 @@ All your team will receive an access to the Django Admin panel. It looks like th
 
 ![](images/1.png)
 
+On the left menu, you will find everything you need to administrate your website but also link to the organizers manual, Slack and Google Group.
+
 ## Edit your event
 
 You can access and edit basic information about your workshop in the event section of your admin interface:
@@ -131,3 +133,7 @@ To make your website available to everyone, click on `Events` in the left menu. 
 The most important thing here is the `Is live` checkbox. When your website is ready, click on it and save your page. Tada: your website is now online!
 
 Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always have to access it.
+
+## What should I do if something isn't working?
+
+First, you can look at our [FAQ](../faq/README.md) to see if your question isn't already answered there. If not, try to contact other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers): they'll be happy to help you! If after doing that you're still stuck, contact the [Support Team](mailto:hello@djangogirls.org).
