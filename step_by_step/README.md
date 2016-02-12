@@ -46,6 +46,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 ### 1 week before
 
 - Confirm with attendees one last time that they are still planning to attend the event! Make some last minute replacements if someone cancels.
+- Send an email to your coaches so they can meet their group. If you can't do the installation party the evening before the event, invite your coach to do it online with their group following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). It's really important that attendees' computers are ready for the workshop! 
 
 ### After the event
 
