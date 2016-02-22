@@ -123,6 +123,8 @@ In order to do that:
  - `RSVP: Confirmed attendance` - means everyone with the application status = `accepted` and rsvp status = `yes`
  - `RSVP: Rejected invitation` - means everyone with the application status = `accepted` and rsvp status = `no`
 
+While composing messages try to be positive and polite. This could be not that easy given you have to reject a number of applications. Rejecting applications is tough. Being rejected is tough as well. You can find some good examples of messages you might want to use under our [resources](https://github.com/DjangoGirls/resources/tree/master/text_templates) repository.
+
 ## What's up with this RSVP thing?
 
 [RSVP](https://en.wikipedia.org/wiki/RSVP_(invitations)) is sent to all accepted attendees. You should ask them if they still can attend the workshop, because otherwise you will give their spot to someone from the waiting list. 
