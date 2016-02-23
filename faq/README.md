@@ -80,7 +80,7 @@ A: This is so cool! Let us [know](http://djangogirls.org/organize/) and we will 
 
 **Q: Can I use the name Django Girls to make recurring meetups after my workshop?**
 
-A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish those from the regular workshop. Your meetup will need to be beginner friendly and have a Code of Conduct (you can use [our](https://djangogirls.org/pages/coc/) if you want). 
+A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish those from the regular workshop. Your meetup will need to be beginner friendly, have a Code of Conduct (you can use [our](https://djangogirls.org/pages/coc/) if you want) and be free. 
 Don't forget to add your event in our [meetup page](https://djangogirls.org/community/meetups)!
 
 ## Django Girls in general
