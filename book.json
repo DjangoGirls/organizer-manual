@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "heading-anchors"
+        "heading-anchors", "rss"
         ],
     "pluginsConfig": {
         "rss": {
