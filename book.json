@@ -2,6 +2,15 @@
     "plugins": [
         "heading-anchors"
         ],
+    "pluginsConfig": {
+        "rss": {
+            "title": "Django Girls Organizers Manual",
+            "description": "Guidelines and tips to organize an awesome Django Girls event.",
+            "author": "Django Girls",
+            "site_url": "http://organize.djangogirls.org/",
+            "feed_url": "http://organize.djangogirls.org/rss"
+    }
+  },
   
     "gitbook": ">=2.5.2"
 }
