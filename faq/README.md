@@ -60,6 +60,10 @@ A: Scoring applications is hard! Sometimes when you score, you have a certain pe
 
 ### Website
 
+**Q: Background images are cropped: what went wrong?**
+
+A: You probably forgot to close a HTML tag in one section of `Website Contents`. Check if every `<div>` has a `</div>` and it should fix it ;)
+
 **Q: Why can't I edit my website anymore?**
 
 A: If your event already happened, it's normal. If you want to make another workshop, [contact us](http://djangogirls.org/organize/). If you are in the middle of planing your event, it's not normal but don't worry: send us an [email](mailto:hello@djangogirls.org) and we will fix this!
