@@ -19,7 +19,7 @@ Feel free to fork, contribute with your own resources and make a pull request! <
 
 ## Copyrighted materials
 
-If you want to use different designs (pictures, fonts, drawings, etc) for your event, **be sure you have the right to do it**! Only use open sources materials or pay for the license. If you can't find the license of something, please don't use it.
+If you found an awesome design (picture, font, drawing, etc) you would love to use during your event, **don't forget to check the license**! Only use open source materials or pay for the license. If you can't find the license of something, please don't use it.
 
 ## Photos
 
