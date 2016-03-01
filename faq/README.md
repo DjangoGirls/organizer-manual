@@ -16,22 +16,24 @@ A: We're getting more and more emails and sadly, it's becoming difficult for the
 
 A: Yes: send us an [email](mailto:hello@djangogirls.org) and we will add them as co-organizer. 
 
-**Q: I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!**
+**Q: How to be sure attendees' computers are ready for the workshop?**
 
-A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
+A: If you can, book your venue the evening before the workshop to do an installation party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
+If you can't do that, invite your coaches to meet their group online and send them those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.
+
+### Swag
 
 **Q: Do you provide swag for events?**
 
 A: We don't for the moment. Don't hesitate to contact other organizers near your location on Slack or Google group: some may have extra from a previous event and may be happy to send them to you!
 
+**Q: I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!**
+
+A: Check our [resources repository](https://github.com/DjangoGirls/resources/) for the material and our [goodies section](http://organize.djangogirls.org/logistics/index.html#goodies) in the organizer manual to learn how to print those.
+
 **Q: Can I give a certificate at the end of the workshop?**
 
 A: We're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
-
-**Q: How to be sure attendees' computers are ready for the workshop?**
-
-A: If you can, book your venue the evening before the workshop to do an installation party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
-If you can't do that, invite your coaches to meet their group online and send them those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.
 
 ### Translation
 
