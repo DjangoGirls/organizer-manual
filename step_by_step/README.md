@@ -15,6 +15,8 @@ We've created a [Trello board](https://trello.com/b/xBRRgQRr/django-girls-templa
 
 Take a look at [Getting Started with Trello](http://help.trello.com/article/899-getting-started-video-demo) if you're not familiar with this project management tool. 
 
+If you're working with a team, we strongly recommend you to read this awesome [blog post](http://blog.djangogirls.org/post/138915381173/a-toolkit-of-awesome-tips-tricks-from-seasoned) made by Django Girls Budapest team. It's full of precious tips to keep your group organized.
+
 Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 3 months before
