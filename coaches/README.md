@@ -44,9 +44,11 @@ If the potential coach is not responding to e-mails for a couple of days, is not
 
 It would also be lovely if you could find some coaches among previous Django Girls attendees!
 
-## Meta coach
+## Meta coaches
 
-We think it is a good idea to have one more experienced coaches on site that is not assigned to any group. Not all of your coaches need to be super advanced. In case of some serious problems, the meta coach could help with solving them.
+We think it is a good idea to have one more experienced coaches on site that are not assigned to any group. Not all of your coaches need to be super advanced. When difficult challenges pop up, having a meta coach available to assist a coach in working through the problem is very helpful.
+
+If meta coaches are used, it is important that as their name implies, meta coaches are coaches for coaches. This means all of the [coaching rules, tips & tricks](http://coach.djangogirls.org/tips/index.html) apply: Meta coaches are available to help, not to take over. Set the expectation among your meta coaches that they should always acknowledge and communicate with the coach before helping a member of their group, ideally working through the problem together. This approach ensures coaches remain empowered and that in addition to learners getting the help they need, coaches become better coaches. A perfect recipe for a meta coach!
 
 ## Coaches briefing
 
