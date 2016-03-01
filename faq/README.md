@@ -60,6 +60,10 @@ A: Scoring applications is hard! Sometimes when you score, you have a certain pe
 
 ### Website
 
+**Q: I lost my admin credentials: can you reset them?**
+
+A: You don't need to contact us: just go [here](https://djangogirls.org/account/password_reset/) and follow the instructions ;) 
+
 **Q: Background images are cropped: what went wrong?**
 
 A: You probably forgot to close a HTML tag in one section of `Website Contents`. Check if every `<div>` has a `</div>` and it should fix it ;)
