@@ -66,6 +66,10 @@ We like tote bags, right? They are pretty cheap to print and it's a nice gift fo
 
 Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with sticker credit! You can find our [ready-to-print designs here](../resources/README.md).
 
+### Copyrighted materials
+
+If you found an awesome design (picture, font, drawing, etc) you would love to use during your event, **don't forget to check the license**! Only use open source materials or pay for the license. If you can't find the license of something, please don't use it.
+
 ## Marketing
 
 ### Photos & Videos

@@ -17,6 +17,10 @@ Inside you can find:
 
 Feel free to fork, contribute with your own resources and make a pull request! <3
 
-### Photos
+## Copyrighted materials
+
+If you found an awesome design (picture, font, drawing, etc) you would love to use during your event, **don't forget to check the license**! Only use open source materials or pay for the license. If you can't find the license of something, please don't use it.
+
+## Photos
 
 Check our [Flickr](https://www.flickr.com/photos/128162583@N08/sets/) account for photos from previous Django Girls events. If you want to use them, please be careful; __check the license of each photo__ and make sure you may use them. 

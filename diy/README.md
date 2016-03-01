@@ -6,6 +6,10 @@ However, we don’t want you to have an impression that to make a successful Dja
 
 This chapter will give you some tips and examples, how - with a little of DIY and good ideas and hacks - you could create something magical with very little money. 
 
+## Copyrighted materials
+
+If you found an awesome design (picture, font, drawing, etc) you would love to use during your event, **don't forget to check the license**! Only use open source materials or pay for the license. If you can't find the license of something, please don't use it.
+
 ## Decorations
 
 There are different ways to make the workshop look amazing. If you are a crafty type, preparing decorations would be very easy (but might take some time). If you hate this kind of stuff, we have some tips for you, too.
@@ -64,6 +68,7 @@ Nothing is better than beautiful photos made during the workshop. But having a p
 
 You could also arrange your own photo booth, instead of having a professional one. All you need is a person with a camera (and ideally tripod), nice background (could be piece of cloth or paper or just a wall if there is nothing on it), good light (place it near window for example). Then you could make some [props on your own with piece of paper](https://www.flickr.com/photos/djangogirls/16801129968/in/album-72157651606478126/). You could browse internet and find loads of free printables. You could order props online quite cheaply. 
 
+Don't forget to ask attendees and coaches if they want their picture taken. If you can, create two badges: one for those who want to be in the pictures, one for those who don't.
 
 ## Swag
 
@@ -79,4 +84,4 @@ Remember: it’s not about having the most expensive and most impressive gifts f
 
 Last, but not least is sharing. If one of the workshop had these beautiful fairy lights, maybe they would be happy to send them to you, so you could reuse them for your workshop? There are a number of workshops that shared decorations, stickers and swag. Maybe a workshop had some “Django Girls” bags leftovers and you don’t have a budget to print yours? Just ask at mailing list or on Slack channel for organizers!
 
-To create an amazing atmosphere, you don’t need tons of money. With a little bit of effort and help of your friends, you could create something amazing on very tight budget. Make sure to share your ideas with other organizers, too. 
+To create an amazing atmosphere, you don’t need tons of money. With a little bit of effort and help of your friends, you could create something amazing on very tight budget. Make sure to share your ideas with other organizers, too.
