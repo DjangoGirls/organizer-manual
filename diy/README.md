@@ -64,6 +64,7 @@ Nothing is better than beautiful photos made during the workshop. But having a p
 
 You could also arrange your own photo booth, instead of having a professional one. All you need is a person with a camera (and ideally tripod), nice background (could be piece of cloth or paper or just a wall if there is nothing on it), good light (place it near window for example). Then you could make some [props on your own with piece of paper](https://www.flickr.com/photos/djangogirls/16801129968/in/album-72157651606478126/). You could browse internet and find loads of free printables. You could order props online quite cheaply. 
 
+Don't forget to ask attendees and coaches if they want their picture taken. If you can, create two badges: one for those who want to be in the pictures, one for those who don't.
 
 ## Swag
 
