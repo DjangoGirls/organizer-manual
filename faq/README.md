@@ -18,8 +18,8 @@ A: Yes: send us an [email](mailto:hello@djangogirls.org) and we will add them as
 
 **Q: How to be sure attendees' computers are ready for the workshop?**
 
-A: If you can, book your venue the evening before the workshop to do an installation party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
-If you can't do that, invite your coaches to meet their group online and send them those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.
+A: If you can, book your venue the evening before the workshop to do an installation party following these [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
+If you can't do that, invite your coaches to meet their group online and send them these [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.
 
 ### Swag
 
@@ -44,7 +44,7 @@ Now that the first part is done, you need someone to proofread your work. If you
 
 **Q: Is it possible to have a website in two languages?**
 
-A: If you're part of a international conference or think that your event need to be advertise in two languages, [contact us](mailto:hello@djangogirls.org).
+A: If you're part of an international conference or think that your event needs to be advertised in two languages, [contact us](mailto:hello@djangogirls.org).
 
 ### Application form
 
@@ -72,7 +72,7 @@ A: You probably forgot to close a HTML tag in one section of `Website Contents`.
 
 **Q: Why can't I edit my website anymore?**
 
-A: If your event already happened, it's normal. If you want to make another workshop, [contact us](http://djangogirls.org/organize/). If you are in the middle of planing your event, it's not normal but don't worry: send us an [email](mailto:hello@djangogirls.org) and we will fix this!
+A: If your event already happened, it's normal. If you want to make another workshop, [contact us](http://djangogirls.org/organize/). If you are in the middle of planning your event, it's not normal but don't worry: send us an [email](mailto:hello@djangogirls.org) and we will fix this!
 
 **Q: I try to add coaches on my website but it's not working: what can I do to fix it?**
 
@@ -90,7 +90,7 @@ A: This is so cool! Let us [know](http://djangogirls.org/organize/) and we will 
 
 **Q: Can I use the name Django Girls to make recurring meetups after my workshop?**
 
-A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish those from the regular workshop. Your meetup will need to be beginner friendly, have a Code of Conduct (you can use [our](https://djangogirls.org/pages/coc/) if you want) and be free. 
+A: It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish them from a regular workshop. Your meetup will need to be beginner friendly, have a Code of Conduct (you can use [ours](https://djangogirls.org/pages/coc/) if you want) and be free. 
 Don't forget to add your event in our [meetup page](https://djangogirls.org/community/meetups)!
 
 ## Django Girls in general
@@ -142,7 +142,7 @@ on. And that's a good thing!
 
 A: First of all, we are so sorry this is happening to you. 
 
-Most of the time when people make this accusation, it's because they don't understand the law. For example, the [UK 2010 Equality Act](https://www.gov.uk/government/publications/equality-act-guidance-for-charities/equality-act-guidance-for-charities#about-the-charities-exception) states that if a  nonprofit's "aim is to tackle a particular disadvantage faced by people who share a protected characteristic" then they are allowed to limit their scope only to people who share that charactertistic. Django Girls events, even when limited to only women, do not break the law, any more than women's only hacker schools like [Hackbright](http://hackbrightacademy.com/) or [App Camp for Girls](http://appcamp4girls.com/) do. Furthermore, our events are free, and might be best likened to a [PyLadies](http://www.pyladies.com/) educational meetup. 
+Most of the time when people make this accusation, it's because they don't understand the law. For example, the [UK 2010 Equality Act](https://www.gov.uk/government/publications/equality-act-guidance-for-charities/equality-act-guidance-for-charities#about-the-charities-exception) states that if a  nonprofit's "aim is to tackle a particular disadvantage faced by people who share a protected characteristic" then they are allowed to limit their scope only to people who share that characteristic. Django Girls events, even when limited to only women, do not break the law, any more than women's only hacker schools like [Hackbright](http://hackbrightacademy.com/) or [App Camp for Girls](http://appcamp4girls.com/) do. Furthermore, our events are free, and might be best likened to a [PyLadies](http://www.pyladies.com/) educational meetup. 
 
 We recommend you either ignore people who are accusing you of being discriminatory or of breaking the law, or send them one of the links in the response to the above question, "Isn't Django Girls sexist?" If you feel harassed, or are not sure how to respond, reach out to us as [hello@djangogirls.org](mailto:hello@djangogirls.org) and we would be glad to support you however we can.
 
@@ -152,7 +152,7 @@ A: Yes! We encourage you to make this explicit on your website. Some events have
 
 > We are trans-inclusive and welcome applications from all women. 
 
-You can add this to your FAQ, or to your event description on your event website. If you'd like to learn more about trans people, you might want to take a look at [this illustrated book about gender](http://www.thegenderbook.com/), [this comic](http://www.roostertailscomic.com/comic/queer-101-third-edition/), or any of the many other introductions to trans issues on the internet. Thanks to the [PyLadies FAQ](http://kit.pyladies.com/en/latest/faqs.html) for pointing us to these excellent resorces. 
+You can add this to your FAQ, or to your event description on your event website. If you'd like to learn more about trans people, you might want to take a look at [this illustrated book about gender](http://www.thegenderbook.com/), [this comic](http://www.roostertailscomic.com/comic/queer-101-third-edition/), or any of the many other introductions to trans issues on the internet. Thanks to the [PyLadies FAQ](http://kit.pyladies.com/en/latest/faqs.html) for pointing us to these excellent resources. 
 
 **Q: Is there a Django Girls for men?** 
 
