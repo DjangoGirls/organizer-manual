@@ -45,9 +45,8 @@ Price your sponsorships in a range of 300 - 1000 Euro, but remember that even th
 - Post a "call for help" on your social media channels. Maybe someone will join you!
 - Create a list of local companies who use Python on daily basis and email them asking for help
 - Reach out to global companies and organizations like [Github](http://community.github.com/) or ask the [Django Software Foundation](https://djangoproject.com/) for help. Keep in mind that the Django Software Foundation is a charity with a very limited budget, so only ask them if you really need their help. Also try to find global companies that haven't sponsored Django Girls events yet.
+- The Python Software Foundation (PSF) typically provides up to $25 per attendee grant for Python Educational Programs (you are eligible for that!). Info on how to send the PSF a grant request is available here: https://www.python.org/psf/grants/. Keep in mind that the Python Software Foundation is a charity, so before asking them for help, try exploring local companies who use Python & Django first.
 - [Lincoln Loop](http://lincolnloop.com/) and [Divio](http://www.divio.ch/en/) are companies who support us via [Patreon](http://patreon.com/djangogirls), so please don't get in touch with them, as they can't handle replying to emails from organizers from all over the world. If you want them to sponsor your event, please get in touch with [hello@djangogirls.org](mailto:hello@djangogirls.org).
-- The Python Software Foundation provides a 50$ per attendee grant for Python Educational Programs (you are eligible for that!). Send them a grant proposal here: https://www.python.org/psf/grants/
-
 
 ## How to contact sponsors?
 
