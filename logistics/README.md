@@ -46,6 +46,15 @@ Buy some water, juice and lemons with paper or plastic cups before the event so 
 
 Have some fresh fruit or healthy snacks (energy bars!) laying around the venue. You can buy these in the store before the event. We recommend fruit that you don't have to cut - apples, grapes, bananas, strawberries, etc. 
 
+### Useful items
+
+There are a few small, cheap practical items that are really useful to have:
+ * Scissors, string, sticky tape / blu-tack for hanging posters, bunting etc.
+ * Spare pens and paper for drawing diagrams or making notes.
+ * Tissues to wipe up spills, or in case the bathrooms run out
+ * Sanitary products for the bathroom are a thoughtful touch and may be appreciated!
+ * Garbage bags - there will be mess to tidy up!
+
 ## Goodies
 
 This is only if you have the budget. 
