@@ -36,6 +36,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 - Secure a venue
 - Start looking for catering
 - [Still look for sponsors](../sponsors/README.md)
+- Once registration is open, order a [Workshop Box](https://djangogirls.org/workshop-box)
 
 ### 1 months before
 

@@ -20,7 +20,7 @@ The goal of Django Girls is to shape future software developers, so we shouldn't
 - Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
 - Maybe even organize a follow up meeting to meet for a coffee? :) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
 
-### Evaluation form for participants and coaches
+#### Evaluation form for participants and coaches
 
 It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :)?
 
@@ -30,10 +30,13 @@ Make sure the forms are anonymous. Please note that if you ask for their coaches
 
 Please invite people to read the interviews on the [Django Girls Blog](http://blog.djangogirls.org) and also encourage people to share their own stories, whether they started working as a programmer professionally or started building little side projects at home using Django after attending the workshop. All they have to do is to ping us at story@djangogirls.org. We want to keep the interview series going for a long time and we would love to read more stories of Django Girls alumni.
 
-
 #### Invite your participants to our global Django Girls mailing list
 
 We want to build a global community of women who help each other, empower each other and support each other in learning how to code. Consider inviting all of your participants and coaches to [our Django Girls mailing list](https://groups.google.com/forum/#!forum/django-girls). [Let us know](mailto:hello@djangogirls.org) and we will give you permissions to manage the group so you can invite them via Google Group.
+
+#### Send remaining funds to Django Girls
+
+If you have any remaining funds from your sponsors, you can use the one time donation box on the [donation page](https://djangogirls.org/donate) to send money to [Django Girls Foundation](https://djangogirls.org/foundation/). It will help us fund more [Workshop Boxes](https://djangogirls.org/workshop-box) for other events that can't afford them.
 
 #### Let us know how it went!
 

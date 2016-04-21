@@ -57,7 +57,7 @@ There are a few small, cheap practical items that are really useful to have:
 
 ## Goodies
 
-This is only if you have the budget. 
+This is only if you have the budget. We can send you a [Workshop Box](https://djangogirls.org/workshop-box) for 50$ or less if you meet those requirements: you need to contact us at least 6 weeks before your event and attendees registration must be open. Got to the [Workshop Box page](https://djangogirls.org/workshop-box) to know more about it.
 
 ### Temporary tattoos!
 
@@ -73,7 +73,7 @@ We like tote bags, right? They are pretty cheap to print and it's a nice gift fo
 
 ### Stickers
 
-Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with sticker credit! You can find our [ready-to-print designs here](../resources/README.md).
+Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with sticker credit! You can find our [ready-to-print designs here](../resources/README.md). If you plan to order a [Workshop Box](https://djangogirls.org/workshop-box), you won't need to order more stickers.
 
 ### Copyrighted materials
 

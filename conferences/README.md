@@ -77,7 +77,7 @@ Decorations for the booth are up to you and are super-important to drive traffic
 * Print little cards/flyers with links to the organizer manual, coaching manual, email to hello@djangogirls.org, to give out to people who want to organize or coach future workshops.
 * If you're planning to sell swag, you can use [mini-blackboard signs](http://www.ebay.com/itm/Hot-Sales-Mini-Small-Wood-Blackboard-Wedding-Buffet-Blackboards-Chalkboards-/351214608057?pt=LH_DefaultDomain_0&hash=item51c6059eb9) to highlight the price.
 * Make sure you have a plan for what to do with cash income from swag. If the conference organizers can help store it for you or deposit it in the conference account and then transfer it to the DG account, it'll reduce stress of wandering around with wads of money!
-* Try to think of a useful way to utilize the funds from swag sales. For example, if you're planning a follow-up workshop, you can keep the funds for that, or you can help out another workshop that's running into sponsorship trouble.
+* Try to think of a useful way to utilize the funds from swag sales. For example, if you're planning a follow-up workshop, you can keep the funds for that, or you can help out another workshop that's running into sponsorship trouble. You can also [send](https://djangogirls.org/donate) some of those funds to [Django Girls Foundation](https://djangogirls.org/foundation/) to help us fund more [Workshop Boxes](https://djangogirls.org/workshop-box).
 
 ### Promotion
 
