@@ -11,6 +11,20 @@ All your team will receive an access to the Django Admin panel. It looks like th
 
 On the left menu, you will find everything you need to administrate your website but also link to the organizers manual, Slack and Google Group.
 
+Even if you're familiar with Django admin interface, we strongly recommend you to read this chapter.
+
+## Edit website basic information
+
+Clicking on `Events`, `Websites` and one website listed will get you this page:
+
+TODO: ADD IMAGE
+
+* `Event` and `Title`: Don't edit those field. If you want to modify your website to do another event, send us an [email](mailto:hello@djangogirls.com) and we will deploy a new website for you.
+* `Description`: you can edit or translate this field.
+* `Main color`: Don't like orange? Chose another color for your website and enter it here in hex format. Try to find a color where white text is still readable.
+* `Custom css`: put extra css here.
+
+
 ## Edit your event
 
 You can access and edit basic information about your workshop in the event section of your admin interface:
@@ -22,10 +36,13 @@ You can access and edit basic information about your workshop in the event secti
 
 You can edit most fields but keep those few rules in mind:
 
+* Don't change the name or the city: if you need to do that, please [contact us](mailto:hello@djangogirls.com).
 * You can change the event date if you want to set a more precise date and postpone or delay an event. If you need to do that, keep us posted ;)
 * You can modify the cover picture for your event. Remember that this picture should be under Creative Common Licence. To find a new one, you can look on [Flickr](http://flickr.com/) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Don't forget to update photo credit and link.
 * You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com)
+* Don't change the event email: it helps us contact you when we need to do it.
 
+Don't forget to save any modification by clicking on the `Save` button in the right menu.
 
 ## Manage and edit content
 
