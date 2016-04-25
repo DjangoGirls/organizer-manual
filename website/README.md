@@ -19,11 +19,17 @@ Clicking on `Events`, `Websites` and one website listed will get you this page:
 
 TODO: ADD IMAGE
 
-* `Event` and `Title`: Don't edit those field. If you want to modify your website to do another event, send us an [email](mailto:hello@djangogirls.com) and we will deploy a new website for you.
+* `Event` and `Title`: Don't edit those field. If you want to modify your website to do another event, please send us an [email](mailto:hello@djangogirls.com) and we will deploy a new website for you.
 * `Description`: you can edit or translate this field.
-* `Main color`: Don't like orange? Chose another color for your website and enter it here in hex format. Try to find a color where white text is still readable.
+* `Main color`: Don't like orange? Chose another color for your website and enter it here in hex format. Try to chose a color on which white text is still readable.
 * `Custom css`: put extra css here.
+* `Is live`: When you've finished to edit your website content and want to make it live, check this box and click on `Save` in the right menu. Keep in mind that you don't need to do that to test your website: it will always be live for you and people on your organizing team.
+* `Url`: This is your event website address (`http://djangogirls.org/[NameOfYourCity]`). If you need to edit this field, please send us an [email](mailto:hello@djangogirls.com).
+* `Is deleted`: This field can't be changed to prevent you to accidentally delete your event's website.
 
+Don't forget to save your modifications by clicking on the `Save` button in the right menu.
+
+Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
 
 ## Edit your event
 
@@ -36,29 +42,63 @@ You can access and edit basic information about your workshop in the event secti
 
 You can edit most fields but keep those few rules in mind:
 
-* Don't change the name or the city: if you need to do that, please [contact us](mailto:hello@djangogirls.com).
-* You can change the event date if you want to set a more precise date and postpone or delay an event. If you need to do that, keep us posted ;)
-* You can modify the cover picture for your event. Remember that this picture should be under Creative Common Licence. To find a new one, you can look on [Flickr](http://flickr.com/) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Don't forget to update photo credit and link.
-* You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com)
-* Don't change the event email: it helps us contact you when we need to do it.
+* `Name`, `City`, `Country`: Don't edit those fields. If you need to do that, please [contact us](mailto:hello@djangogirls.com).
+* `Date`: You can edit this field if you need to set a more precise date and postpone or delay an event. If you need to do that, keep us posted ;)
+* `Photo`, `Photo credit`, `Photo link`: Those fields are connected to the cover picture for your event in our [events list page](http://djangogirls.org/events/). We already gave you one so you don't need to edit those fields. If you still want to do it, only use pictures under Creative Common Licence and don't forget to update photo credit and link.
+* `Main organizer`: You don't need to edit it. If it's not properly configured, please [contact us](mailto:hello@djangogirls.com).
+* `Team`: You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com).
+* `Is deleted`: This field can't be changed to prevent you to accidentally delete your event. If you want to cancel or postpone your event, please [contact us](mailto:hello@djangogirls.com).
+* `Is on homepage`: This field is checked by default: it means that your event is listed on our [events list page](http://djangogirls.org/events/). It can't be changed: if you want to cancel or postpone your event, please [contact us](mailto:hello@djangogirls.com).
 
-Don't forget to save any modification by clicking on the `Save` button in the right menu.
+Don't forget to save your modifications by clicking on the `Save` button in the right menu.
+
+Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
 
 ## Manage and edit content
 
 ### Structure of your website
 
-Your website will come with some default sections that you can adjust to your needs:
+#### Website sections
 
-* `about`: catchphrase for your event!
-* `values`: general description of your event.
-* `apply`: link to application form for attendees.
+When you click on `Events` and `Website Contents`, you get this page:
+
+TODO: ADD IMAGE
+
+This page is a list of default sections that you can adjust to your needs:
+
+* `about`: a catchphrase for your event.
+* `values`: a general description of your event.
+* `apply`: a link to application form for attendees.
 * `faq`: questions attendees frequently ask.
 * `coach`: information for potential coaches and link to application form.
-* `partners`: sponsors!
-* `footer`: link to social media and Code of Conduct.
+* `partners`: sponsors list.
+* `footer`: links to social media and Code of Conduct.
 
-### Edit content
+You can reorder those section by using arrows in the `position` column. Don't forget to save your modifications by clicking on the `Save` at the bottom of this page.
+
+To filter sections connected to one event in particular:
+* Click on the `Page` drop-down menu.
+* Click on an event you're organizing.
+* Click on the `Search` button.
+
+:tada:
+
+#### Website menu
+
+When you click on `Events` and `Website Menus`, you get this page:
+
+TODO: ADD IMAGE
+
+This page is a list of every item list on the top menu of your event page. You can reorder the menu by using up and down arrows in the `Position` column and clicking on save at the bottom of the page.
+
+
+
+To filter menu connected to one event in particular:
+* Click on the `Page` drop-down menu.
+* Click on an event you're organizing.
+* Click on the `Search` button.
+
+### Edit website content
 
 To change the content of your website:
 
@@ -69,6 +109,8 @@ To change the content of your website:
 * Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
+
+Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
 
 ### Create a mailing list
 
@@ -111,6 +153,8 @@ To add a sponsors, go at the bottom of this page and look if your sponsor isn't 
 
 :tada:
 
+Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
+
 ### How to add coaches?
 
 You may want to list on your website the awesome people that will coach at your event.
@@ -133,13 +177,20 @@ You may want to list on your website the awesome people that will coach at your 
 * Don't add a background.
 * Check the `Is public` box.
 * Don't forget to save your modifications by clicking on the `save` blue button on the right.
-* Click on `Website Contents` and click on `Coaches` section.
+* Click on `Website Contents`.
+* Reorder your sections: use the up and down arrows to move the `Coaches` section where you want it to appear.
+* Click on the `Save` button at the bottom of the page.
+* Click on `Coaches` section.
 * Go at the bottom of the page to find `Coaches` section.
 * Look if your coaches aren't already in the drop down menu. If they're not, add them by clicking on the `plus` button. The only field required is the name. If you don't have pictures for your coaches, put Django Girls [logo](https://github.com/DjangoGirls/resources/blob/master/Design/Logo/logo_square.png). Click on save.
 * Add as many coaches as you want by clicking on `Add another Eventpagecontent-Coach Relationship`.
 * Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
+
+If you can't find your coaches on your website, check if `Is public` box of this section is checked.
+
+Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
 
 ## When you're ready!
 
