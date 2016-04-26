@@ -9,15 +9,18 @@ All your team will receive an access to the Django Admin panel. It looks like th
 
 ![](images/1.png)
 
-On the left menu, you will find everything you need to administrate your website but also link to the organizers manual, Slack and Google Group.
+On the left menu, you will find everything you need to administrate your website but also links to the organizers manual, Slack and Google Group.
 
 Even if you're familiar with Django admin interface, we strongly recommend you to read this chapter.
 
 ## Edit website basic information
 
-Clicking on `Events`, `Websites` and one website listed will get you this page:
+To edit basic information about your event website:
+* Click on `Events` in the left menu.
+* Click on `Websites` in the left menu
+* Click on your event website in the table. You will get you this page:
 
-TODO: ADD IMAGE
+![](images/7.png)
 
 * `Event` and `Title`: Don't edit those field. If you want to modify your website to do another event, please send us an [email](mailto:hello@djangogirls.com) and we will deploy a new website for you.
 * `Description`: you can edit or translate this field.
@@ -31,20 +34,20 @@ Don't forget to save your modifications by clicking on the `Save` button in the 
 
 Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
 
-## Edit your event
+## Edit your event basic information
 
-You can access and edit basic information about your workshop in the event section of your admin interface:
+You can access and edit basic information about your workshop in the event section:
 
 * Click on `Events` in the left menu.
-* Clicked on your event and you will get this page:
+* Click on your event and you will get this page:
 
 ![](images/4.png)
 
 You can edit most fields but keep those few rules in mind:
 
 * `Name`, `City`, `Country`: Don't edit those fields. If you need to do that, please [contact us](mailto:hello@djangogirls.com).
-* `Date`: You can edit this field if you need to set a more precise date and postpone or delay an event. If you need to do that, keep us posted ;)
-* `Photo`, `Photo credit`, `Photo link`: Those fields are connected to the cover picture for your event in our [events list page](http://djangogirls.org/events/). We already gave you one so you don't need to edit those fields. If you still want to do it, only use pictures under Creative Common Licence and don't forget to update photo credit and link.
+* `Date`: You can edit this field if you need to set a more precise date, postpone or delay an event. If you need to do that, keep us posted ;)
+* `Photo`, `Photo credit`, `Photo link`: Those fields are connected to the cover picture of your event in the [events list page](http://djangogirls.org/events/) of Django Girls website. We already gave you one so you don't need to edit those fields. If you need to change it, only use pictures under Creative Common Licence and don't forget to update photo credit and link.
 * `Main organizer`: You don't need to edit it. If it's not properly configured, please [contact us](mailto:hello@djangogirls.com).
 * `Team`: You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com).
 * `Is deleted`: This field can't be changed to prevent you to accidentally delete your event. If you want to cancel or postpone your event, please [contact us](mailto:hello@djangogirls.com).
@@ -62,7 +65,7 @@ Once your event is done, you won't be able to edit any of those fields. If you n
 
 When you click on `Events` and `Website Contents`, you get this page:
 
-TODO: ADD IMAGE
+![](images/8.png)
 
 This page is a list of default sections that you can adjust to your needs:
 
@@ -74,7 +77,7 @@ This page is a list of default sections that you can adjust to your needs:
 * `partners`: sponsors list.
 * `footer`: links to social media and Code of Conduct.
 
-You can reorder those section by using arrows in the `position` column. Don't forget to save your modifications by clicking on the `Save` at the bottom of this page.
+You can reorder those sections by using their arrows in the `position` column. Don't forget to save your modifications by clicking on the `Save` at the bottom of this page.
 
 To filter sections connected to one event in particular:
 * Click on the `Page` drop-down menu.
@@ -87,11 +90,15 @@ To filter sections connected to one event in particular:
 
 When you click on `Events` and `Website Menus`, you get this page:
 
-TODO: ADD IMAGE
+![](images/9.png)
 
-This page is a list of every item list on the top menu of your event page. You can reorder the menu by using up and down arrows in the `Position` column and clicking on save at the bottom of the page.
+This table is the menu you can see at the top of your event website: every entry is connected to a `Website Content` section.
 
+You can reorder the menu by using up and down arrows in the `Position` column and clicking on the `Save` button at the bottom of the page.
 
+When you click on a menu item, you can modify its title and URL. The structure of your website is already configured: you won't need to change those settings.
+
+If you want to know how to add a new section and a menu link to it, check ("How to add coaches?")[http://organize.djangogirls.org/website/#how-to-add-coaches] example.
 
 To filter menu connected to one event in particular:
 * Click on the `Page` drop-down menu.
