@@ -57,7 +57,7 @@ There are a few small, cheap practical items that are really useful to have:
 
 ## Goodies
 
-This is only if you have the budget. We can send you a [Workshop Box](https://djangogirls.org/workshop-box) for 50$ or less if you meet those requirements: you need to contact us at least 6 weeks before your event and attendees registration must be open. Got to the [Workshop Box page](https://djangogirls.org/workshop-box) to know more about it.
+This is only if you have the budget. We can send you a [Workshop Box](https://djangogirls.org/workshop-box) for 50$ or less if you meet these requirements: you need to contact us at least 6 weeks before your event and attendees registration must be open. Go to the [Workshop Box page](https://djangogirls.org/workshop-box) to know more about it.
 
 ### Temporary tattoos!
 

@@ -25,7 +25,7 @@ If you can't do that, invite your coaches to meet their group online and send th
 
 **Q: Do you provide swag (stickers, nametags, etc) for events?**
 
-A: Yes, but you have to meet those requirements: you need to contact us at least 6 weeks before your event and attendees registration must be open. To know more about this, check the [workshop box page](https://djangogirls.org/workshop-box) on Django Girls website. You will need to be logged in admin to be able to see this page.
+A: Yes, but you have to meet these requirements: you need to contact us at least 6 weeks before your event and attendees registration must be open. To know more about this, check the [workshop box page](https://djangogirls.org/workshop-box) on Django Girls website. You will need to be logged in admin to be able to see this page.
 
 **Q: I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!**
 
