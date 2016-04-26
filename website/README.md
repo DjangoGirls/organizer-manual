@@ -47,7 +47,7 @@ You can edit most fields but keep those few rules in mind:
 
 * `Name`, `City`, `Country`: Don't edit those fields. If you need to do that, please [contact us](mailto:hello@djangogirls.com).
 * `Date`: You can edit this field if you need to set a more precise date, postpone or delay an event. If you need to do that, keep us posted ;)
-* `Photo`, `Photo credit`, `Photo link`: Those fields are connected to the cover picture of your event in the [events list page](http://djangogirls.org/events/) of Django Girls website. We already gave you one so you don't need to edit those fields. If you need to change it, only use pictures under Creative Common Licence and don't forget to update photo credit and link.
+* `Photo`, `Photo credit`, `Photo link`: Those fields are connected to the cover picture of your event in the [events list page](http://djangogirls.org/events/) of Django Girls website. We already gave you one so you don't need to edit those fields. If you need to change it, only use pictures under Creative Common License and don't forget to update photo credit and link.
 * `Main organizer`: You don't need to edit it. If it's not properly configured, please [contact us](mailto:hello@djangogirls.com).
 * `Team`: You can't edit your team: if you want to add or remove someone, [contact us](mailto:hello@djangogirls.com).
 * `Is deleted`: This field can't be changed to prevent you to accidentally delete your event. If you want to cancel or postpone your event, please [contact us](mailto:hello@djangogirls.com).
@@ -98,8 +98,6 @@ You can reorder the menu by using up and down arrows in the `Position` column an
 
 When you click on a menu item, you can modify its title and URL. The structure of your website is already configured: you won't need to change those settings.
 
-If you want to know how to add a new section and a menu link to it, check ("How to add coaches?")[http://organize.djangogirls.org/website/#how-to-add-coaches] example.
-
 To filter menu connected to one event in particular:
 * Click on the `Page` drop-down menu.
 * Click on an event you're organizing.
@@ -142,7 +140,7 @@ We recommend you to read [Getting Started With MailChimp](http://mailchimp.com/r
 
 ### How to add sponsors?
 
-First, click on `Events` in the left menu and go to `Website Contents` and click on `partners` in the list. You will obtain this page:
+First, click on `Events` in the left menu and go to `Website Contents` and click on `partners` in the list. You will get this page:
 
 ![](images/3.png)
 
