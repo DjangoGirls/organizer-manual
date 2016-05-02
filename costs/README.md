@@ -6,7 +6,7 @@ The costs below are estimated for 30 participants and 10 coaches - but they may 
 
 - __Lunch__ - catered lunch can be around 10 Euro + some water and coffee for 3 Euro = 550€.
 
-- __Prints__ -  Printing stickers, posters or tote bags and other swag. This may vary a lot, but it's usually good to set aside 200€.
+- __Prints__ -  Printing stickers, posters or tote bags and other swag. This may vary a lot, but it's usually good to set aside 200€. Don't forget that you can order a [Workshop Box](https://djangogirls.org/workshop-box) for 50$ or less by contacting us at least 6 weeks before your event: it contains stickers, nametags and balloons.
 
 - __Coach dinner__ - Thank your coaches for their hard work and have a place to meet to talk about the event. Around 20 Euro per coach = 200€.
 
