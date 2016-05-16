@@ -37,6 +37,10 @@ A: We're not a formal training program with examinations so you can't deliver of
 
 ### Translation
 
+**Q: I want to work on the tutorial translation but I'm lost. Where should I start?**
+
+A: The first thing you can do is check the [Translation Guide](http://translate.djangogirls.org/): you'll learn our translation process, from guidelines to deployment. You can also check [Crowdin documentation](https://support.crowdin.com/for-translators/getting-started-translators/interface-overview/) to learn how to use this tool.
+
 **Q: We just finished to translate the tutorial on Crowdin: what do we do now?**
 
 A: First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
