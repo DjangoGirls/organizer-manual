@@ -13,9 +13,10 @@
 * [Sponsors](sponsors/README.md)
 * [Resources](resources/README.md)
 * [DIY](diy/README.md)
-* [Promotion](promotion/README.md)
 * [Website](website/README.md)
+* [Promotion](promotion/README.md)
 * [Application form](application_form/README.md)
 * [Conference partnerships](conferences/README.md)
 * [After the event](after_the_event/README.md)
 * [FAQ](faq/README.md)
+
