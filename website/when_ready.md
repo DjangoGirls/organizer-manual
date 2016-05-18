@@ -6,4 +6,4 @@ To make your website available to everyone, click on `Events` in the left menu. 
 
 The most important thing here is the `Is live` checkbox. When your website is ready, click on it and save your page. Tada: your website is now online!
 
-Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always have to access it.
+Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always be able to access it.
