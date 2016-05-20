@@ -4,6 +4,8 @@ For the purpose of this workshop we decided to write our own tutorial which you 
 
 It has been tested, corrected and translated in multiple languages by a lot of people and you can fit it into an 8 hour workshop.
 
+To know more about how to translate the tutorial, check the [Translation Guide](http://translate.djangogirls.org/).
+
 ## Tutorial topic
 
 In the tutorial everyone builds their own blog. Of course, changes from that are really appreciated as it helps women to understand even more what's happening under the hood.
@@ -33,7 +35,3 @@ We would prefer if you use our material for the workshop. If you have awesome tu
 ## I found a bug in the tutorial!
 
 Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help are really appreciated.
-
-## I want to translate the tutorial!
-
-To know more about translation, consult the the [Translation Guide](http://translate.djangogirls.org/).
