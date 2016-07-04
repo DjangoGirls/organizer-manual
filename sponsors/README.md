@@ -44,7 +44,7 @@ Price your sponsorships in a range of 300 - 1000 Euro, but remember that even th
 - E-mail or call local companies that are familiar to you. Finding local sponsors might be more work than contacting big global companies, but in the end it pays off because a local company is more likely to sponsor you and want to build a relationship with you. It is very likely that they will help you out with a future workshop or follow-up event in your town as well.
 - Post a "call for help" on your social media channels. Maybe someone will join you!
 - Create a list of local companies who use Python on daily basis and email them asking for help
-- Reach out to global companies and organizations like [Github](http://community.github.com/) or ask the [Django Software Foundation](https://djangoproject.com/) for help. Keep in mind that the Django Software Foundation is a charity with a very limited budget, so only ask them if you really need their help. Also try to find global companies that haven't sponsored Django Girls events yet.
+- Reach out to global companies and organizations or ask the [Django Software Foundation](https://djangoproject.com/) for help. Keep in mind that the Django Software Foundation is a charity with a very limited budget, so only ask them if you really need their help. Also try to find global companies that haven't sponsored Django Girls events yet.
 - The Python Software Foundation (PSF) typically provides up to $25 per attendee grant for Python Educational Programs (you are eligible for that!). Info on how to send the PSF a grant request is available here: https://www.python.org/psf/grants/. Keep in mind that the Python Software Foundation is a charity, so before asking them for help, try exploring local companies who use Python & Django first.
 - [Lincoln Loop](http://lincolnloop.com/) and [Divio](http://www.divio.ch/en/) are companies who support us via [Patreon](http://patreon.com/djangogirls), so please don't get in touch with them, as they can't handle replying to emails from organizers from all over the world. If you want them to sponsor your event, please get in touch with [hello@djangogirls.org](mailto:hello@djangogirls.org).
 
@@ -74,8 +74,40 @@ Unfortunately, you also have to take care of transferring the money from sponsor
 Make sure to tell the sponsors when you need the money. Money transfer can take a few days and you will have to pay for some things like printing t-shirts or bags beforehand. Make sure to have all the money in your bank account at least 1-2 weeks before the workshop so you don't get into trouble or have to organize some things last minute.
 
 ### Invoices
-We have prepared sample invoices for GitHub and PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain.
+We have prepared sample invoice for the PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain.
 
-You can access the invoices [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing).
+You can access the invoice [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing).
 
-Inside each file you have to choose File > Make a copy. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
+Open the file and choose `File` > `Make a copy`. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
+
+## GitHub sponsorship
+
+GitHub can sponsor your event with a 500$ grant but only if it's the first event organized in your city. Check on the [event page](https://djangogirls.org/events/) if it's the case or not. If a workshop already happened, you'll be able to apply only if they didn't received a sponsorship (check the sponsors section).
+
+If you can apply, don't use GitHub community website but follow the instructions bellow.
+
+### Applying from the US:
+
+At least one month before your event:
+
+* Fill the ACH request and the W9 form [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access those files). If a company is dealing with your event's invoices and money, they will need to fill those forms, not you.
+* Name your files like this: CITY_invoice.pdf and CITY_w9.pdf.
+* [Send us](mailto:hello@djangogirls.org) those two files.
+
+The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.
+
+### Applying from elsewhere:
+
+At least one month before your event:
+
+* Fill the wire request [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access this file). If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
+* Name your file like this: CITY_invoice.pdf.
+* [Send us](mailto:hello@djangogirls.org) this file.
+
+The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.. We strongly advise you to check your local tax law to learn how to declare this grant.
+
+### Request for another sponsorship:
+
+You won't be able to apply for a second grant except if you're in a country where it's difficult to find sponsors.
+
+To apply again: fill the wire form and add a letter explaining why you need another grant. Send everything to the [Support Team](mailto:hello@djangogirls.org): This second application will be reviewed by GitHub and they will contact you with the results.
