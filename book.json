@@ -1,7 +1,10 @@
 {
+    "gitbook": ">=3.1.1",
     "plugins": [
-        "heading-anchors", "rss"
-        ],
+        "heading-anchors", 
+        "rss",
+        "sidebar-ad"
+    ],
     "pluginsConfig": {
         "rss": {
             "title": "Django Girls Organizers Manual",
@@ -9,8 +12,12 @@
             "author": "Django Girls",
             "site_url": "http://organize.djangogirls.org/",
             "feed_url": "http://organize.djangogirls.org/rss"
+        },
+        "sidebar-ad": {
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0992/7712/products/codelikeagirl---mockup4_large.jpg",
+            "url": "https://store.djangogirls.org/",
+            "description": "💖 Support our work and buy a Django Girls t-shirt! ✨",
+            "btnText": "Get a t-shirt!"
+        }
     }
-  },
-  
-    "gitbook": ">=3.0.0-pre.5"
 }
