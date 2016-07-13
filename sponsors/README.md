@@ -91,8 +91,9 @@ If you can apply, don't use GitHub community website but follow the instructions
 At least one month before your event:
 
 * Fill the ACH request and the W9 form [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access those files). If a company is dealing with your event's invoices and money, they will need to fill those forms, not you.
-* Name your files like this: CITY_invoice.pdf and CITY_w9.pdf.
-* [Send us](mailto:hello@djangogirls.org) those two files.
+* Fill the invoice [available here](https://docs.google.com/document/d/1WQw6Uqu2ppD0OmVBFdZeeAuBnWs21cGOsUOUfkWKZ3E/edit?usp=sharing). If you don't have a tax number, remove this field.
+* Name your files like this: CITY_ach.pdf, CITY_invoice.pdf and CITY_w9.pdf.
+* [Send us](mailto:hello@djangogirls.org) those three files.
 
 The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.
 
@@ -101,8 +102,9 @@ The Support Team will be sending invoices bi-weekly to GitHub: they will contact
 At least one month before your event:
 
 * Fill the wire request [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access this file). If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
-* Name your file like this: CITY_invoice.pdf.
-* [Send us](mailto:hello@djangogirls.org) this file.
+* Fill the invoice [available here](https://docs.google.com/document/d/1WQw6Uqu2ppD0OmVBFdZeeAuBnWs21cGOsUOUfkWKZ3E/edit?usp=sharing). If you don't have a tax number, remove this field.
+* Name your file like this: CITY_wire.pdf and CITY_invoice.pdf.
+* [Send us](mailto:hello@djangogirls.org) those two files.
 
 The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.. We strongly advise you to check your local tax law to learn how to declare this grant.
 
