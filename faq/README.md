@@ -14,7 +14,8 @@ A: We're getting more and more emails and sadly, it's becoming difficult for the
 
 **Q: Is it possible to add other people to my team after the event was created?**
 
-A: Yes: send us an [email](mailto:hello@djangogirls.org) and we will add them as co-organizer. 
+A: Yes! You can do it by clicking on [Organizers -> Add Organizers](https://djangogirls.org/admin/core/event/add_organizers/)
+in Django Girls admin. 
 
 **Q: How to be sure attendees' computers are ready for the workshop?**
 
