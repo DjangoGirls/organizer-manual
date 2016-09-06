@@ -82,11 +82,11 @@ Open the file and choose `File` > `Make a copy`. In your invoice you will have t
 
 ## GitHub sponsorship
 
-GitHub can sponsor one Django Girls workshop per city with a 500$ grant. Before applying, you need to check if an event already happened in your city and if they received money from GitHub (check their sponsors section). If your event is the first in your city or if the previous ones didn't receive sponsoring from GitHub, you can apply. To do this, follow the instruction bellow.
+GitHub can sponsor one Django Girls workshop per city with a 500$ grant. Before applying, you need to check if an event already happened in your city and if they received money from GitHub (check their sponsors section). If your event is the first in your city or if the previous ones didn't receive sponsoring from GitHub, you can apply. To do this, follow the instructions bellow.
 
 ### For event happening in the US:
 
-Use those instructions only if your event is happening in the US.
+Use those instructions **only if** your event is happening in the US or if you will receive GitHub grant on a US bank account.
 
 At least one month before your event:
 
@@ -99,7 +99,7 @@ The Support Team will be sending invoices bi-weekly to GitHub: they will contact
 
 ### For event happening anywhere else:
 
-Use those instructions if your event is **not** happening in the US.
+Use those instructions if your event is **not** happening in the US and if you **won't** received GitHub grant on a US bank account.
 
 At least one month before your event:
 
@@ -110,8 +110,8 @@ At least one month before your event:
 
 The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application. We strongly advise you to check your local tax law to learn how to declare this grant.
 
-### Request for another sponsorship:
+### Request another sponsorship from GitHub:
 
-You won't be able to apply for a second grant except if you're in a country where it's difficult to find sponsors.
+You won't be able to apply for a second grant except if your event is happening in a country where it's difficult to find sponsors.
 
-To apply again: fill the wire form and add a letter explaining why you need another grant. Send everything to the [Support Team](mailto:hello@djangogirls.org): This second application will be reviewed by GitHub and they will contact you with the results.
+To apply again: fill the wire form, the invoice and add a letter explaining why you need another grant. Send those three files to the [Support Team](mailto:hello@djangogirls.org): This second application will be reviewed by GitHub and they will contact you with the results.
