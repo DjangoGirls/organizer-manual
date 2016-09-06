@@ -3,7 +3,8 @@
     "plugins": [
         "heading-anchors", 
         "rss",
-        "sidebar-ad"
+        "sidebar-ad",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "rss": {
