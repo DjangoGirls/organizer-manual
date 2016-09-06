@@ -24,6 +24,8 @@
     * [Edit website content](website/content.md)
     * [When you're ready](website/when_ready.md)
 * [Application form](application_form/README.md)
+    * [Create and manage the form](application_form/create_manage_form.md)
+    * [Communication with applicants](application_form/communication.md)
 * [Conference partnerships](conferences/README.md)
 * [After the event](after_the_event/README.md)
     * [Next event](after_the_event/next_event.md)
