@@ -26,5 +26,6 @@
 * [Application form](application_form/README.md)
 * [Conference partnerships](conferences/README.md)
 * [After the event](after_the_event/README.md)
+    * [Next event](after_the_event/next_event.md)
 * [FAQ](faq/README.md)
 
