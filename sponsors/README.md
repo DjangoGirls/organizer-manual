@@ -82,31 +82,33 @@ Open the file and choose `File` > `Make a copy`. In your invoice you will have t
 
 ## GitHub sponsorship
 
-GitHub can sponsor your event with a 500$ grant but only if it's the first event organized in your city. Check on the [event page](https://djangogirls.org/events/) if it's the case or not. If a workshop already happened, you'll be able to apply only if they didn't received a sponsorship (check the sponsors section).
+GitHub can sponsor one Django Girls workshop per city with a 500$ grant. Before applying, you need to check if an event already happened in your city and if they received money from GitHub (check their sponsors section). If your event is the first in your city or if the previous ones didn't receive sponsoring from GitHub, you can apply. To do this, follow the instruction bellow.
 
-If you can apply, don't use GitHub community website but follow the instructions bellow.
+### For event happening in the US:
 
-### Applying from the US:
+Use those instructions only if your event is happening in the US.
 
 At least one month before your event:
 
-* Download and fill the ACH request and the W9 form [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access those files). If a company is dealing with your event's invoices and money, they will need to fill those forms, not you.
-* Download and fill the invoice [available here](https://docs.google.com/document/d/1ozXuqXyIok7p2rFkBHNjSZACp9FPB1yq1Tt9l8BbeEU/edit?usp=sharing). If you don't have a tax number, remove this field. If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
+* Download and fill the **ACH request** and the **W9 form** [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access those files). If a company is dealing with your event's invoices and money, they will need to fill those forms, not you.
+* Download and fill **GitHub invoice** [available here](https://docs.google.com/document/d/1ozXuqXyIok7p2rFkBHNjSZACp9FPB1yq1Tt9l8BbeEU/edit?usp=sharing). If you don't have a tax number, remove this field. If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
 * Name your files like this: CITY_ach.pdf, CITY_invoice.pdf and CITY_w9.pdf.
-* [Send us](mailto:hello@djangogirls.org) those three files.
+* [Send us](mailto:hello@djangogirls.org) those **three files**.
 
 The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.
 
-### Applying from elsewhere:
+### For event happening anywhere else:
+
+Use those instructions if your event is **not** happening in the US.
 
 At least one month before your event:
 
-* Download and fill the wire request [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access this file). If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
-* Download and fill the invoice [available here](https://docs.google.com/document/d/1ozXuqXyIok7p2rFkBHNjSZACp9FPB1yq1Tt9l8BbeEU/edit?usp=sharing). If you don't have a tax number, remove this field. If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
+* Download and fill the **wire request** [available here](https://drive.google.com/drive/u/0/folders/0BxqF-fMgUfHUM0lRSGhBVjNyT1U) (you must be logged with your event email account to access this file). If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
+* Download and fill **GitHub invoice** [available here](https://docs.google.com/document/d/1ozXuqXyIok7p2rFkBHNjSZACp9FPB1yq1Tt9l8BbeEU/edit?usp=sharing). If you don't have a tax number, remove this field. If a company is dealing with your event's invoices and money, they will need to fill this form, not you.
 * Name your file like this: CITY_wire.pdf and CITY_invoice.pdf.
-* [Send us](mailto:hello@djangogirls.org) those two files.
+* [Send us](mailto:hello@djangogirls.org) those **two files**.
 
-The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application.. We strongly advise you to check your local tax law to learn how to declare this grant.
+The Support Team will be sending invoices bi-weekly to GitHub: they will contact you with the results of your application. We strongly advise you to check your local tax law to learn how to declare this grant.
 
 ### Request for another sponsorship:
 
