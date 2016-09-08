@@ -1,4 +1,4 @@
-# Photography
+# Taking pictures
 
 Nothing is better than beautiful photos made during the workshop. But having a professional photographer is a costy thing and very often you don’t have a budget for it. Our tip is to ask around - does any of your friends have a camera and like to make pictures?
 

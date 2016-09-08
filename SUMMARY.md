@@ -23,7 +23,7 @@
 * [DIY](diy/README.md)
     * [Decoration](./decoration.md)
     * [Food](./food.md)
-    * [Photography](./photography.md)
+    * [Pictures](./pictures.md)
     * [Swag](./swag.md)
 * [Promotion](promotion/README.md)
 * [Website](website/README.md)
