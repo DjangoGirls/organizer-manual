@@ -1,46 +1,10 @@
-# Attendees
+# Choosing attendees
 
-**The goal of Django Girls is to bring new people into technology, especially women. You're free to organize a mixed-gender groups for your event but women must have priority when applying.**
-
-The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with a computer can do it.
-
-However there are some things to look out for. If you organize something for free there is a chance that some people will not appear at all. They didn't invest any time or money, so it is easy for them to simply not come. That's why you should try to find people who really, really care.
-
-The only way you can measure somebody's commitment is their application form. Make sure that it contains questions that will give you necessary hints about the person.
-
-## How do people sign up?
-
-### Local events
-
-If you don't plan on providing any financial aid for participants you should open an application process at least a month (ideally two) before the event. Give people two weeks to apply, and ask them why they should be the ones to attend the event, and what is their motivation. It's easiest to use Django Girls website to manage applications. We will talk more about this below. Send people acceptance/rejection e-mails a week before the event. Make sure they confirm that they will attend.
-
-### International events
-
-If you organize an event and expect to have people from many different countries, you should start much earlier. There is a chance that you will have people who need visas. In this case, you need to let people know if they are invited at least one month before the event.
-
-#### Visa invitation letter
-
-It is also possible that you will need to provide an invitation letter for the participants who require visas. It might look like this:
-
-> Through this paper we certify that _[name of participant]_, born _[birth date of participant]_, living at _[country]_, _[address]_, with passport number _[passport number of participant]_, valid from _[date]_ to _[date]_, is invited during the period of [date] to [date] to participate in the Django Girls workshop organised by _[name of some legal entity or you]_ with the address: _[address]_; phone: _[phone]_, e-mail: _[email]_.
-
-> _[here you can put some info about who organises the event - if it a part of conference you should put some info about it here]_
-
-> Free food and social activities will be provided by organisers during the period of stay.
-
-> We kindly request that you grant a free visa for this particular participant of the Django Girls workshop.
-
-> [your name]
-
-You will need to send this letter (signed!) to the participant. You should also scan the signed papers and send the copy via e-mail.
-
-## Choosing attendees
-
-Attendees can apply to your event through the [application form](../application_form/README.md). You can see all applications submitted to your event by going to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+Attendees can apply to your event through the [application form](../application_form/create_manage_form.md). You can see all applications submitted to your event by going to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
 
 There you will see a list of all applications. You can filter them by state or RSVP status, you can see the details of each application and assign them to groups (accepted, rejected, waitlisted) as well as set their RSVP statuses (yes, no, waiting).
 
-Check the [application form section](../application_form/README.md) to learn how to create a form and use the applications manager on your website.
+Check the [application form section](../application_form/create_manage_form.md) to learn how to create a form and use the applications manager on your website.
 
 ### How to choose attendees?
 

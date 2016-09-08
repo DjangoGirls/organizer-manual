@@ -107,3 +107,7 @@ If you offer a financial assistance to your attendees, here is a list of example
 1. Do you need financial assistance to come and stay in [city]?
 2. What is your current financial situation? Tell us why you need financial assistance.
 3. How much money do you need? Give us an exact amount of Euro/dollars you need. Try to break down costs.
+
+## What should I do if something isn't working?
+
+First, you can look at our [FAQ](../faq/README.md) to see if your question isn't already answered there. If not, try to contact other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers): they'll be happy to help you! If after doing that you're still stuck, contact the [Support Team](mailto:hello@djangogirls.org).
