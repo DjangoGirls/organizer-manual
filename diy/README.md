@@ -20,5 +20,5 @@ To create an amazing atmosphere, you don’t need tons of money. With a little b
 
 - [Decoration](./decoration.md)
 - [Food](./food.md)
-- [Photography](./photography.md)
+- [Pictures](./pictures.md)
 - [Swag](./swag.md)

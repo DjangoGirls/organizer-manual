@@ -4,6 +4,6 @@ Getting sponsors on board may sound scary, but it is not so difficult. In this c
 
 # Table of content for this chapter:
 
-- [Find sponsors](./find_sponsors.md)
+- [Find sponsors](./find_sponsor.md)
 - [GitHub sponsoring](./github_sponsor.md)
 - [Handling money](./handling_money.md)
