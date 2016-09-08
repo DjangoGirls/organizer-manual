@@ -4,7 +4,6 @@
 * [Step by step](step_by_step/README.md)
 * [Environment](environment/README.md)
 * [Tutorial](tutorial/README.md)
-* [Attendees](attendees/README.md)
 * [Coaches](coaches/README.md)
 * [Logistics](logistics/README.md)
 * [Example schedule](example_schedule/README.md)

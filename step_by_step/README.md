@@ -30,7 +30,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 2 months before
 
-- [Announce the application process for attendees](../attendees/README.md)
+- [Announce the application process for attendees](../application_form/README.md)
 - [Reach out to local press, universities, etc. to actively promote the event](../promotion/README.md)
 - [Have a team of coaches ready](../coaches/README.md)
 - Secure a venue
@@ -41,7 +41,8 @@ Let's see how organizing a Django Girls event looks on the timeline:
 ### 1 months before
 
 - Announce your coaches on your website
-- [Choose attendees and inform them](../attendees/README.md#how-to-choose-attendees)
+- [Choose attendees](../application_form/selection.md)
+- [Inform applicants of the result](../application_form/communication.md)
 - Organize a dinner/meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](../tutorial/README.md).
 - Make sure attendees confirmed their attendance
 - [Make sure all the logistics are figured out](../logistics/README.md)
