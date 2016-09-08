@@ -28,6 +28,8 @@
     * [Selection](application_form/selection.md)
     * [Communication](application_form/communication.md)
 * [Conference partnerships](conferences/README.md)
+    * [Logistics](conferences/logistics.md)
+    * [Booth during a conference](conferences/booth.md)
 * [After the event](after_the_event/README.md)
     * [Next event](after_the_event/next_event.md)
 * [FAQ](faq/README.md)
