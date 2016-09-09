@@ -19,7 +19,7 @@
     * [Other resources](accessibility/other_resources.md)
 * [Costs](costs/README.md)
 * [Sponsors](sponsors/README.md)
-    * [Find sponsors](sponsors/find_sponsors.md)
+    * [Find sponsors](sponsors/find_sponsor.md)
     * [GitHub sponsoring](sponsors/github_sponsor.md)
     * [Handling money](sponsors/handling_money.md)
 * [Resources](resources/README.md)
