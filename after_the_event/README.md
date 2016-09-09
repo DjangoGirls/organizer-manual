@@ -40,14 +40,16 @@ If you have any remaining funds from your sponsors, you can use the one time don
 
 #### Let us know how it went!
 
-We can't wait to hear about your experience. It'd be great if you could share whatever you learned with us. This list of questions maybe helpful:
+After your event is done, we will contact you to thank you and to hear hear about your experience. If we don't do it, you can [send us an email](mailto:hello@djangogirls.org) with answers to those questions:
 
-1. How many participants attended your event?
-2. How many coaches attended your event?
+1. Number of attendees
+2. Number of applicants
 3. What was the most important thing you discovered during the workshop?
 4. How can we make Django Girls better?
+5. What was the cost of your event and were you able to cover the cost of the event by finding sponsors?
+6. Anything else you want to share with us?
 
-Just send it to us at hello@djangogirls.org :)
+Thanks a lot <3
 
 #### Share what you learn in the Django Girls Organizers group
 
@@ -57,12 +59,6 @@ If you want to, you can also share everything with the Django Girls Organizer gr
 
 Share with the world how awesome it was! Consider following [Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) and [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014) describing your whole event on our blog. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Django Girls event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Django Girls in your city is awesome!
 
-We would be happy to publish it -- just let us know. You know where to find us :)
-
-## Next editions
-
-If you plan to organize next edition of Django Girls in your city, you will need to let us know, so that:
-* we know it is happening :)
-* we will setup a new website for you (with the same address) - **please do not change old website after the event** - it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page. We also associate some stats after each finished event, so changing you old website will cause trouble for us.
+You can submit your [blog post here](http://blog.djangogirls.org/submit). We will review it and contact you soon :)
 
 
