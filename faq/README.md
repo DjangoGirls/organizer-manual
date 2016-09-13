@@ -1,1 +1,1 @@
-The FAQ is now available at this address: https://djangogirls.gitbooks.io/faq-for-django-girls-organizer-s-manual/content/
+The FAQ is now available at this address: http://faq-organizers.djangogirls.org/

@@ -13,7 +13,7 @@ This chapter will cover how to create an application form for your event and how
 
 # Table of content for this chapter:
  
-- [When to open registration](./opening_registration.md)
+- [When should I open registration?](./opening_registration.md)
 - [Create and manage the form](./create_manage_form.md)
 - [Selection](./selection.md)
 - [Communication](./communication.md)
