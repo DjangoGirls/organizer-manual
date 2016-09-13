@@ -21,4 +21,7 @@ First, you can look at our [FAQ](http://faq-organizers.djangogirls.org/) to see 
 
 - [Edit basic information](./basic_info.md)
 - [Edit website content](./content.md)
+- [Add sponsors](website/sponsors.md)
+- [Add coaches](website/coaches.md)
+- [Add a mailing list](website/mailing_list.md)
 - [When you're ready](./when_ready.md)
