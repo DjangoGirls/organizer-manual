@@ -34,7 +34,7 @@
     * [Edit website content](website/content.md)
     * [When you're ready](website/when_ready.md)
 * [Application process](application_form/README.md)
-    * [When to open registration](application_form/opening_registration.md)
+    * [Opening registration](application_form/opening_registration.md)
     * [Create and manage the form](application_form/create_manage_form.md)
     * [Selection](application_form/selection.md)
     * [Communication](application_form/communication.md)
