@@ -110,4 +110,4 @@ If you offer a financial assistance to your attendees, here is a list of example
 
 ## What should I do if something isn't working?
 
-First, you can look at our [FAQ](http://faq-organizers.djangogirls.org/) to see if your question isn't already answered there. If not, try to contact other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers): they'll be happy to help you! If after doing that you're still stuck, contact the [Support Team](mailto:hello@djangogirls.org).
+First, you can look at our [FAQ](https://faq-organizers.djangogirls.org/) to see if your question isn't already answered there. If not, try to contact other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers): they'll be happy to help you! If after doing that you're still stuck, contact the [Support Team](mailto:hello@djangogirls.org).
