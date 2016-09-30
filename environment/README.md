@@ -17,3 +17,5 @@ Each event has to follow and enforce our [Code of Conduct](https://djangogirls.o
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, should not be tolerated.
 
 You, as an organizer, have the right to take any action you deem appropriate, including a warning, temporary ban or permanent expulsion from the community.
+
+To help you deal with Code of Conduct and incidents that could happen during your event, we strongly invite you to read the [Code of Conduct Handbook](https://www.coc-handbook.com/) written by Ola Sendecka and Ola Sitarska.

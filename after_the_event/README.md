@@ -12,6 +12,8 @@ Make sure to reach out to your event's sponsors, tell them about how it went and
 
 Sometimes, attendees ask for a certificate of completion: we're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
 
+If you want, you can send people a [Happiness Packet](https://www.happinesspackets.io/) :)
+
 #### Inform participants where they can look for help
 
 The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
