@@ -20,7 +20,7 @@ It's also a good idea to have some backup mobile internet and to create a hotspo
 
 Good atmosphere and a friendly experience is extremely important, so if your budget is big enough, don't think twice about [printing some posters](../resources/README.md), buying fresh flowers or bringing nice tablecloths. These small little things can go a long way toward making a better experience for everyone. We all like nice things, right?
 
-Check our [Do It Yourself chapter](../diy/decoration.md) for more idea :)
+Check our [Do It Yourself chapter](../diy/decoration.md) for more ideas. :)
 
 ## Useful items
 
