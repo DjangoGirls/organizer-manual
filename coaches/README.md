@@ -19,8 +19,19 @@ It is important to start looking for coaches as soon as possible. Create a separ
 7. Will you have time before the workshops to help your group (3 people) to install Python and Django via Google Hangout/Skype/e-mail?
 8. Will you have time to meet us and other coaches a day before the workshop?
 9. Do you have any previous experience with teaching others? Tell us about it.
+10. Do you have any dietary restrictions?
+11. What’s your t-shirt size?
+12. Short bio (3-4 sentences about yourself)
+13. Do you want to be added to the workshop's website?
 
-You can also copy our existing form template by [clicking this link](https://docs.google.com/forms/d/1aLsyxtA-iABOnlG6Puc0ftEUuT9DcfQ6pANHvmc6lRI/edit?usp=sharing) and then choosing "File" and "Make a copy..." option in the menu.
+If they say yes to the last question, you can ask them:
+
+1. How they want to be called (full name, first name only, pseudonym, etc)
+2. A link to their photo (at least 200 x 200 pixels) (not mandatory)
+3. Their Twitter handle (not mandatory)
+4. An URL to a personal blog, website, etc. (not mandatory)
+
+You can use different services like Google Form or Typeform to create a form. When your form is done, add a link to it in the `Coach` section of the `Website Contents` part in your admin interface.
 
 ## How many coaches do I need?
 
