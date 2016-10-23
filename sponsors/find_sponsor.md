@@ -74,7 +74,7 @@ Price your sponsorships in a range of 300 - 1000 Euro, but remember that even th
 - Post a "call for help" on your social media channels. Maybe someone will join you!
 - 당신의 소셜채널에 도움의 요청을 게시하라. 아마도 누군가는 너와 함께 할 것이다! 
 - Create a list of local companies who use Python on daily basis and email them asking for help
-- 일상 업무에 파이톤을 사용하는 지역회사의 목록을 작성하라. 그리고 그들에게 도움을 요청하는 메일을 보내라.
+- 일상 업무에 파이썬을 사용하는 지역회사의 목록을 작성하라. 그리고 그들에게 도움을 요청하는 메일을 보내라.
 - Reach out to global companies and organizations or ask the [Django Software Foundation](https://djangoproject.com/) for help. Keep in mind that the Django Software Foundation is a charity with a very limited budget, so only ask them if you really need their help. Also try to find global companies that haven't sponsored Django Girls events yet.
 - 세계적인 회사와 단체에 접근하거나 장고소프트웨어에 도움을 요청하라. [장고소프트웨어](https://djangoproject.com/)는 매우 제한된 예산인 자선단체이다. 그래서 그들에게는 당신이 그들의 도움이 정말 필요할때만 요청하라. 또한 장고걸스 행사를 아직까지 지원하지않았던 세계적인 회사를 찾는데 노력하라.
 - The Python Software Foundation (PSF) typically provides up to $25 per attendee grant for Python Educational Programs (you are eligible for that!). Keep in mind that the Python Software Foundation is a charity, so before asking them for help, try exploring local companies who use Python & Django first. To send them a grant request, download and edit the grant propopsal template [available here](https://docs.google.com/document/d/10a1_WXIVGYxpGTFipne516UxWUjySo-_c4-0zV89ARA/edit?usp=sharing) and follow the PSF's instructions described [on their website](https://www.python.org/psf/grants/).
