@@ -1,4 +1,4 @@
-# Sponsors
+# Sponsors(스폰서)
 
 Getting sponsors on board may sound scary, but it is not so difficult. In this chapter, we will help you find sponsors and handle money.
 
