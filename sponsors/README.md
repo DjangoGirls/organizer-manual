@@ -6,7 +6,7 @@ Getting sponsors on board may sound scary, but it is not so difficult. In this c
 
 
 
-# Table of content for this chapter: (이번장의 목차)
+# Table of content for this chapter: (목차)
 
 - Find sponsors
 - [GitHub sponsoring](./github_sponsor.md)
