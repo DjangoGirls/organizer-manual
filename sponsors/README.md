@@ -11,7 +11,8 @@ Getting sponsors on board may sound scary, but it is not so difficult. In this c
 - Find sponsors
 - [GitHub sponsoring](./github_sponsor.md)
 - [Handling money](./handling_money.md)
-- 스폰서 찾기
-- GitHub의 후원
-- 돈을 처리하는 방법
+- [스폰서 찾기](./find_sponsor.md)
+- [GitHub의 후원](./github_sponsor.md)
+- [돈을 처리하는 방법](./handling_money.md)
+
 
