@@ -46,5 +46,9 @@
     * [Booth during a conference](conferences/booth.md)
 * [After the event](after_the_event/README.md)
     * [Next event](after_the_event/next_event.md)
+* [Follow-ups and meetups](meetups/README.md)
+    * [Venue and sponsors](meetups/venue.md)
+    * [Things to do during a meetup](meetups/activities.md)
+    * [Resources and tutorials](meetups/tutorials.md)
 * [FAQ](faq/README.md)
 
