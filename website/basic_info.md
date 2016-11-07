@@ -43,3 +43,28 @@ You can edit most fields but keep those few rules in mind:
 Don't forget to save your modifications by clicking on the `Save` button in the right menu.
 
 Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
+
+## Add or remove organizer from your team
+
+### To add more organizers
+
+In your admin interface:
+
+* Click on `Organizers` in the left menu or [go here](https://djangogirls.org/admin/core/event/add_organizers/).
+* Select your event in the drop down list.
+* Add the full name of the new organizer.
+* Add the email their email address.
+* Click on the `Add organizer` button.
+
+Redo those steps for every organizer you want to add.
+
+### To remove organizers
+
+In your admin interface:
+
+* Click on `Organizers` and `Remove organizers` in the left menu or [go here](https://djangogirls.org/admin/core/event/manage_organizers/).
+* Click on the event you want to edit.
+* Click on `Remove` next to the person you want to remove.
+* Confirm you want to remove the person.
+
+Redo those steps for every organizer you want to remove.
