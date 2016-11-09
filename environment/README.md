@@ -19,3 +19,14 @@ Unacceptable behavior from any community member, including sponsors and those wi
 You, as an organizer, have the right to take any action you deem appropriate, including a warning, temporary ban or permanent expulsion from the community.
 
 To help you deal with Code of Conduct and incidents that could happen during your event, we strongly invite you to read the [Code of Conduct Handbook](https://www.coc-handbook.com/) written by Ola Sendecka and Ola Sitarska. You can also watch [Stress Testing Your Code of Conduct in Production](https://www.youtube.com/watch?v=qkiSY762K8Q), a talk made by Ola Sendecka and Baptiste Mispelon at DjangoCon US 2016.
+
+
+## Communication
+
+When communicating as a Django Girls' organizer, we ask you to **not use "hey guys!" as a greeting**. It might be consider as gender neutral by some, but it's not the case [everywhere](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/). We want our organization to be as inclusive as possible so, instead, you can use:
+
+* "Hi everyone!"
+* "Hey folks!"
+* "Dear attendees"
+* "Y'all"
+* etc.
