@@ -23,7 +23,7 @@ To help you deal with Code of Conduct and incidents that could happen during you
 
 ## Communication
 
-When communicating as a Django Girls' organizer, we ask you to **not use "hey guys!" as a greeting**. It might be consider as gender neutral by some, but it's not the case [everywhere](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/). We want our organization to be as inclusive as possible so, instead, you can use:
+When communicating as a Django Girls' organizer, we ask you to **not use "hey guys!" as a greeting**. It might be considered as gender neutral by some, but it's not the case [everywhere](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/). We want our organization to be as inclusive as possible so, instead, you can use:
 
 * "Hi everyone!"
 * "Hey folks!"
