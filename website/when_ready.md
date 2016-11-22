@@ -1,5 +1,17 @@
 # When you're ready!
 
+## Checklist
+
+Did you...
+
+* edit every sections? Even the footer?
+* open your [application form](https://organize.djangogirls.org/application_form/create_manage_form.html)?
+* put your definitive date in your [admin interface](https://djangogirls.org/admin/core/event/)?
+
+Then you're go to go!
+
+## Activate your website
+
 To make your website available to everyone, click on `Events` in the left menu. Go to `Website` and click on your website in the list. You'll obtain this:
 
 ![](images/2.png)
