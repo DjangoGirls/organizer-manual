@@ -16,7 +16,7 @@ Getting the word out via social media is pretty easy today. Create a Facebook pa
 
 Go to the [resources chapter](../resources/README.md) to find logos, images and photos you can use on your social media profiles.
 
-You can also use photos from previous Django Girls events from our [Flickr](https://www.flickr.com/photos/128162583@N08/sets). You can freely use photos from our events in Warsaw and Kraków. __Please check the licence of photos you are going to use__. Some of them can be used only if certain conditions are met. 
+You can also use photos from previous Django Girls events from our [Flickr](https://www.flickr.com/photos/128162583@N08/sets). You can freely use photos from our events in Warsaw and Kraków. __Please check the licence of photos you are going to use__. Some of them can be used only if certain conditions are met.
 
 ### Local universities
 
@@ -30,7 +30,7 @@ Students and professors are a very active group of people who want to learn new 
 
 ### Local meetups
 
-Go to your local Girls in Tech, Geek Girl Dinner, Geek Girl Carrots, DevChix, and PyLadies meetups and invite them over to Django Girls! Check out [meetup.com](http://meetup.com/) to identify your local meetups and communities.
+Go to your local Girls in Tech, Geek Girl Dinner, Geek Girl Carrots, DevChix, and PyLadies meetups and invite them over to Django Girls! Check out [meetup.com](https://meetup.com/) to identify your local meetups and communities.
 
 ### Flyers - outside the box
 

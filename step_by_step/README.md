@@ -35,7 +35,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 3 months before
 
-- Review and accept the [environment guidelines and Code of Conduct]((../environment/README.md)). This is critical to make sure that everyone involves feels safe and welcome before, during, and after the workshop.
+- Review and accept the [environment guidelines and Code of Conduct](../environment/README.md). This is critical to make sure that everyone involves feels safe and welcome before, during, and after the workshop.
 - Review the [Organizer FAQ](https://faq-organizers.djangogirls.org/) to help optimize the organization process and get you prepared.
 - Review the [accessibility information](../accessibility/README.md). This includes Website compliance, venue requirements, and other resources you might need to accommodate accessibility needs of your attendees.
 - __Apply to the Django Girls organization to register your event__ by [filling out this form](https://djangogirls.org/organize/).
@@ -50,7 +50,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 ### 2 months before
 
 - [Launch the application process for attendees](../application_form/README.md). You'll want to keep the application open for at least 1 month, and the selection process usually takes 1-2 weeks. Of course you can launch this at the same time that you announce the Website!
-- After you launch the application process, order a [Workshop Box](https://djangogirls.org/workshop-box). This nifty little starter kit includes stickers, balloon letters, buttons, name tags, and other goodies, so that you don't have to produce them yourself.  
+- After you launch the application process, order a [Workshop Box](https://djangogirls.org/workshop-box). This nifty little starter kit includes stickers, balloon letters, buttons, name tags, and other goodies, so that you don't have to produce them yourself.
 - Finalize the list of coaches. Generally, a 3:1 ratio of attendee/coach is recommended. So for example, if your workshop has a maximum capacity of 30 attendees, you'll want to recruit at least 10 coaches, with 1 meta-coach to help and support the coach team.
 - Finalize and announce the venue. Normally, the venue will be sponsored, so you can combine a sponsor welcome announcement with the venue announcement. Make sure to update the Website with the venue information.
 - [Start looking for catering](../logistics/food.md). If the venue doesn't provide you with catering, you might want to reach out to local restaurants, cafes, bakeries, to pre-order lunch, snacks, drinks, and so on.

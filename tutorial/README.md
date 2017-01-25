@@ -1,10 +1,10 @@
 # Tutorial
 
-For the purpose of this workshop we decided to write our own tutorial which you can find here: [tutorial.djangogirls.org](http://tutorial.djangogirls.org/).
+For the purpose of this workshop we decided to write our own tutorial which you can find here: [tutorial.djangogirls.org](https://tutorial.djangogirls.org/).
 
 It has been tested, corrected and translated in multiple languages by a lot of people and you can fit it into an 8 hour workshop.
 
-To know more about how to translate the tutorial, check the [Translation Guide](http://translate.djangogirls.org/).
+To know more about how to translate the tutorial, check the [Translation Guide](https://translate.djangogirls.org/).
 
 ## Tutorial topic
 
@@ -34,4 +34,4 @@ We would prefer if you use our material for the workshop. If you have awesome tu
 
 ## I found a bug in the tutorial!
 
-Go to our [Github repository](http://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help are really appreciated.
+Go to our [Github repository](https://github.com/DjangoGirls/tutorial), fork it and send us a pull request. All kinds of help are really appreciated.

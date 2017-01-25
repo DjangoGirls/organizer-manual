@@ -44,7 +44,7 @@ The final tip: follow you heart! Choose those who convince you the most, those w
 
 ## Waiting list
 
-It's a good idea to create a waiting list. We informed people that they didn't get in, but they were very close and asked them if they will be interested to join at a short waiting list if a spot will be available. There is always a couple of people who will say that they can't attend, so this way you can still fill the empty slots. 
+It's a good idea to create a waiting list. We informed people that they didn't get in, but they were very close and asked them if they will be interested to join at a short waiting list if a spot will be available. There is always a couple of people who will say that they can't attend, so this way you can still fill the empty slots.
 
 ## People resigning
 
@@ -52,4 +52,4 @@ We had a number of people who said they won't manage to come even though they co
 
 Be prepared to have some last minute (as in, one day before the workshops) cancellations. It's normal. As long as you have people who can fill in, don't worry.
 
-To help you keep an up to date list of attendees, you can add `declined` status to those applicants in your application page (http://djangogirls.org/yourcity/applications/ (replace `yourcity` with your website address)).
+To help you keep an up to date list of attendees, you can add `declined` status to those applicants in your application page (https://djangogirls.org/yourcity/applications/ (replace `yourcity` with your website address)).
