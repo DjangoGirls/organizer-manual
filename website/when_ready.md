@@ -12,11 +12,11 @@ Then you're go to go!
 
 ## Activate your website
 
-To make your website available to everyone, click on `Events` in the left menu. Go to `Website` and click on your website in the list. You'll obtain this:
+To make your website available to everyone, click on `Events` in the left menu and click on your event in the list. You'll obtain this:
 
-![](images/2.png)
+![](images/7.png)
 
-The most important thing here is the `Is live` checkbox. When your website is ready, click on it and save your page. Tada: your website is now online!
+When your website is ready, check the `Website is ready` checkbox and save your page. Tada: your website is now online!
 
 Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always be able to access it.
 

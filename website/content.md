@@ -16,7 +16,7 @@ This page is a list of default sections that you can adjust to your needs:
 * `faq`: questions attendees frequently ask.
 * `coach`: information for potential coaches and link to application form.
 * `partners`: sponsors list.
-* `footer`: links to social media and Code of Conduct.
+* `footer`: links to social media.
 
 You can reorder those sections by using their arrows in the `position` column. Don't forget to save your modifications by clicking on the `Save` at the bottom of this page.
 
@@ -51,8 +51,8 @@ To change the content of your website:
 * Click on `Events` in the left menu.
 * Go to `Website Contents`.
 * Click on the name of the section you want to modify.
-* Edit the html in the `Content` field. If the code editor field is too small, you can adapt its size by clicking and dragging the bottom right corner.
-* Don't forget to save your modifications by clicking on the `save` blue button on the right.
+* Edit the html in the `Content` field. If the code editor field is too small, you can adapt its size by clicking and dragging the bottom right corner. Don't forget to check if every html tag is closed ;)
+* Save your modifications by clicking on the `save` blue button on the right.
 
 :tada:
 
