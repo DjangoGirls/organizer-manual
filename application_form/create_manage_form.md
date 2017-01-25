@@ -3,7 +3,7 @@
 ## Create a form for your event website
 
 You can create only one application form for your event website.
- 
+
 To do that:
 
 * Go to your admin interface.
@@ -44,14 +44,14 @@ The application form will be automatically open at the hour and date you chose w
 Your form will be automatically closed at the date you chose when you created it. You don't need to remove the link to it: it will be automatically deactivated too.
 
 To prevent any confusion and minimize the "can I still register?/when will I received an answer?" emails, we strongly recommend you to replace the content of `apply` section of your website by this text:
-  
+
  `Registrations are now closed: we received many applications and are now evaluating them. Acceptance emails will be sent soon!`
 
 ## How to find applicants answers?
 
 To find and evaluate all applications submitted to your event:
 
-* Go to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
+* Go to an URL like that: https://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
 
 Or:
 
