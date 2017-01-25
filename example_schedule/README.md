@@ -6,13 +6,13 @@ For the big day, we really recommend you to let the different groups go at their
 
 Meet your coaches (do a dinner together!). Make sure they're familiar with the Tutorial and Coaches Manual. Get to know everyone and make sure they know each other, too. Exchange ideas and advice.
 
-If you can't do the Installation Party, make sure that coaches contact their group to organize an online party following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html)
+If you can't do the Installation Party, make sure that coaches contact their group to organize an online party following those [instructions](https://tutorial.djangogirls.org/en/installation/index.html)
 
 ## Friday evening - Installation Party!
 
 __5pm__ Meet your attendees and coaches. Give them 30 minutes to get to know each other and talk.
 
-__5.30pm__ Installation starts! Make sure everyone has Python, Pip, Virtualenv and Django installed on their computers. Instructions [here](http://tutorial.djangogirls.org/en/installation/index.html)!
+__5.30pm__ Installation starts! Make sure everyone has Python, Pip, Virtualenv and Django installed on their computers. Instructions [here](https://tutorial.djangogirls.org/en/installation/index.html)!
 
 __8pm__ Invite everyone for a little pre-party to a cafe nearby.
 
