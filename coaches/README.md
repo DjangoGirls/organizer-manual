@@ -59,11 +59,11 @@ It would also be lovely if you could find some coaches among previous Django Gir
 
 We think it is a good idea to have one more experienced coaches on site that are not assigned to any group. Not all of your coaches need to be super advanced. When difficult challenges pop up, having a meta coach available to assist a coach in working through the problem is very helpful.
 
-If meta coaches are used, it is important that as their name implies, meta coaches are coaches for coaches. This means all of the [coaching rules, tips & tricks](http://coach.djangogirls.org/tips/index.html) apply: Meta coaches are available to help, not to take over. Set the expectation among your meta coaches that they should always acknowledge and communicate with the coach before helping a member of their group, ideally working through the problem together. This approach ensures coaches remain empowered and that in addition to learners getting the help they need, coaches become better coaches. A perfect recipe for a meta coach!
+If meta coaches are used, it is important that as their name implies, meta coaches are coaches for coaches. This means all of the [coaching rules, tips & tricks](https://coach.djangogirls.org/tips/index.html) apply: Meta coaches are available to help, not to take over. Set the expectation among your meta coaches that they should always acknowledge and communicate with the coach before helping a member of their group, ideally working through the problem together. This approach ensures coaches remain empowered and that in addition to learners getting the help they need, coaches become better coaches. A perfect recipe for a meta coach!
 
 ## Coaches briefing
 
-It is good to create a meeting/hangout for coaches before the event. They should at least know each other so that they will know who to ask for help during the workshops. It's also a good idea to send them the [coach manual](http://coach.djangogirls.org/) to help them prepare for the workshop.
+It is good to create a meeting/hangout for coaches before the event. They should at least know each other so that they will know who to ask for help during the workshops. It's also a good idea to send them the [coach manual](https://coach.djangogirls.org/) to help them prepare for the workshop.
 
 Some information worth mentioning:
 - the coaches should know the detailed schedule for the event (also tell them if and when there will be an official introduction)
