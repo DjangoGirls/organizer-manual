@@ -1,19 +1,11 @@
 {
     "gitbook": ">=3.1.1",
     "plugins": [
-        "heading-anchors", 
-        "rss",
+        "heading-anchors",
         "sidebar-ad",
         "collapsible-chapters"
     ],
     "pluginsConfig": {
-        "rss": {
-            "title": "Django Girls Organizers Manual",
-            "description": "Guidelines and tips to organize an awesome Django Girls event.",
-            "author": "Django Girls",
-            "site_url": "http://organize.djangogirls.org/",
-            "feed_url": "http://organize.djangogirls.org/rss"
-        },
         "sidebar-ad": {
             "imageUrl": "https://cdn.shopify.com/s/files/1/0992/7712/products/codelikeagirl---mockup4_large.jpg",
             "url": "https://store.djangogirls.org/",
