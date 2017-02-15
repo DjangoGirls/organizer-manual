@@ -18,6 +18,8 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 You, as an organizer, have the right to take any action you deem appropriate, including a warning, temporary ban or permanent expulsion from the community.
 
+If an incident happens, we kindly ask you to send a report to the [Django Code of Conduct Committee](https://www.djangoproject.com/conduct/reporting/). They will be able to help you and will keep track of the incident.
+
 To help you deal with Code of Conduct and incidents that could happen during your event, we strongly invite you to read the [Code of Conduct Handbook](https://www.coc-handbook.com/) written by Ola Sendecka and Ola Sitarska. You can also watch [Stress Testing Your Code of Conduct in Production](https://www.youtube.com/watch?v=qkiSY762K8Q), a talk made by Ola Sendecka and Baptiste Mispelon at DjangoCon US 2016.
 
 
