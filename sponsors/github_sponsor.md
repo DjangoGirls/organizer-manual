@@ -1,6 +1,6 @@
 # GitHub sponsorship
 
-GitHub can sponsor one Django Girls workshop per city with a 500$ grant. If your event is the first in your city or if the previous ones didn't receive sponsoring from GitHub, you can apply.
+GitHub can sponsor one Django Girls workshop per city with a 250$ grant. If your event is the first in your city or if the previous ones didn't receive sponsoring from GitHub, you can apply.
 
 Before applying, your event's website [needs to be ready](../website/when_ready.md). When it's the case: go to the [sponsorships requests' page](https://djangogirls.org/sponsor-request/), read the instructions and fill the form.
 
