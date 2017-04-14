@@ -38,7 +38,7 @@ If you have any remaining funds from your sponsors, you can use the one time don
 
 ## Let us know how it went!
 
-After your event is done, we will contact you to thank you and to hear hear about your experience. If we don't do it, you can [send us an email](mailto:hello@djangogirls.org) with answers to those questions:
+After your event is done, we will contact you to thank you and to hear about your experience. If we don't do it, you can [send us an email](mailto:hello@djangogirls.org) with answers to those questions:
 
 1. Number of attendees
 2. Number of applicants

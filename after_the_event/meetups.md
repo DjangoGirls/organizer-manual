@@ -2,7 +2,7 @@
 
 After conducting a successful workshop, you may want to keep the energy going and create a group of learners that would meet regularly.
 
-Services like [Meetup](https://www.meetup.com) provide what you need to get started. This service costs money but it will help you can create events where people can register, contact members easily, promote your sponsors, and more.
+Services like [Meetup](https://www.meetup.com) provide what you need to get started. This service costs money but it will help you create events where people can register, contact members easily, promote your sponsors, and more.
 
 Basic rules for organizing a Django Girls meetup:
 

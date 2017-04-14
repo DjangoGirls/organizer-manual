@@ -75,7 +75,7 @@ Every form is created with default questions. It should cover your need but you 
 * Click on `Application Form` in the left menu.
 * Click on `Questions`.
 * Click on the question you want to change.
-* Maje your changes and click on the `save` blue button on the right.
+* Make your changes and click on the `save` blue button on the right.
 
 ### To remove a question:
 
