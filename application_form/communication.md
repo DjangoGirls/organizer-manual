@@ -29,7 +29,7 @@ While composing messages try to be positive and polite. This could be not that e
 
 ## What's up with this RSVP thing?
 
-[RSVP](https://en.wikipedia.org/wiki/RSVP_(invitations)) is sent to all accepted attendees. You should ask them if they still can attend the workshop, because otherwise you will give their spot to someone from the waiting list.
+[RSVP](https://en.wikipedia.org/wiki/RSVP_%28invitations%29) is sent to all accepted attendees. You should ask them if they still can attend the workshop, because otherwise you will give their spot to someone from the waiting list.
 
 It's hard to gather information about that from ~30-40 people and make sure you won't mix something up, so we build a tool for that too.
 
