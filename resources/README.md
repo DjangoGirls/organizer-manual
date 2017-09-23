@@ -14,6 +14,7 @@ Inside you can find:
 - Presentation for closing the Django Girls workshop
 - Tattoos
 - Email and tweet templates
+- Cheatsheets for Django, Python, HTML and Git
 
 Feel free to fork, contribute with your own resources and make a pull request! <3
 
