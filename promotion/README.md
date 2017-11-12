@@ -18,6 +18,8 @@ Go to the [resources chapter](../resources/README.md) to find logos, images and 
 
 You can also use photos from previous Django Girls events from our [Flickr](https://www.flickr.com/photos/128162583@N08/sets). You can freely use photos from our events in Warsaw and Kraków. __Please check the licence of photos you are going to use__. Some of them can be used only if certain conditions are met.
 
+If you create accounts on other websites using your Django Girls event email address, you may lose access to these accounts if another organising team begins to run workshops in your city at a later date. Of course, if these accounts relate to your workshop and contain no personal information, you would likely be happy for these to pass to the new organisers in future anyway :)
+
 ### Local universities
 
 Students and professors are a very active group of people who want to learn new things. Don't focus only on technical universities! Try to reach people with a different background. Here is what you can do:
