@@ -32,12 +32,16 @@ Django Girls events are always non-profit and free for participants. We do not p
 
 ### Using the Django Girls name
 
-To use the Django Girls name for your workshop, you need to follow these steps:
+To use the Django Girls name for your workshop, your event needs to meet the following prerequisites:
+* it needs to be free for participants (free of charge, open to everyone), and women will have preference in attending
+* it has to be non-profit
+
+If your planned event meets the prerequisites, you will need to follow these steps:
 * read this manual
 * apply to organize an event [here](http://djangogirls.org/organize/)
 * wait for our response
-* we will create a website and e-mail account in our domain
-* you can start!
+
+We will create a website and e-mail account in our domain and you can start!
 
 It is very important for us to know about all events that use the Django Girls name. __Please make sure not to use it, unless you contacted us__. 
 
