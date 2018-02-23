@@ -37,6 +37,11 @@ To use the Django Girls name for your workshop, your event needs to meet the fol
 * it has to be non-profit
 * it has to be approved by the Django Girls Foundation, remember to contact us first! Details below.
 
+To ensure the quality of each Django Girls workshop, and to support local infrastructure, volunteers and supporters from becoming overextended:
+* applications should be placed a minimum of three months prior to the proposed workshop date to allow adequate time for planning
+* the proposed workshop date should be at least 6 months after the previous workshop in that region
+* applications should be made a minimum of 4 weeks following the previous workshop in that region, to ensure there is sufficient time to complete any follow up tasks before planning for the next workshop begins
+
 If your planned event meets the prerequisites, you will need to follow these steps:
 * read this manual
 * apply to organize an event [here](http://djangogirls.org/organize/)
