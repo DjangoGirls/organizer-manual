@@ -41,6 +41,7 @@ To ensure the quality of each Django Girls workshop, and to support local infras
 * applications should be placed a minimum of __three months__ prior to the proposed workshop date to allow adequate time for planning
 * the proposed workshop date should be at least 6 months after the previous workshop in that region
 * applications should be made a minimum of 4 weeks following the previous workshop in that region, to ensure there is sufficient time to complete any follow up tasks before planning for the next workshop begins
+* *in unique circumstances, we may allow exemptions from the above first two rules. Please contact "hello@djangogirls.org" and let us know why running the event in the suggested timeframe is not an option for you.
 
 If your planned event meets the prerequisites, you will need to follow these steps:
 * read this manual
