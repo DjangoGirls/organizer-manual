@@ -4,7 +4,7 @@ GitHub can sponsor one Django Girls workshop per region with a 250$ grant. If yo
 
 Before applying, your event's website [needs to be ready](../website/when_ready.md). When it's the case: go to the [sponsorships requests' page](https://djangogirls.org/sponsor-request/), read the instructions and fill the form.
 
-We send sponsorship requests once every two weeks to GitHub. They will review your request and contact you with an answer. If their answer is positive, they will give you more instructions about how to receive the money.
+We send sponsorship requests once every two weeks to GitHub. Applications must be sent two months before the date of your wokshop to be considered. They will review your request and contact you with an answer. If their answer is positive, they will give you more instructions about how to receive the money.
 
 ## Help on filling Github documents
 
