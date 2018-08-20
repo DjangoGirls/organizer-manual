@@ -1,4 +1,9 @@
 # GDPR and Data Privacy Guide
+
+> Parts of this section are based on an article, 
+[A Developer’s Guide to GDPR that won’t make you sweat](https://medium.com/ft-product-technology/a-developers-guide-to-gdpr-that-won-t-make-you-sweat-4f1f7f1d9c8b) by [Mags Allen
+](https://medium.com/@mags_40745). 
+
 **The General Data Protection Regulation (GDPR) is a
  set of rules that came into effect on May 25th, 2018.** 
  
@@ -22,7 +27,7 @@ It applies to any organisation that stores or processes
  chances of being sued by either applicants or
  sponsors.
  
- # Table of content for this chapter:
+ # Table of contents for this chapter:
  * [Storage of Data](./data_storage.md)
  * [Subject Access Requests](./subject_access_requests.md)
  * [Contacting Users](./contacting_users.md)
