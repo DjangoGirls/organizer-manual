@@ -17,7 +17,10 @@ It applies to any organisation that stores or processes
  This guide therefore applies to all organizers 
  as they deal with the sensitive data of fellow 
  organizers, attendees and sometimes, sponsors 
- from the EU region.
+ from the EU region. Every event organizer should 
+ ensure their event is GDPR compliant to avoid 
+ chances of being sued by either applicants or
+ sponsors.
  
  # Table of content for this chapter:
  * [Storage of Data](./data_storage.md)
