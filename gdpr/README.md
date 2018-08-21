@@ -27,11 +27,38 @@ It applies to any organisation that stores or processes
  chances of being sued by either applicants or
  sponsors.
  
- # Table of contents for this chapter:
- * [Storage of Data](./data_storage.md)
- * [Subject Access Requests](./subject_access_requests.md)
- * [Contacting Users](./contacting_users.md)
- * [Profiling](./profiling.md)
+# Storage of Data
+
+> Protect the data you store and only keep what you need.
+
+When you customise the application, ensure that you 
+only ask for data that you need to run your event 
+successfully. This data should be protected and 
+not shared with people who do not participate in 
+ensuring the successful delivery of the workshop. 
+For example, coaches should not be given email 
+addresses or phone numbers of attendees who are not in their group
+as they do not need to contact them before or 
+after the workshop.
+
+Coaches and organizers need to be informed that 
+they should protect personal data of attendees and
+other coaches/organizers and not share it amongst
+themselves without the consent of the person 
+involved.
+
+# Subject Access Requests
+
+
+# Contacting Users
+
+> 
+
+You also need to ensure that you get
+consent from the applications to send them any mass 
+email before and after the event. Should you also 
+want to invite them to other meet-ups after the 
+workshop, please ensure that
  
  
- 
+# Profiling
