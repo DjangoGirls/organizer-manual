@@ -2,7 +2,13 @@
 
 > Parts of this section are based on an article, 
 [A Developer’s Guide to GDPR that won’t make you sweat](https://medium.com/ft-product-technology/a-developers-guide-to-gdpr-that-won-t-make-you-sweat-4f1f7f1d9c8b) by [Mags Allen
-](https://medium.com/@mags_40745). 
+](https://medium.com/@mags_40745).
+
+> More reading on how we handle GDPR as Django 
+Girls Foundation can be found on our website's
+ [Terms and Conditions](https://djangogirls.org/terms-conditions/)
+ and [Cookie and Privacy Policy](https://djangogirls.org/privacy-cookies/) 
+ sections.
 
 **The General Data Protection Regulation (GDPR) is a
  set of rules that came into effect on May 25th, 2018.** 
@@ -49,16 +55,52 @@ involved.
 
 # Subject Access Requests
 
+> Make it easy to retrieve, delete and anonymise 
+data when you need to.
+
+
+
 
 # Contacting Users
 
-> 
+> Get fair consent before you communicate with users 
+and maintain a preferences management. Get consent 
+for photos before publishing them.
 
-You also need to ensure that you get
-consent from the applications to send them any mass 
-email before and after the event. Should you also 
-want to invite them to other meet-ups after the 
-workshop, please ensure that
- 
+You also need to ensure that you get consent from 
+the applicants via the application form to send 
+them any mass email communication before, during 
+and after the event. This consent should also 
+cover their consent to be invited to other meet-ups
+should you also want to suggest meet-ups they can
+get involved with after the event. 
+
+They should also be able to opt out of these 
+communications anytime they wish to, therefore 
+you should provide a link to unsubscribe from the
+mass emails anytime a user wishes to do so. 
+MailChimp already provides this, so if you are 
+using MailChimp for your mass emails, you have 
+this covered already.
+
+You should also get consent from participants to
+take photos of them and publish them. Consent for 
+photos is difficult to manage through an 
+application form and is best done by using either
+name tags or lanyards of different colours for 
+"OK with photo" and "NOT OK with photo" attendees. 
+The photographer has to make all efforts to avoid
+all the "NOT OK with photo" attendees and should 
+they be visible in a photo you want to publish,
+you should have their faces blurred so that they 
+cannot be recognised.
  
 # Profiling
+
+> Users must be able to opt out of profiling.
+
+While no profiling is done for Django Girls events
+in general, should you decide to profile your 
+attendees, you should get consent from them and
+they should be able to opt-out of profiling, 
+should they not be interested. 
