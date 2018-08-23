@@ -99,8 +99,13 @@ cannot be recognised.
 
 > Users must be able to opt out of profiling.
 
-While no profiling is done for Django Girls events
-in general, should you decide to profile your 
+Normally, there is no need for profiling 
+attendees for Django Girls events in general. 
+However, should you decide to profile your 
 attendees, you should get consent from them and
-they should be able to opt-out of profiling, 
-should they not be interested. 
+they should be able to opt-out of profiling 
+anytime they decide they are no longer 
+interested. You should also make it clear during
+ the application process that you may profile 
+ them and ask for their consent in the application form. 
+ 
