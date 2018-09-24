@@ -1,4 +1,4 @@
-# GDPR and Data Privacy Guide
+# GDPR and Data Privacy Compliance
 
 > Parts of this section are based on an article, 
 [A Developer’s Guide to GDPR that won’t make you sweat](https://medium.com/ft-product-technology/a-developers-guide-to-gdpr-that-won-t-make-you-sweat-4f1f7f1d9c8b) by [Mags Allen
