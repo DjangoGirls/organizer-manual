@@ -21,8 +21,8 @@ It applies to any organisation that stores or processes
  Since we have events in Europe, it is important 
  for Django Girls Foundation and organizers across 
  the globe to comply with GDPR as it has legal 
- implications. We therefore recommend all organizers 
- to comply with GDPR as it protects users' data, 
+ implications. All organizers should therefore 
+ comply with GDPR as it protects users' data, 
  irrespective of their location. 
  
  This guide therefore applies to all organizers 
