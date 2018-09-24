@@ -42,23 +42,37 @@ only ask for data that you need to run your event
 successfully. This data should be protected and 
 not shared with people who do not participate in 
 ensuring the successful delivery of the workshop. 
-For example, coaches should not be given email 
-addresses or phone numbers of attendees who are not in their group
-as they do not need to contact them before or 
-after the workshop.
+Be sure to inform the applicants that you will 
+share their phone numbers and/or email addresses
+with their coaches. 
 
-Coaches and organizers need to be informed that 
+Coaches should not be given email addresses or 
+phone numbers of attendees who are not in their 
+group as they do not need to contact them before or 
+after the workshop. Also inform  your coaches and organizers need to be informed that 
 they should protect personal data of attendees and
 other coaches/organizers and not share it amongst
-themselves without the consent of the person 
-involved.
+themselves without the consent of the person(s).
 
 # Subject Access Requests
 
 > Make it easy to retrieve, delete and anonymise 
 data when you need to.
 
-
+Certain organisers, coaches or attendees may not 
+want to be photographed or have their photos 
+published. You should make sure you get consent
+from all attendees to photograph them and publish
+their photos before you do. Consent for 
+photos is difficult to manage through an 
+application form and is best done by using either
+name tags or lanyards of different colours for 
+"OK with photo" and "NOT OK with photo" attendees. 
+The photographer has to make all efforts to avoid
+all the "NOT OK with photo" attendees and should 
+they be visible in a photo you want to publish,
+you should have their faces blurred so that they 
+cannot be recognised.
 
 
 # Contacting Users
@@ -82,18 +96,6 @@ mass emails anytime a user wishes to do so.
 MailChimp already provides this, so if you are 
 using MailChimp for your mass emails, you have 
 this covered already.
-
-You should also get consent from participants to
-take photos of them and publish them. Consent for 
-photos is difficult to manage through an 
-application form and is best done by using either
-name tags or lanyards of different colours for 
-"OK with photo" and "NOT OK with photo" attendees. 
-The photographer has to make all efforts to avoid
-all the "NOT OK with photo" attendees and should 
-they be visible in a photo you want to publish,
-you should have their faces blurred so that they 
-cannot be recognised.
  
 # Profiling
 
