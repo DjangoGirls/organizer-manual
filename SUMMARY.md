@@ -50,4 +50,5 @@
     * [Next event](after_the_event/next_event.md)
     * [Meetups and follow-ups](after_the_event/meetups.md)
     * [Meetup and follow-up examples](after_the_event/meetup_examples.md)
+* [GDPR and Data Privacy Compliance](gdpr/README.md)
 * [FAQ](faq/README.md)
