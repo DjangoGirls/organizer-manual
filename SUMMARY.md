@@ -21,7 +21,6 @@
 * [Sponsors](sponsors/README.md)
     * [Find sponsors](sponsors/find_sponsor.md)
     * [Email template](sponsors/email_template.md)
-    * [GitHub sponsoring](sponsors/github_sponsor.md)
     * [Handling money](sponsors/handling_money.md)
 * [Resources](resources/README.md)
 * [DIY](diy/README.md)
