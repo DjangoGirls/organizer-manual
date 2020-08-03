@@ -22,6 +22,10 @@ Our mission is to bring more women into the tech field by making technology more
 
 A Django Girls event is a one-day workshop with an installation party the evening before or remotely via Google Hangout/Skype. During the whole day participants work in small groups (3 attendees + 1 coach) and go through the tutorial to successfully create a blog application and deploy it to the internet.
 
+As of Summer 2020, Django Girls workshops can also be held entirely remotely. This option is most suitable for people in areas affected by COVID 19 where it would not be safe to run the workshop in-person, or in places where finding a venue and sponsorship to cover in-person costs would be a barrier to running the workshop.
+
+You can specify whether you are applying to host a workshop in-person or remotely on our application form.
+
 Django Girls events are always non-profit and free for participants. We do not pay coaches, speakers or organizers. Attendees don't need any previous knowledge about programming and there is no age limitation. All the attendees need is a laptop and some curiosity.
 
 ### Philosophy
