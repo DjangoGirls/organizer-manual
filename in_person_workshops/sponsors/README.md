@@ -6,5 +6,4 @@ Getting sponsors on board may sound scary, but it is not so difficult. In this c
 
 - [Find sponsors](./find_sponsor.md)
 - [Email template](./email_template.md)
-- [GitHub sponsoring](./github_sponsor.md)
 - [Handling money](./handling_money.md)
