@@ -1,21 +1,13 @@
 # Costs
 
-The costs below are estimated for 30 participants and 10 coaches - but they may vary a lot. Prices may also vary depending on the location. All in all you should be able to organize an event easily for a little over one thousand Euros.
+Costs for remote workshops are a little different, as most of the suggestions below are optional, and the workshop could be held with no funding at all. However, you may find that you need to provide support to some attendees in order for them to participate. Below are some ideas of things you may want to look into covering the costs for.
 
-- __Breakfast__ - nothing too fancy. Buy local pastries on the way to the venue and arrange coffee. Around 5 Euro per person = 200€.
+- __Equipment__ - you may be able to rent or puchase laptops, web cams, microphones, or wifi dongles for attendees who do not have access to the technical equipment required to participate. Alternatively, a company may wish to lend you some equipment for attendees to use. If possible, have the attendees arrange the hire of equipment the themselves, and you can re-imburse them the cost. This ensures the liability remains with the attendee if the equipment is damaged or not returned.
 
-- __Lunch__ - catered lunch can be around 10 Euro + some water and coffee for 3 Euro = 550€.
+- __Lunch__ - most food delivery companies provide gift voucher codes that can be purchased. You might like to purchase vouchers for 10-25€ per person so attendees can order themselves lunch to be delivered to their home (or wherever they are participating from). You can add a time to the schedule for teams to decide what they would like to order and where from, to ensure everyone's food arrives at the same time.
 
-- __Prints__ -  Printing stickers, posters or tote bags and other swag. This may vary a lot, but it's usually good to set aside 200€. Don't forget that you can order a [Workshop Box](https://djangogirls.org/workshop-box) for 50$ or less by contacting us at least 6 weeks before your event: it contains stickers, nametags and balloons.
+- __Coach gift__ - Thank your coaches for their hard work in a way that doesn't require them to be in the same physical location by giving them all a gift voucher (somewhere like Amazon is usually a good choice). Around 20 Euro per coach = 200€.
 
-- __Coach dinner__ - Thank your coaches for their hard work and have a place to meet to talk about the event. Around 20 Euro per coach = 200€.
-
-- __Venue__ - From our experience, it is easy to get a place for 40 people for free. Try your local startups, companies or hackerspaces and coworking spaces. It can be really expensive, so any help from the local community is super helpful. 0€.
-
-- __Afterparty__ - Meet with your coaches and attendees after the workshop to relax, decompress, have some fun and make some friends. Everyone can pay for their own drinks. 0€
-
-- __Travel expenses__ - If you don’t have any Django Girls members in your country, consider inviting us over. We can stay in cheap hostels or on your couch :) 0€ - XXX€
-
-### __Total: 1150€__
+- __Childcare expenses__ - It can be difficult for some attendees to focus on learning at home if they have other commitments, such as children to look after. Offering to cover childcare costs for the day (nursery fees, or baby sitter) can ensure that your participants get the most out of your workshop.
 
 In the next chapter, let's learn how you can cover these costs!
