@@ -12,5 +12,5 @@ If you are not sure if it is safe to hold an in-person workshop, you might prefe
 - [Logistics](./logistics/README.md)
 - [Accessibility](./accessibility/README.md)
 - [Costs](./costs.md)
-- [Sponsors](./sponsors.README.md)
-- [DIY](./DIY.md)
+- [Sponsors](../sponsors/in_person_sponsors.md)
+- [DIY](./diy.md)
