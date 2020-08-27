@@ -8,7 +8,7 @@ If you are not sure if it is safe to hold an in-person workshop, you might prefe
 
 # Table of content for this chapter:
 
-- [Step-by-step](./step_by_step.md)
+- [Step-by-step](./step_by_step/README.md)
 - [Logistics](./logistics/README.md)
 - [Accessibility](./accessibility/README.md)
 - [Costs](./costs.md)
