@@ -10,4 +10,6 @@ Costs for remote workshops are a little different, as most of the suggestions be
 
 - __Childcare expenses__ - It can be difficult for some attendees to focus on learning at home if they have other commitments, such as children to look after. Offering to cover childcare costs for the day (nursery fees, or baby sitter) can ensure that your participants get the most out of your workshop.
 
+- __Swag__ - You might consider sending swag in the post to attendees ahead of the workshop. This would mean that you will need to collect mailing addresses, so you will need to check the Data Privacy Laws in your country and ensure you abide by them. Make sure you explain to attendees why you need their address, and that it will not be shared with anyone else.
+
 In the next chapter, let's learn how you can cover these costs!
