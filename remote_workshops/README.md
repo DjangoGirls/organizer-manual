@@ -14,4 +14,4 @@ Remote workshops will also allow you to use experienced coaches from other parts
 - [Logistics](./logistics/README.md)
 - [Accessibility](./accessibility/README.md)
 - [Costs](./costs.md)
-- [Sponsors](./sponsors.README.md)
+- [Sponsors](../sponsors/remote_sponsors.md)
