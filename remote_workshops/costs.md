@@ -12,4 +12,6 @@ Costs for remote workshops are a little different, as most of the suggestions be
 
 - __Swag__ - You might consider sending swag in the post to attendees ahead of the workshop. This would mean that you will need to collect mailing addresses, so you will need to check the Data Privacy Laws in your country and ensure you abide by them. Make sure you explain to attendees why you need their address, and that it will not be shared with anyone else.
 
+- __Software__ - There are a lot of free conferencing software options, but you might find a paid option that works better for you. It's always worth contacting the software company to see if they would like to support you with a temporary free licence!
+
 In the next chapter, let's learn how you can cover these costs!
