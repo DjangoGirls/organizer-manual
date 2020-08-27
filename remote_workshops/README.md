@@ -10,7 +10,7 @@ Remote workshops will also allow you to use experienced coaches from other parts
 
 # Table of content for this chapter:
 
-- [Step-by-step](./step_by_step.md)
+- [Step-by-step](./step_by_step/README.md)
 - [Logistics](./logistics/README.md)
 - [Accessibility](./accessibility/README.md)
 - [Costs](./costs.md)
