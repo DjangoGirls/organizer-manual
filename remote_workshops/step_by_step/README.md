@@ -35,7 +35,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 3 months before
 
-- Review and accept the [environment guidelines and Code of Conduct](../environment/README.md). This is critical to make sure that everyone involved feels safe and welcome before, during, and after the workshop.
+- Review and accept the [environment guidelines and Code of Conduct](.../environment/README.md). This is critical to make sure that everyone involved feels safe and welcome before, during, and after the workshop.
 - Review the [Organizer FAQ](https://faq-organizers.djangogirls.org/) to help optimize the organization process and get you prepared.
 - Review the [accessibility information](../accessibility/README.md). This includes Website compliance, software requirements, and other resources you might need to accommodate accessibility needs of your attendees.
 - __Apply to the Django Girls organization to register your event__ by [filling out this form](https://djangogirls.org/organize/).
