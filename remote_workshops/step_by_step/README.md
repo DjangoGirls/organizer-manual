@@ -35,39 +35,39 @@ Let's see how organizing a Django Girls event looks on the timeline:
 
 ### 3 months before
 
-- Review and accept the [environment guidelines and Code of Conduct](.../environment/README.md). This is critical to make sure that everyone involved feels safe and welcome before, during, and after the workshop.
+- Review and accept the [environment guidelines and Code of Conduct](../../environment/README.md). This is critical to make sure that everyone involved feels safe and welcome before, during, and after the workshop.
 - Review the [Organizer FAQ](https://faq-organizers.djangogirls.org/) to help optimize the organization process and get you prepared.
 - Review the [accessibility information](../accessibility/README.md). This includes Website compliance, software requirements, and other resources you might need to accommodate accessibility needs of your attendees.
 - __Apply to the Django Girls organization to register your event__ by [filling out this form](https://djangogirls.org/organize/).
-- [Adapt the Website template](../website/README.md) that you receive from the support team for your event and launch it. The Website template includes placeholders for information about the application process, coaches, sponsors, and FAQ for applicants.
-- Review and download the resources you might want to use. We have some cool [design resources](../resources/README.md), like Web and print logos, shirt designs, poster templates, and other goodies that you can use.in your marketing.
+- [Adapt the Website template](../../website/README.md) that you receive from the support team for your event and launch it. The Website template includes placeholders for information about the application process, coaches, sponsors, and FAQ for applicants.
+- Review and download the resources you might want to use. We have some cool [design resources](../../resources/README.md), like Web and print logos, shirt designs, poster templates, and other goodies that you can use.in your marketing.
 - [Create a budget for the workshop](../costs/README.md). The budget should be divided to "must-have" costs and "nice-to-have" extra items. Don't worry about raising a lot of money, normally you do not need a big budget, as long as your team of coaches and supporters provide a friendly and fun atmosphere. You can also [DIY a lot of the logistics](../diy/README.md) if you don't feel comfortable handling large amounts of money or depend on sponsorships. Get creative!
-- Start promoting the workshop [on social media, in the press, or in person](../promotion/README.md). You can create a social media account, group, or page.
+- Start promoting the workshop [on social media, in the press, or in person](../../promotion/README.md). You can create a social media account, group, or page.
 - [Start looking for sponsors](../sponsors/README.md). Typical sponsors can include IT companies, universities, and local businesses in your city. You don't need a lot of starting funds to run a workshop, but having financial support can help you provide financial aid for applicants who need support to participate, as well as purchase goodies like gift vouchers for coaches, or meal vouchers and other extra-special treats for a fun day!
-- [Start looking for coaches](../coaches/README.md). Coaches can be local Python or Django folks, graduates of previous Django Girls workshops, organizers, and so on. You can reach out to local Python or Django user groups or meetups, or even post a request on our [Slack](https://djangogirls.slack.com/?) in the #organizers channel.
+- [Start looking for coaches](../../coaches/README.md). Coaches can be local Python or Django folks, graduates of previous Django Girls workshops, organizers, and so on. You can reach out to local Python or Django user groups or meetups, or even post a request on our [Slack](https://djangogirls.slack.com/?) in the #organizers channel.
 - [Decide on which remote software you will use](../logistics/tech_requirements.md) There are many different platforms you can use to host a remote workshop, have look at which will work best for you, your requirements and your budget.
 
 ### 2 months before
 
-- [Launch the application process for attendees](../application_form/README.md). You'll want to keep the application open for at least 1 month, and the selection process usually takes 1-2 weeks. Of course you can launch this at the same time that you announce the Website!
+- [Launch the application process for attendees](../../application_form/README.md). You'll want to keep the application open for at least 1 month, and the selection process usually takes 1-2 weeks. Of course you can launch this at the same time that you announce the Website!
 - Finalize the list of coaches. Generally, a 3:1 ratio of attendee/coach is recommended. So for example, if your workshop has a maximum capacity of 30 attendees, you'll want to recruit at least 10 coaches, with 1 meta-coach to help and support the coach team.
 - Continue to look for sponsors. You can consult with your coaches for suggestions on which sponsors they can connect you with, post a request on Slack, or use social media to increase the search range.
 
 ### 1 months before
 
 - Announce your coaches on your website, on social media, and in other promotion channels as you wish.
-- [Close the application process and select attendees](../application_form/selection.md). We recommend recruiting a selection panel of at least 3-4 people who can vote and discuss this, especially in cases where financial aid is involved.
-- [Inform applicants of the result](../application_form/communication.md). You'll want to give the selected applicants a few days to confirm their attendance, and we also recommend that you have a few waiting-list candidates in case of cancellations.
+- [Close the application process and select attendees](../../application_form/selection.md). We recommend recruiting a selection panel of at least 3-4 people who can vote and discuss this, especially in cases where financial aid is involved.
+- [Inform applicants of the result](../../application_form/communication.md). You'll want to give the selected applicants a few days to confirm their attendance, and we also recommend that you have a few waiting-list candidates in case of cancellations.
 - Make sure attendees confirmed their attendance. Don't worry if some applicants don't respond by the time that you set, simply move on to the next person on the waiting list.
 - [Verify that all the logistics are figured out](../logistics/README.md).
 - [Place orders](../costs.md). Arrange for any equipment, food vouchers and gift vouchers to be ordered.
 
 ### 2 weeks before
 
-- After you receive confirmations from all attendees, assign coaches to their groups and make sure the coaches review the [Coach's manual](http://coach.djangogirls.org/) and the [Tutorial](../tutorial/README.md).
+- After you receive confirmations from all attendees, assign coaches to their groups and make sure the coaches review the [Coach's manual](http://coach.djangogirls.org/) and the [Tutorial](../../tutorial/README.md).
 - Send an email to your coaches so they can meet their group. If you can't do the installation party the evening before the event, invite your coach to do it online with their group following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). It's really important that attendees' computers are ready for the workshop!
 - Schedule a coach meeting the evening before the workshop.
-- Post the schedule on your Website. You can use the [example schedule](../example_schedule/README.md) template to get an estimate of how much time you'll need for each part of the day. 
+- Post the schedule on your Website. You can use the [example schedule](../../example_schedule/README.md) template to get an estimate of how much time you'll need for each part of the day. 
 
 ### 1 week before
 
@@ -84,7 +84,7 @@ Let's see how organizing a Django Girls event looks on the timeline:
 - Send a list of additional resources to your graduates. Depending on your location, you might want to recommend local Python or Django user groups, meetups, or other organizations such as PyLadies where your graduates can continue learning. You can find email templates for this in the resources GitHub repository.
 - Send a thank-you to the coaches, sponsors, guest presenters, etc. You can add links to photos or videos from the workshop day if you already have them.
 - Invite the graduates to join Slack, mailing list, or other social platforms where they can keep in touch or ask follow-up questions.
-- Write to the global Django Girls and let us know how it went! [Here are some ideas](../after_the_event/README.md).
+- Write to the global Django Girls and let us know how it went! [Here are some ideas](../../after_the_event/README.md).
 - __Be proud of yourself! <3__
 
 All of this is further explained in the chapters on the left, but this is the bigger picture.
