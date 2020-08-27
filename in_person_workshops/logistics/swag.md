@@ -12,12 +12,12 @@ This is so far the most fun and most affordable way to do something nice at your
 
 ## T-shirts for coaches
 
-Order t-shirts for your coaches as a thank-you gift, but wearing the t-shirts also makes your coaches more visible in the venue. You can find t-shirt designs on our [resources page](../resources/README.md).
+Order t-shirts for your coaches as a thank-you gift, but wearing the t-shirts also makes your coaches more visible in the venue. You can find t-shirt designs on our [resources page](../../resources/README.md).
 
 ## Tote bags
 
-We like tote bags, right? They are pretty cheap to print and it's a nice gift for your attendees that will remind them about the event later on. You can find designs on our [resources page](../resources/README.md)
+We like tote bags, right? They are pretty cheap to print and it's a nice gift for your attendees that will remind them about the event later on. You can find designs on our [resources page](../../resources/README.md)
 
 ## Stickers
 
-Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with sticker credit! You can find our [ready-to-print designs here](../resources/README.md). If you plan to order a [Workshop Box](https://djangogirls.org/workshop-box), you won't need to order more stickers.
+Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with sticker credit! You can find our [ready-to-print designs here](../../resources/README.md).
