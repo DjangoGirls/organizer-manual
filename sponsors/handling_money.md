@@ -5,7 +5,7 @@ Unfortunately, you also have to take care of transferring the money from sponsor
 - If you have your own company, you can just invoice them and pay for the costs. That's probably the simplest way.
 - If you don't have your own company, ask the local Python community or your friends if they can help with that. If there's a Django/Python Association in your country you can ask them for help as well. If you handle the money transfer through a friend's company, keep in mind that you will most likely have to pay taxes on the money you receive. The amount varies from country to country.
 - You can also ask sponsors to pay for food/printing directly.
-- You can use a service like [Open Collective](https://opencollective.com/) that will legally handle money for your event (not free). If you plan to do that, [contact us](mailto:hello@djangogirls.org) and we will help you.
+- You can use a service like [Open Collective](https://opencollective.com/) that will legally handle money for your event (not free). 
 
 Make sure to tell the sponsors when you need the money. Money transfer can take a few days and you will have to pay for some things like printing t-shirts or bags beforehand. Make sure to have all the money in your bank account at least 1-2 weeks before the workshop so you don't get into trouble or have to organize some things last minute.
 
