@@ -21,8 +21,8 @@ Sponsors are of course free to hang out during the event and talk to attendees d
 The usual offer is to give sponsors an opportunity to showcase their product or service to people who are attending the event. That may include:
 
 - logo, description and link on the website
-- banner/roll-up in the venue during the event
-- flyers/gadgets distributed to attendees during the event
+- banner/roll-up in the venue during the event (in-person only)
+- flyers/gadgets distributed to attendees during the event (in-person, or digital copies can be emailed)
 - a couple of minutes for a sponsor to talk during the event
 - public thanks to them from your social media accounts
 - e-mail sent to attendees after the event (but sent by you on behalf of the sponsor!)
