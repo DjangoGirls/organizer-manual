@@ -4,7 +4,6 @@ There are several things that are important to remember when organizing a Django
 
 # Table of content for this chapter:
 
-- [Venue](./venue.md)
-- [Food](./food.md)
-- [Swag](./swag.md)
-- [Pictures and video](./pictures_video.md)
+- [Technical requirements](./tech_requirements.md)
+- [Software](./software.md)
+- [Pictures and screenshots](./pictures_and_screenshots.md)
