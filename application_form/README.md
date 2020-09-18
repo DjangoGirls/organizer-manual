@@ -1,6 +1,6 @@
 # Application process
 
-**The goal of Django Girls is to bring new people into technology, especially women. You're free to organize a mixed-gender groups for your event but women must have priority when applying.**
+**The goal of Django Girls is to bring new people into technology, especially women. You're free to organize a mixed-gender groups for your event but underrepresented genders must have priority when applying. For details on this, see [Who to target](./target.md).**
 
 The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with a computer can do it.
 
@@ -17,3 +17,4 @@ This chapter will cover how to create an application form for your event and how
 - [Create and manage the form](./create_manage_form.md)
 - [Selection](./selection.md)
 - [Communication](./communication.md)
+- [Who to target?](./target.md)
