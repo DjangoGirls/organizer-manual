@@ -1,10 +1,10 @@
-# Choosing attendees
+# Selection
 
-Attendees can apply to your event through the [application form](../application_form/create_manage_form.md). You can see all applications submitted to your event by going to an URL like that: http://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address).
+Attendees can apply to your event through the [application form](create_manage_form.md). You can see all applications submitted to your event by going to an URL like that: [http://djangogirls.org/yourcity/applications/](http://djangogirls.org/yourcity/applications/) \(remember to replace `yourcity` with your website address\).
 
-There you will see a list of all applications. You can filter them by state or RSVP status, you can see the details of each application and assign them to groups (accepted, rejected, waitlisted) as well as set their RSVP statuses (yes, no, waiting).
+There you will see a list of all applications. You can filter them by state or RSVP status, you can see the details of each application and assign them to groups \(accepted, rejected, waitlisted\) as well as set their RSVP statuses \(yes, no, waiting\).
 
-Check the [application form section](../application_form/create_manage_form.md) to learn how to create a form and use the applications manager on your website.
+Check the [application form section](create_manage_form.md) to learn how to create a form and use the applications manager on your website.
 
 ### How to choose attendees?
 
@@ -20,20 +20,14 @@ The order of applications is also not determined - we score in random order, so 
 
 You can score each application from 1 to 5.
 
-Here is a list of things we took into account when scoring (suggested by Daniele Procida):
+Here is a list of things we took into account when scoring \(suggested by Daniele Procida\):
 
 * what is the realistic benefit to the applicant?
-
 * what is the realistic benefit to others?
-
 * does the applicant have clear, specific, concrete, realistic ideas about what to do with the knowledge?
-
 * does the applicant have clear, specific, concrete, realistic ideas about how she will share it?
-
 * do I feel the applicant really, really wants this opportunity, or is it just an interesting offer to her?
-
 * what is the overall value for money, if the applicant is asking for funds?
-
 * what is my overall feeling about the application?
 
 As you can see, there were a lot of points we took into account when scoring. It was very, very hard to get in. If the application was not very detailed, the chance of it being accepted was very low. But writing a lot was not a recipe for success. We looked for concrete ideas and commitments in applications.
@@ -50,6 +44,7 @@ It's a good idea to create a waiting list. We informed people that they didn't g
 
 We had a number of people who said they won't manage to come even though they confirmed their attendance before. The waiting list worked very well in this scenario.
 
-Be prepared to have some last minute (as in, one day before the workshops) cancellations. It's normal. As long as you have people who can fill in, don't worry.
+Be prepared to have some last minute \(as in, one day before the workshops\) cancellations. It's normal. As long as you have people who can fill in, don't worry.
 
-To help you keep an up to date list of attendees, you can add `declined` status to those applicants in your application page (https://djangogirls.org/yourcity/applications/ (replace `yourcity` with your website address)).
+To help you keep an up to date list of attendees, you can add `declined` status to those applicants in your application page \([https://djangogirls.org/yourcity/applications/](https://djangogirls.org/yourcity/applications/) \(replace `yourcity` with your website address\)\).
+

@@ -1,4 +1,4 @@
-# How to add coaches?
+# Add coaches
 
 You may want to list on your website the awesome people that will coach at your event.
 
@@ -6,13 +6,13 @@ You may want to list on your website the awesome people that will coach at your 
 * Go to `Website Contents`.
 * Click on the `Add Website Content` green button and you'll open this page:
 
-![](images/6.png)
+![](../.gitbook/assets/6.png)
 
 * Select your event in the `Event` field.
 * In `Name`, add `coaches`.
 * In content, you can copy-past this:
 
-```html
+```markup
 <h3>Coaches</h3>
 <p>Join these awesome people as Django Girls coach! Contact us!</p>
 ```
@@ -34,3 +34,4 @@ You may want to list on your website the awesome people that will coach at your 
 If you can't find your coaches on your website, check if `Is public` box of this section is checked.
 
 Once your event is done, you won't be able to edit any of those fields. If you need to do that, please send us an [email](mailto:hello@djangogirls.com).
+

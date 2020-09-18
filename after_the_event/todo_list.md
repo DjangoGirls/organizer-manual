@@ -1,4 +1,4 @@
-# After event TO DO list:
+# After event TO DO list
 
 ## Thank everyone
 
@@ -8,19 +8,20 @@ Make sure to reach out to your event's sponsors, tell them about how it went and
 
 Sometimes, attendees ask for a certificate of completion: we're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
 
-If you want, you can send people a [Happiness Packet](https://www.happinesspackets.io/) :)
+If you want, you can send people a [Happiness Packet](https://www.happinesspackets.io/) :\)
 
 ## Inform participants where they can look for help
 
 The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
-- Invite them to our Gitter chat
-- Give them a list of local events and meetups
-- Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
-- Maybe even organize a follow up meeting to meet for a coffee? :) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
+
+* Invite them to our Gitter chat
+* Give them a list of local events and meetups
+* Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
+* Maybe even organize a follow up meeting to meet for a coffee? :\) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
 
 ## Evaluation form for participants and coaches
 
-It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :)?
+It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :\)?
 
 Make sure the forms are anonymous. Please note that if you ask for their coaches name, the form is not so anonymous anymore.
 
@@ -47,7 +48,7 @@ After your event is done, we will contact you to thank you and to hear about you
 5. What was the cost of your event and were you able to cover the cost of the event by finding sponsors?
 6. Anything else you want to share with us?
 
-Thanks a lot <3
+Thanks a lot &lt;3
 
 ## Share what you learn in the Django Girls Organizers group
 
@@ -57,4 +58,5 @@ If you want to, you can also share everything with the Django Girls Organizer gr
 
 Share with the world how awesome it was! Consider following [Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) and [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014) describing your whole event on our blog. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Django Girls event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Django Girls in your city is awesome!
 
-You can submit your [blog post here](http://blog.djangogirls.org/submit). We will review it and contact you soon :)
+You can submit your [blog post here](http://blog.djangogirls.org/submit). We will review it and contact you soon :\)
+

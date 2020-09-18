@@ -1,6 +1,8 @@
-# When you're ready!
+# When you're ready
 
-## Checklist
+## When you're ready!
+
+### Checklist
 
 Did you...
 
@@ -10,17 +12,17 @@ Did you...
 
 Then you're go to go!
 
-## Activate your website
+### Activate your website
 
 To make your website available to everyone, click on `Events` in the left menu and click on your event in the list. You'll obtain this:
 
-![](images/7.png)
+![](../.gitbook/assets/7.png)
 
 When your website is ready, check the `Website is ready` checkbox and save your page. Tada: your website is now online!
 
 Remember that you don't need to make it "live" to test your website: as an administrator of your website, you'll always be able to access it.
 
-# Order a Workshop box
+## Order a Workshop box
 
 To help you reduce the cost of your event, we created a `Workshop box` full of stickers, name tags, badges and balloons. To order it, [go to our store](https://store.djangogirls.org/products/django-girls-workshop-box).
 
@@ -31,3 +33,4 @@ If your event is taking place in a [developing country](https://en.wikipedia.org
 * You need to order it at least 6 weeks before workshop to allow for shipping time
 
 When you meet all those requirements, [send us an email](mailto:hello@djangogirls.org).
+

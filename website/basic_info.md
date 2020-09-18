@@ -1,17 +1,18 @@
-# How to change basic information about your event
+# Edit basic information
 
 ## Edit website information
 
 To edit basic information about your event website:
+
 * Click on `Events` in the left menu.
 * Click on your event website in the table. You will get you this page:
 
-![](images/7.png)
+![](../.gitbook/assets/7.png)
 
 ### `Event info` section:
 
 * `Name`, `City`, `Country`, `Page URL`: They represent the name of your event, where it's happening and its website address. You can't edit those fields: if you need to do that, please [contact us](mailto:hello@djangogirls.com).
-* `Date`: You can edit this field if you need to set a more precise date, postpone or delay an event. If you need to cancel your workshop, keep us posted ;)
+* `Date`: You can edit this field if you need to set a more precise date, postpone or delay an event. If you need to cancel your workshop, keep us posted ;\)
 
 ### `Event main picture` section:
 
@@ -31,7 +32,7 @@ Once your event is done, you won't be able to edit any of those fields. If you n
 
 ### `Statistics` section:
 
-`Number of applicants` and `Number of attendees`: when your event is done, don't forget to fill those fields. It will help us keep track of how many people attend Django Girls workshop :)
+`Number of applicants` and `Number of attendees`: when your event is done, don't forget to fill those fields. It will help us keep track of how many people attend Django Girls workshop :\)
 
 Don't forget to save your modifications by clicking on the `Save` button in the right menu.
 
@@ -59,3 +60,4 @@ In your admin interface:
 * Confirm you want to remove the person.
 
 Redo those steps for every organizer you want to remove.
+

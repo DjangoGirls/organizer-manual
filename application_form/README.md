@@ -1,5 +1,7 @@
 # Application process
 
+## Application process
+
 **The goal of Django Girls is to bring new people into technology, especially women. You're free to organize a mixed-gender groups for your event but women must have priority when applying.**
 
 The tutorial is designed for total beginners, so no programming background is needed. Basically, any person with a computer can do it.
@@ -10,10 +12,10 @@ The only way you can measure somebody's commitment is their application form. Ma
 
 This chapter will cover how to create an application form for your event and how to select attendees.
 
+## Table of content for this chapter:
 
-# Table of content for this chapter:
- 
-- [When should I open registration?](./opening_registration.md)
-- [Create and manage the form](./create_manage_form.md)
-- [Selection](./selection.md)
-- [Communication](./communication.md)
+* [When should I open registration?](opening_registration.md)
+* [Create and manage the form](create_manage_form.md)
+* [Selection](selection.md)
+* [Communication](communication.md)
+

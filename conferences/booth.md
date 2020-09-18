@@ -1,6 +1,6 @@
-# Table/booth
+# Booth during a conference
 
-Attending your first tech conference can be scary, even when you're not an absolute beginner! A well-placed booth will give the workshop participants a "home base", where they can return to if they feel lost. Having a booth also gives a chance for the participants (new graduates!) to act as subject matter experts, as conference attendees tend to walk up and ask questions.
+Attending your first tech conference can be scary, even when you're not an absolute beginner! A well-placed booth will give the workshop participants a "home base", where they can return to if they feel lost. Having a booth also gives a chance for the participants \(new graduates!\) to act as subject matter experts, as conference attendees tend to walk up and ask questions.
 
 Some tips and suggestions for a successful booth:
 
@@ -10,21 +10,20 @@ Some tips and suggestions for a successful booth:
 * Write down and pay special attention to all the peak times at the booth, such as lunch, coffee breaks, breakfast, and make sure that the core organizers are present during those times.
 * Make sure that the conference provides you with at least 1-2 power adapters/extension cords, as conferences do not always provide these! Optional: Arrange for a computer monitor where you can run a slideshow of previous Django Girls workshop photos, demo the tutorial in action, etc.
 
-
 ## Decorations
 
 Decorations for the booth are up to you and are super-important to drive traffic to your booth! Here are some options/suggestions based on past DG booths:
 
 * Printed tablecloths
-* LED lightstrips (that you can control with a Raspberry Pi!)
+* LED lightstrips \(that you can control with a Raspberry Pi!\)
 * [Brown packing paper](https://www.amazon.co.uk/750mm-Heavy-Brown-Kraft-Wrapping/dp/B00684AYTY/) + [white/black/gold markers](https://www.amazon.co.uk/gp/product/B00BSR8OFC) and someone with nice handwriting
 * [Gold balloons](https://www.ebay.com/itm/16-40-Gold-Silver-Foil-Letter-Number-Balloons-Birthday-Wedding-Party-Decoration-/141467803149)
 * Flowers in pots, or if you can't get pots, use old cans + gold spray paint!
-* Workshop poster with the sponsor logos (you can just move the posters that you printed for the workshop and hang them on the walls or on boards).
+* Workshop poster with the sponsor logos \(you can just move the posters that you printed for the workshop and hang them on the walls or on boards\).
 
 ## Swag
 
-* When you order swag for the workshop, choose a few key cheap items (like pens, buttons, or stickers) and order double/triple/etc so that you have enough to give away at the conference.
+* When you order swag for the workshop, choose a few key cheap items \(like pens, buttons, or stickers\) and order double/triple/etc so that you have enough to give away at the conference.
 * More expensive items such as tote bags or shirts can be sold at the booth for donations. Make sure to get a tip jar for cash, and also some form of online payment such as bigcartel.com or tictail.com, for people who want to pay with their credit cards.
 * Print little cards/flyers with links to the organizer manual, coaching manual, email to hello@djangogirls.org, to give out to people who want to organize or coach future workshops.
 * If you're planning to sell swag, you can use [mini-blackboard signs](https://www.ebay.com/itm/Hot-Sales-Mini-Small-Wood-Blackboard-Wedding-Buffet-Blackboards-Chalkboards-/351214608057) to highlight the price.
@@ -42,7 +41,8 @@ Decorations for the booth are up to you and are super-important to drive traffic
 
 ## Warnings
 
-* Do not leave the booth unattended! Depending on the conference, you might be able to leave basic swag overnight, but anything that is worth money like swag for sale, monitors, and tip jar (with money of course) must be either watched by someone at the booth or taken with you when you leave.
+* Do not leave the booth unattended! Depending on the conference, you might be able to leave basic swag overnight, but anything that is worth money like swag for sale, monitors, and tip jar \(with money of course\) must be either watched by someone at the booth or taken with you when you leave.
 * Don't waste money on foody swag, and don't be tempted to give away shirts or bags. Unlike the big corporations, we are operating independently and on a donation basis, and conferences provide enough food to all attendees that we don't need to supplement it!
 * Don't let people leave their bags, jackets, or laptops in the booth unless they are on shift and can fit their items under the table or somewhere hidden. You might end up with a closet more than a booth!
 * Keep the table tidy! Cups, cans, bottles, unfinished food... They look a mess and clutter the table.
+

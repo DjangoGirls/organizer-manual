@@ -1,3 +1,4 @@
+# Software
 
 Even though there are less logisical requirements for remote workshops than for thise in -person, coordinating activities such as pre-installation workshops, getting everyone online and in their groups, making sure participants are familiar with the conferencing software and being available to support if they have questions can still be challenging. It is important to make sure that before your workshop starts, your organising team, and where possible your coaches, have had chance to use your chosen conferencing and team chat software and are familiar with the features you will be using. This will help you iron out any potential issues and make sure everyone knows what they're doing on the day.
 
@@ -5,13 +6,13 @@ Even though there are less logisical requirements for remote workshops than for 
 
 Here is a list of some conferencing software that you may wish to use for your workshop. This list is not exhaustive and you are welcome to use whichever tools work best for you and your circumstances.
 
-* Zoom (paid)
+* Zoom \(paid\)
 * Microsoft Teams
 * Google Hangouts
-* Cisco Webex (paid)
+* Cisco Webex \(paid\)
 * Google Meet
-* Zoho Meetings (paid)
-* Hopin (paid)
+* Zoho Meetings \(paid\)
+* Hopin \(paid\)
 
 Paid for applications also offer free versions with limited features and free trials of paid for versions. Depending on your requirements, you may be able to host your workshop using a free or trial version, or you may be able to cover the cost of a subscription with sponsorship.
 
@@ -24,3 +25,4 @@ Here is a list of some team chat software that you may wish to use alongside you
 * Slack
 * Discord
 * Google Hangouts
+

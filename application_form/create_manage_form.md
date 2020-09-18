@@ -1,4 +1,4 @@
-# Create and manage the application form
+# Create and manage the form
 
 ## Create a form for your event website
 
@@ -11,19 +11,19 @@ To do that:
 * Click on the `+ Add form` green button on the right.
 * You'll obtain this page:
 
-![](images/1.png)
+![](../.gitbook/assets/1.png)
 
 Now, you need to edit every field:
 
 * `Text description`: it's the header of your form. It will appear at the top of the apply page like this:
 
-![](images/2.png)
+![](../.gitbook/assets/2.png)
 
 * `Confirmation email`: This email will be automatically send from your city@djangogirls.org to all applicants after they submit an applications.
-* `Application process is open from/until`: Both fields are mandatory. Potential attendees will be able to register only during this period. After that, the form will be automatically deactivated and they won't be able to reach http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website).
+* `Application process is open from/until`: Both fields are mandatory. Potential attendees will be able to register only during this period. After that, the form will be automatically deactivated and they won't be able to reach [http://djangogirls.org/yourcity/apply](http://djangogirls.org/yourcity/apply) \(replace `yourcity` with url to your city website\).
 * Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
-Once you've saved the form, you can access it by going here: http://djangogirls.org/yourcity/apply (replace `yourcity` with url to your city website).
+Once you've saved the form, you can access it by going here: [http://djangogirls.org/yourcity/apply](http://djangogirls.org/yourcity/apply) \(replace `yourcity` with url to your city website\).
 
 ## Add a link from your event website to your form
 
@@ -33,11 +33,11 @@ The link to your form will be automatically created. If you want to check if eve
 * Click on `Events` in the left menu.
 * Click on `Website contents`.
 * Click on `apply` in the list.
-* Check if ` <a class="btn" href="apply">Register</a>` is there or add it.
+* Check if `<a class="btn" href="apply">Register</a>` is there or add it.
 
 ## Open the application form
 
-The application form will be automatically open at the hour and date you chose when you created it. Note: we have a [timezone problem](https://github.com/DjangoGirls/djangogirls/issues/240)! If your form is supposed to be open, check the hour in the top part of the admin interface and replace `Application process is open from` by this time. It should fix the problem. Sorry :(
+The application form will be automatically open at the hour and date you chose when you created it. Note: we have a [timezone problem](https://github.com/DjangoGirls/djangogirls/issues/240)! If your form is supposed to be open, check the hour in the top part of the admin interface and replace `Application process is open from` by this time. It should fix the problem. Sorry :\(
 
 ## Close the application form
 
@@ -45,13 +45,13 @@ Your form will be automatically closed at the date you chose when you created it
 
 To prevent any confusion and minimize the "can I still register?/when will I received an answer?" emails, we strongly recommend you to replace the content of `apply` section of your website by this text:
 
- `Registrations are now closed: we received many applications and are now evaluating them. Acceptance emails will be sent soon!`
+`Registrations are now closed: we received many applications and are now evaluating them. Acceptance emails will be sent soon!`
 
 ## How to find applicants answers?
 
 To find and evaluate all applications submitted to your event:
 
-* Go to an URL like that: https://djangogirls.org/yourcity/applications/ (remember to replace `yourcity` with your website address)
+* Go to an URL like that: [https://djangogirls.org/yourcity/applications/](https://djangogirls.org/yourcity/applications/) \(remember to replace `yourcity` with your website address\)
 
 Or:
 
@@ -98,16 +98,17 @@ Do not remove the question about the Code of Conduct: remember that each event h
 * Create the new content.
 * Don't forget to save your modifications by clicking on the `save` blue button on the right.
 
-It is also a good idea to ask about previous experience in fields like programming (any language), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English. Even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
+It is also a good idea to ask about previous experience in fields like programming \(any language\), Python, CSS, HTML, Django, databases etc. With that information, you will be able to team up people based on their levels of experience. Ask your attendees what language they are comfortable with. Some of your coaches might only speak English so they will need to coach a group who is comfortable being taught in English. Even if there isn't a translation of your tutorial in your country's language available yet, you can at least make sure that the attendees feel comfortable by having a coach who speaks their language.
 
 ## Financial aid questions
 
 If you offer a financial assistance to your attendees, here is a list of example questions:
 
-1. Do you need financial assistance to come and stay in [city]?
+1. Do you need financial assistance to come and stay in \[city\]?
 2. What is your current financial situation? Tell us why you need financial assistance.
 3. How much money do you need? Give us an exact amount of Euro/dollars you need. Try to break down costs.
 
 ## What should I do if something isn't working?
 
 First, you can look at our [FAQ](https://faq-organizers.djangogirls.org/) to see if your question isn't already answered there. If not, try to contact other organizers on [Slack](https://djangogirls.slack.com/) or [Google Groups](https://groups.google.com/forum/#!forum/django-girls-organizers): they'll be happy to help you! If after doing that you're still stuck, contact the [Support Team](mailto:hello@djangogirls.org).
+
