@@ -13,9 +13,9 @@ Make sure to tell the sponsors when you need the money. Money transfer can take 
 
 ## Invoices
 
-We have prepared sample invoice for the PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain.
+We have prepared a sample invoice for the PSF. They usually sponsor Django Girls events so it might just be something useful for you. You can also use them as an example of how to create an invoice and what should it contain.
 
 You can access the invoice [on google drive](https://drive.google.com/folderview?id=0Bxl42ERX5iVAfjM0SWtlaC0xaHd1cUZDWXdCajVxdW9FVmhLd2pQTHdnazVWa01fN1pvOXc&usp=sharing).
 
-Open the file and choose `File` &gt; `Make a copy`. In your invoice you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
+Open the file and choose `File` &gt; `Make a copy`. In your invoice, you will have to fill the missing details. This has to be done with special care and attention. You can't make mistakes here because it may result in not receiving money before the event.
 

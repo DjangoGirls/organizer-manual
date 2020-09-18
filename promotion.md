@@ -12,7 +12,7 @@ If you're working with a big company as a sponsor, maybe their PR department can
 
 ## Facebook, Twitter, social media
 
-Getting the word out via social media is pretty easy today. Create a Facebook page, Twitter profile or fanpage on whatever service you use in your city and ask your friends to help you spread the word. People share things really easily, and that has been by far the most effective source for us too.
+Getting the word out via social media is pretty easy today. Create a Facebook page, Twitter profile or fan page on whatever service you use in your city and ask your friends to help you spread the word. People share things really easily, and that has been by far the most effective source for us too.
 
 Go to the [resources chapter](resources.md) to find logos, images and photos you can use on your social media profiles.
 
@@ -42,5 +42,5 @@ Go to our [resources page](resources.md) to find posters and flyers we already c
 
 ## Recommendations
 
-In your application form you can ask women to give you e-mails to women who they would recommend to be part of the workshop. Send them personal invitations and encourage them to apply.
+In your application form, you can ask women to give you e-mails to women who they would recommend to be part of the workshop. Send them personal invitations and encourage them to apply.
 
