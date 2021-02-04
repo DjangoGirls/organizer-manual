@@ -7,12 +7,22 @@ Even though there are less logisical requirements for remote workshops than for 
 Here is a list of some conferencing software that you may wish to use for your workshop. This list is not exhaustive and you are welcome to use whichever tools work best for you and your circumstances.
 
 * Zoom \(paid\)
-* Microsoft Teams
+* Microsoft Teams - free through Django Girls!
 * Google Hangouts
 * Cisco Webex \(paid\)
 * Google Meet
 * Zoho Meetings \(paid\)
 * Hopin \(paid\)
+
+We can now offer Teams access to Django Girls workshop organisers for free. Each workshop can request a Microsoft Business Basic account by emailing hello@djangogirls.org. We have a limited number of free accounts, which means priority will be given to workshops in developing countries, and once your workshop has finished you will lose access so that this can be granted to another workshop to use.
+
+Our free Business Basic account allows you to use Teams with the following features:
+* Online meetings video/calling for up to 300 participants
+* Maximum meeting duration of 24 hours
+* Screen sharing
+* Customized backgrounds
+* Meeting recordings
+* Chat and collaboration
 
 Paid for applications also offer free versions with limited features and free trials of paid for versions. Depending on your requirements, you may be able to host your workshop using a free or trial version, or you may be able to cover the cost of a subscription with sponsorship.
 
