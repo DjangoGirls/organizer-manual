@@ -18,6 +18,9 @@ The goal of Django Girls is to shape future software developers, so we shouldn't
 * Give them a list of local events and meetups
 * Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
 * Maybe even organize a follow up meeting to meet for a coffee? :\) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
+* [Webucator](https://www.webucator.com/), a global sponsor of Django Girls, has made its library of self-paced courses free for participants who complete a Django Girls workshop. 
+Contact Webucator at [djangogirls@webucator.com](mailto:djangogirls@webucator.com) to arrange for a coupon code, which you can give to workshop participants. Participants will be able to use the coupon to register for any of Webucator self-paced courses. 
+Click the **Free Classes for Django Girls** button on <https://www.webucator.com/catalog/django-training/> for information on registering.
 
 ## Evaluation form for participants and coaches
 
