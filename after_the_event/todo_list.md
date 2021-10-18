@@ -38,7 +38,7 @@ We want to build a global community of women who help each other, empower each o
 
 ## Send remaining funds to Django Girls
 
-If you have any remaining funds from your sponsors, you can use the one time donation box on the [donation page](https://djangogirls.org/donate) to send money to [Django Girls Foundation](https://djangogirls.org/foundation/). It will help us fund more [Workshop Boxes](https://djangogirls.org/workshop-box) for other events that can't afford them.
+If you have any remaining funds from your sponsors, you can use the one time donation box on the [donation page](https://djangogirls.org/donate) to send money to [Django Girls Foundation](https://djangogirls.org/foundation/). It will help us fund more Workshop Boxes for other events that can't afford them.
 
 ## Let us know how it went!
 
