@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Environment](environment.md)
 * [Tutorial](tutorial.md)
+* [Cloud Development vs Local Installation](cloud_development/README.md)
 * [Coaches](coaches.md)
 * [In-Person Workshops](in_person_workshops/README.md)
   * [Step by step](in_person_workshops/step_by_step/README.md)
