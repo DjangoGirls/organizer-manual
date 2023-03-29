@@ -50,12 +50,11 @@ Let's see how organizing a Django Girls event looks on the timeline:
 ### 2 months before
 
 * [Launch the application process for attendees](../../application_form/). You'll want to keep the application open for at least 1 month, and the selection process usually takes 1-2 weeks. Of course, you can launch this at the same time that you announce the Website!
-* After you launch the application process, order a [Workshop Box](https://djangogirls.org/workshop-box). This nifty little starter kit includes stickers, balloon letters, buttons, name tags, and other goodies so that you don't have to produce them yourself.
 * Finalize the list of coaches. Generally, a 3:1 ratio of attendee/coach is recommended. So for example, if your workshop has a maximum capacity of 30 attendees, you'll want to recruit at least 10 coaches, with 1 meta-coach to help and support the coaching team.
 * Finalize and announce the venue. Normally, the venue will be sponsored, so you can combine a sponsor welcome announcement with the venue announcement. Make sure to update the Website with the venue information.
 * [Start looking for catering](../venue/food.md). If the venue doesn't provide you with catering, you might want to reach out to local restaurants, cafes, bakeries, to pre-order lunch, snacks, drinks, and so on.
 * Continue to look for sponsors. You can consult with your coaches for suggestions on which sponsors they can connect you with, post a request on Slack, or use social media to increase the search range.
-* [Order swag](../venue/swag.md). Besides the Workshop Box, if you have the budget you can order shirts for coaches, notebooks, tote bags, or maybe print some posters. The [resources repository on GitHub](https://github.com/DjangoGirls/resources/) should have everything you need.
+* [Order swag](../venue/swag.md). If you have the budget you can order shirts for coaches, notebooks, tote bags, or maybe print some posters. The [resources repository on GitHub](https://github.com/DjangoGirls/resources/) should have everything you need.
 * Find a [photographer](../venue/pictures_video.md). A nice-to-have, if you have friends or volunteers who can document the workshop day, it can be a really nice souvenir and you can add pictures to the [Django Girls Flickr stream](https://www.flickr.com/photos/djangogirls/albums) or use them in blog posts.
 
 ### 1 month before
