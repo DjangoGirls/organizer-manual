@@ -15,5 +15,5 @@ If you are not sure if it is safe to hold an in-person workshop, you might prefe
 * [Accessibility](accessibility/)
 * [Costs](https://github.com/DjangoGirls/organizer-manual/tree/a39f39d6eff5fbd557d71d4b6d7414de32d5fdee/in_person_workshops/costs.md)
 * [Sponsors](in_person_sponsors/)
-* [DIY](https://github.com/DjangoGirls/organizer-manual/tree/a39f39d6eff5fbd557d71d4b6d7414de32d5fdee/in_person_workshops/diy.md)
+* [DIY](https://github.com/DjangoGirls/organizer-manual/tree/a39f39d6eff5fbd557d71d4b6d7414de32d5fdee/in_person_workshops/diy)
 
