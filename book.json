@@ -2,10 +2,14 @@
     "gitbook": ">=3.1.1",
     "plugins": [
         "heading-anchors",
+        "github",
         "sidebar-ads",
         "collapsible-chapters"
     ],
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/DjangoGirls/organizer-manual"
+        },
         "sidebar-ads": {
             "ads": [
                     {
