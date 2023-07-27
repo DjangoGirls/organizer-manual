@@ -69,4 +69,5 @@
   * [Meetup and follow-up examples](after_the_event/meetup_examples.md)
 * [GDPR and Data Privacy Compliance](gdpr.md)
 * [FAQ](faq.md)
+* [Contributing](contributing/README.md)
 
