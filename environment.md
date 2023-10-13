@@ -12,7 +12,7 @@ Do selfies or Friday Hugs. Let people know that they're doing a great job and ar
 
 ## Remote workshops
 
-If you're hosting a remote workshop finding a place to focus can be a challenge for attendees who are participating from home. Explain to attendees and coaches that it is important they find a quiet place free from distractions as much as possible during the workshop. This will ensure your attendees get the most out of the experience. You may also want to advise attendees that using two screens would be beneficial where possible. This means that they can have the tutorial on one screen and your code on the other screen, so you do not have to switch back and forth.
+If you're hosting a remote workshop finding a place to focus can be a challenge for attendees who are participating from home. Explain to attendees and coaches that it is important they find a quiet place free from distractions as much as possible during the workshop. This will ensure your attendees get the most out of the experience. You may also want to advise attendees that using two screens would be beneficial where possible. This means that they can have the tutorial on one screen and their code on the other screen, so they do not have to switch back and forth.
 
 ## Code of Conduct
 
