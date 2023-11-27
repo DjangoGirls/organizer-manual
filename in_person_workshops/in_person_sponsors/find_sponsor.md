@@ -35,7 +35,7 @@ If you have time for that, we really recommend creating a simple Sponsorship Off
 
 You can use the [Sponsorship Offer](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) we prepared for our first event and modify it to your needs.
 
-Price your sponsorships in a range of 300 - 1000 Euro, but remember that even the smallest contributions are important.
+Price your sponsorships in a range of 500 - 1500 Euro, but remember that even the smallest contributions are important.
 
 ## Who can be a sponsor?
 
