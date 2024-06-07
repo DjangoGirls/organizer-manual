@@ -20,7 +20,7 @@ If you can't do the Installation Party in person, make sure that coaches contact
 
 **8.30am** Doors open/log in to conferencing software, breakfast is served \(in-person only\), early registration starts.
 
-**9am** Welcome everyone, do a short presentation explaining what we're going to do today and what the schedule looks like. Make sure they know they're awesome - the impostor syndrome is strong and you need to break the ice and ensure them they can do it.
+**9am** Welcome everyone, do a short presentation explaining what we're going to do today and what the schedule looks like. Make sure they know they're awesome - the impostor syndrome is strong and you need to break the ice and reassure them they can do it.
 
 **9.30am** The workshop starts! Teams and coaches should now get to work in groups and follow the [tutorial](../../tutorial.md).
 
