@@ -20,7 +20,7 @@ __8pm__ Invite everyone for a little pre-party to a cafe nearby.
 
 __8.30am__ Doors open/log in to conferencing software, breakfast is served (in-person only), early registration starts.
 
-__9am__ Welcome everyone, do a short presentation explaining what we're going to do today and what the schedule looks like. Make sure they know they're awesome - the impostor syndrome is strong and you need to break the ice and ensure them they can do it.
+__9am__ Welcome everyone, do a short presentation explaining what we're going to do today and what the schedule looks like. Make sure they know they're awesome - the impostor syndrome is strong and you need to break the ice and reassure them they can do it.
 
 __9.30am__ The workshop starts! Teams and coaches should now get to work in groups and follow the [tutorial](../tutorial/README.md).
 
