@@ -65,7 +65,6 @@ Let's see how organizing a Django Girls event looks on the timeline:
 * Make sure attendees confirmed their attendance. Don't worry if some applicants don't respond by the time that you set, simply move on to the next person on the waiting list.
 * [Verify that all the logistics are figured out](../logistics.md).
 * Reach out to potential guest speakers. Often, the workshop attendees come from different walks of life and aren't familiar with many aspects of open-source communities.
-* Email [Webucator](https://www.webucator.com/) at [djangogirls@webucator.com](mailto:djangogirls@webucator.com) to get a coupon code for your workshop. This will give your participants free access to Webucator's self-paced courses.
 
 ### 2 weeks before
 
